@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1986434564739436866",
+    "created_at": "2025-11-07T11:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T12:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986764103696953618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981563709102477312",
+          "start": 0,
+          "username": "yui804275429451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986764103696953618",
+    "in_reply_to_user_id": "1981563709102477312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986434564739436866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yui804275429451 哥们觉得自己是夜神月你不是他的弥海砂呢😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986434555046469635",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5E7tAcbIAMPbvq.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1986434564739436866",
+        "created_at": "2025-11-07T11:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T12:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986764103696953618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981563709102477312",
+              "start": 0,
+              "username": "yui804275429451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986764103696953618",
+        "in_reply_to_user_id": "1981563709102477312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986434564739436866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yui804275429451 哥们觉得自己是夜神月你不是他的弥海砂呢😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986434555046469635"
+          ]
+        },
+        "author_id": "1981563709102477312",
+        "conversation_id": "1986434564739436866",
+        "created_at": "2025-11-06T14:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T15:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986434564739436866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gH30tioZLe",
+              "end": 79,
+              "expanded_url": "https://x.com/yui804275429451/status/1986434564739436866/photo/1",
+              "media_key": "3_1986434555046469635",
+              "start": 56,
+              "url": "https://t.co/gH30tioZLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986434564739436866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2281,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被恶心的人攻击就是会生气呀 没有歧视的意思 但有些人就是又丑又没素质 被这种人骂感觉全身上下都有蟑螂在爬👊😾👊 https://t.co/gH30tioZLe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 84,
+          "like_count": 6182,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 2563
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T03:29:48.000Z",
+        "description": "永远可爱永远幸福",
+        "id": "1981563709102477312",
+        "location": "北校C栋",
+        "name": "rain",
+        "pinned_tweet_id": "1986500531519701099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984910597394505728/ts_obaKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 58,
+          "like_count": 700,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 380
+        },
+        "username": "yui804275429451",
+        "verified": false
+      }
+    ]
+  }
+}

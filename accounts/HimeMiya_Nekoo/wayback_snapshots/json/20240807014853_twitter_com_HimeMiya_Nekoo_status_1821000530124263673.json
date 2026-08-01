@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1821000093811744980",
+    "created_at": "2024-08-07T01:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T02:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821000530124263673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1799769161603993600",
+          "start": 0,
+          "username": "XXx_QWu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821000530124263673",
+    "in_reply_to_user_id": "1799769161603993600",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821000093811744980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XXx_QWu おはよう〜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1821000093811744980",
+        "created_at": "2024-08-07T01:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T02:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821000530124263673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1799769161603993600",
+              "start": 0,
+              "username": "XXx_QWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821000530124263673",
+        "in_reply_to_user_id": "1799769161603993600",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821000093811744980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XXx_QWu おはよう〜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799769161603993600",
+        "conversation_id": "1821000093811744980",
+        "created_at": "2024-08-07T01:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T02:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821000093811744980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821000093811744980",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "おはよ〜☀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1819367681000460701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 52,
+          "like_count": 114,
+          "listed_count": 0,
+          "tweet_count": 79
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T11:43:16.000Z",
+        "description": "病み垢 メンヘラちゃんでもあいしてね おきに↻ @MIO_x0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 24,
+                "username": "MIO_x0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/XXx_QWu/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/XXx_QWu/",
+                "start": 0,
+                "url": "https://t.co/RtH75B9jWt"
+              }
+            ]
+          }
+        },
+        "id": "1799769161603993600",
+        "name": "くぅあ",
+        "pinned_tweet_id": "1817562587246338255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817891281902985218/64OPSEzM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 715,
+          "like_count": 6102,
+          "listed_count": 14,
+          "tweet_count": 1467
+        },
+        "url": "https://t.co/RtH75B9jWt",
+        "username": "XXx_QWu",
+        "verified": false
+      }
+    ]
+  }
+}

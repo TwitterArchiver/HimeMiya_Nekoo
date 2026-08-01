@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1986458324012048645",
+    "created_at": "2025-11-07T10:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T11:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986735406021546198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757616332240224256",
+          "start": 0,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986735406021546198",
+    "in_reply_to_user_id": "1757616332240224256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986458324012048645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_cat38324 给我芋芋症笑好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1986458324012048645",
+        "created_at": "2025-11-07T10:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T11:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986735406021546198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986735406021546198",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986458324012048645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 给我芋芋症笑好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1986458324012048645",
+        "created_at": "2025-11-06T15:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T16:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986458324012048645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rabbit_Pussy/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Rabbit_Pussy/status/1986433214697906311",
+              "start": 9,
+              "url": "https://t.co/TQNfGm5q0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986458324012048645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 17380,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986433214697906311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中医为啥是邪教啊 https://t.co/TQNfGm5q0q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 84,
+          "like_count": 6183,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 2561
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21004,
+          "following_count": 197,
+          "like_count": 657,
+          "listed_count": 70,
+          "media_count": 93,
+          "tweet_count": 20713
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

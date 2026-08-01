@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2040708063104286780",
+    "created_at": "2026-04-05T08:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T09:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040708063104286780"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040708063104286780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得自残没错、不自残也没错、表达自己要自残也没错就和自杀一样，有错的从来都是让别人去死的和表达别人怎么还不去死的，世界上上有一千万种方式表达痛苦、a和b罢了没有哪个是更正常的、他们都正确但我讨厌看到那种因为割的不深就被冷嘲热讽的人了，他们只是怕痛又不是不痛（虽然要是没人管我我还割"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2040708063104286780",
+        "created_at": "2026-04-05T08:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040708063104286780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040708063104286780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得自残没错、不自残也没错、表达自己要自残也没错就和自杀一样，有错的从来都是让别人去死的和表达别人怎么还不去死的，世界上上有一千万种方式表达痛苦、a和b罢了没有哪个是更正常的、他们都正确但我讨厌看到那种因为割的不深就被冷嘲热讽的人了，他们只是怕痛又不是不痛（虽然要是没人管我我还割"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（丁莉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 28,
+          "like_count": 7254,
+          "listed_count": 4,
+          "media_count": 191,
+          "tweet_count": 3780
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      }
+    ]
+  }
+}

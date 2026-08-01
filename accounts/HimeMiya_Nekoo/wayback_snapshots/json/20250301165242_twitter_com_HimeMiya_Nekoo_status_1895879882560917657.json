@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1895878908085690690",
+    "created_at": "2025-03-01T16:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T17:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895879882560917657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889721455245434880",
+          "start": 0,
+          "username": "cpany1227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895879882560917657",
+    "in_reply_to_user_id": "1889721455245434880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895879441731240381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cpany1227 干嘛要那样做"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1895878908085690690",
+        "created_at": "2025-03-01T16:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T17:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895879882560917657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889721455245434880",
+              "start": 0,
+              "username": "cpany1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895879882560917657",
+        "in_reply_to_user_id": "1889721455245434880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895879441731240381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cpany1227 干嘛要那样做"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889721455245434880",
+        "conversation_id": "1895878908085690690",
+        "created_at": "2025-03-01T16:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T17:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895879441731240381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895879441731240381",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895878908085690690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 杜绝了我想用手掐灭烟头的想法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "你的心里♡",
+        "name": "🎀音恋✞Mia🎀（算了变成游戏版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 89,
+          "like_count": 3298,
+          "listed_count": 3,
+          "media_count": 55,
+          "tweet_count": 1078
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T17:01:29.000Z",
+        "description": "聊天可d，已读就回",
+        "id": "1889721455245434880",
+        "location": "当时年少掷春光，花马踏蹄酒渐香",
+        "name": "痴心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892203458369126400/mCjmBCTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 324,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 108
+        },
+        "username": "cpany1227",
+        "verified": false
+      }
+    ]
+  }
+}

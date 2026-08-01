@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2079517892798992739",
+    "created_at": "2026-07-21T15:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T16:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079588464648188052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1317689258052710400",
+          "start": 0,
+          "username": "5oke_k29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079588464648188052",
+    "in_reply_to_user_id": "1317689258052710400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079517892798992739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5oke_k29 天…好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9730,
+        "height": 720,
+        "media_key": "13_2079517847659888640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079517847659888640/img/TwIOQQ2USKa-0Tku.jpg",
+        "public_metrics": {
+          "view_count": 125
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079517847659888640/vid/avc1/480x270/OyLswu6fLSTUCgaT.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079517847659888640/vid/avc1/640x360/W9pkgj20OtekQW2a.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079517847659888640/vid/avc1/1280x720/VlV3WE8DvL5MgZbC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079517847659888640/pl/8NIpvsJDUNDBK8mp.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2079517892798992739",
+        "created_at": "2026-07-21T15:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079588464648188052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079588464648188052",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079517892798992739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 天…好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079517847659888640"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2079517892798992739",
+        "created_at": "2026-07-21T10:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079517892798992739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJ8ambrRFY",
+              "end": 29,
+              "expanded_url": "https://x.com/5oke_k29/status/2079517892798992739/video/1",
+              "media_key": "13_2079517847659888640",
+              "start": 6,
+              "url": "https://t.co/GJ8ambrRFY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079517892798992739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 405,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这 巨美！ https://t.co/GJ8ambrRFY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的别烦我｜点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll许愿请来这里不要打扰我们天使妹｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室👉",
+        "name": "🎀音恋✞Mia🎀（查拉图斯特拉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 32,
+          "like_count": 8286,
+          "listed_count": 4,
+          "media_count": 253,
+          "tweet_count": 5013
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5177,
+          "following_count": 164,
+          "like_count": 966,
+          "listed_count": 9,
+          "media_count": 327,
+          "tweet_count": 2814
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

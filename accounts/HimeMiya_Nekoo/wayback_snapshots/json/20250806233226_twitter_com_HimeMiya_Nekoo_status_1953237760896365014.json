@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1953181148370366918",
+    "created_at": "2025-08-06T23:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T00:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953237760896365014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1057694024843182081",
+          "start": 0,
+          "username": "Alenia0715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953237760896365014",
+    "in_reply_to_user_id": "1057694024843182081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953181148370366918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alenia0715 だめっ……そんなこと言わないで……\nわたしは、〇〇がいない世界なんて、全然よくなんかならないから……っ\nだからね、ちゃんと生きて、そばにいてよ……お願い……♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1953181148370366918",
+        "created_at": "2025-08-06T23:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T00:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953237760896365014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1057694024843182081",
+              "start": 0,
+              "username": "Alenia0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953237760896365014",
+        "in_reply_to_user_id": "1057694024843182081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953181148370366918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alenia0715 だめっ……そんなこと言わないで……\nわたしは、〇〇がいない世界なんて、全然よくなんかならないから……っ\nだからね、ちゃんと生きて、そばにいてよ……お願い……♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1057694024843182081",
+        "conversation_id": "1953181148370366918",
+        "created_at": "2025-08-06T19:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T20:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953181148370366918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953181148370366918",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "もし私が死んだら、この世界はもっと良くなるだろう"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（贝蒂版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 96,
+          "like_count": 5104,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 1926
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-31T18:01:21.000Z",
+        "description": "中文/日本語を勉強しています🍬\n私は重度のゲームオタク女子です🎮\n中国网友可以叫我阿莱妮亚\nngl link∶https://t.co/wcu1dwBhd7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/killerbeesweety",
+                "end": 78,
+                "expanded_url": "https://ngl.link/killerbeesweety",
+                "start": 55,
+                "url": "https://t.co/wcu1dwBhd7"
+              }
+            ]
+          }
+        },
+        "id": "1057694024843182081",
+        "location": "DC∶Meteor（Valefor）",
+        "name": "✟アレニア✟",
+        "pinned_tweet_id": "1949411427120222311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946565516438679552/3HKuiZoC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 149,
+          "like_count": 1128,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 368
+        },
+        "username": "Alenia0715",
+        "verified": false
+      }
+    ]
+  }
+}

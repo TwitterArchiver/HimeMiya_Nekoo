@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1981931920171872441",
+    "created_at": "2025-10-25T03:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T04:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981932451388919974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1887365026513854464",
+          "start": 0,
+          "username": "chun6193"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981932451388919974",
+    "in_reply_to_user_id": "1887365026513854464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981931920171872441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chun6193 揉揉那我们不吃了不吃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1981931920171872441",
+        "created_at": "2025-10-25T03:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T04:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981932451388919974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1887365026513854464",
+              "start": 0,
+              "username": "chun6193"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981932451388919974",
+        "in_reply_to_user_id": "1887365026513854464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981931920171872441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chun6193 揉揉那我们不吃了不吃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887365026513854464",
+        "conversation_id": "1981931920171872441",
+        "created_at": "2025-10-25T03:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T04:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981931920171872441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981931920171872441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的一点都吃不下去我好想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 83,
+          "like_count": 6170,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 2445
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T04:57:50.000Z",
+        "description": "小终（曾用名鲭鱼球体｜venttwt｜｜5w4｜BD II型康复中｜homeschooling｜pan｜CESO省二｜欢迎私信欢迎找我玩！！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lunar-venus-b92.notion.site/1922888a790f80…",
+                "end": 23,
+                "expanded_url": "https://lunar-venus-b92.notion.site/1922888a790f80ea9a12fe3cc8634b3d?pvs=4",
+                "start": 0,
+                "url": "https://t.co/qT2zOVpqZF"
+              }
+            ]
+          }
+        },
+        "id": "1887365026513854464",
+        "name": "TranscendentalCatEnd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977216649578397697/4ko4Z9tV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 332,
+          "like_count": 5700,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 374
+        },
+        "url": "https://t.co/qT2zOVpqZF",
+        "username": "chun6193",
+        "verified": false
+      }
+    ]
+  }
+}

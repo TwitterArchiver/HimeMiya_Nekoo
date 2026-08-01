@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2024702725599219750",
+    "created_at": "2026-02-20T10:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T11:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024788399673242075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1957509667787325440",
+          "start": 0,
+          "username": "pleazdontleavme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024788399673242075",
+    "in_reply_to_user_id": "1957509667787325440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024702725599219750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pleazdontleavme 真好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2024702725599219750",
+        "created_at": "2026-02-20T10:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024788399673242075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "pleazdontleavme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024788399673242075",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024702725599219750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pleazdontleavme 真好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2024702725599219750",
+        "created_at": "2026-02-20T04:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T05:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024702725599219750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024702725599219750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 344,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是想吸毒 哪怕只是笑气也好 我对普瑞已经耐受了 我也没有钱买更优制的毒品 我现在很崩溃啊啊啊 我的未来将要去往何方 我属于哪里 我还不想陷入虚无主义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 55,
+          "like_count": 6911,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 3267
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "08女/bi/lgbt全友好/同类互fo/我叫下水道/可以扩列/自残穿孔od/cptsd/bpd/dpd/极度依赖/无药可救",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y69659y",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y69659y",
+                "start": 0,
+                "url": "https://t.co/JcxwpFXiEy"
+              }
+            ]
+          }
+        },
+        "id": "1957509667787325440",
+        "location": "Припять",
+        "name": "骯髒下水道里的卑劣嘔吐物",
+        "pinned_tweet_id": "2024317059778453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023757108576219139/uzRSkV9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 469,
+          "like_count": 2930,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1088
+        },
+        "url": "https://t.co/JcxwpFXiEy",
+        "username": "pleazdontleavme",
+        "verified": false
+      }
+    ]
+  }
+}

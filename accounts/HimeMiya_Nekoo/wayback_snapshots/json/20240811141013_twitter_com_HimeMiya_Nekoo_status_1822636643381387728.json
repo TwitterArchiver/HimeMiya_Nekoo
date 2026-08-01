@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1822448359015432702",
+    "created_at": "2024-08-11T14:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T15:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822636643381387728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1800957001117384704",
+          "start": 0,
+          "username": "resign1215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822636643381387728",
+    "in_reply_to_user_id": "1800957001117384704",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822583547783532895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@resign1215 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1822448359015432702",
+        "created_at": "2024-08-11T14:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T15:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822636643381387728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1800957001117384704",
+              "start": 0,
+              "username": "resign1215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822636643381387728",
+        "in_reply_to_user_id": "1800957001117384704",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822583547783532895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@resign1215 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800957001117384704",
+        "conversation_id": "1822448359015432702",
+        "created_at": "2024-08-11T10:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T11:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822583547783532895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822583547783532895",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822448359015432702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 那你岂不是无敌了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1822447650811298297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 51,
+          "like_count": 254,
+          "listed_count": 0,
+          "tweet_count": 159
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T18:23:15.000Z",
+        "description": "",
+        "id": "1800957001117384704",
+        "name": "エロ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815815452569882624/TcOWB3qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 187,
+          "like_count": 810,
+          "listed_count": 0,
+          "tweet_count": 674
+        },
+        "username": "resign1215",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2025441545617637731",
+    "created_at": "2026-02-22T17:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T18:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025626471839182967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1071980977482813441",
+          "start": 0,
+          "username": "GD_Atlas"
+        },
+        {
+          "end": 21,
+          "id": "1865880759334313984",
+          "start": 10,
+          "username": "Ling_0728_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025626471839182967",
+    "in_reply_to_user_id": "1071980977482813441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025626022335664605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GD_Atlas @Ling_0728_ 你就是我的翻译官？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2025441545617637731",
+        "created_at": "2026-02-22T17:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T18:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025626471839182967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1071980977482813441",
+              "start": 0,
+              "username": "GD_Atlas"
+            },
+            {
+              "end": 21,
+              "id": "1865880759334313984",
+              "start": 10,
+              "username": "Ling_0728_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025626471839182967",
+        "in_reply_to_user_id": "1071980977482813441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025626022335664605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GD_Atlas @Ling_0728_ 你就是我的翻译官？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1071980977482813441",
+        "conversation_id": "2025441545617637731",
+        "created_at": "2026-02-22T17:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T18:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025626022335664605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1865880759334313984",
+              "start": 0,
+              "username": "Ling_0728_"
+            },
+            {
+              "end": 27,
+              "id": "1584537561787428865",
+              "start": 12,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025626022335664605",
+        "in_reply_to_user_id": "1865880759334313984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025462679893405991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ling_0728_ @HimeMiya_Nekoo 你可能觉得大部分人的水平都不能满足你的需求，从而认为“这个圈子水平差”，但实际上大多数情况下，猎和被猎的关系是“我发出一个信号告诉你，我会和你玩猎雌play”和“我瘾犯了，需要一个人来猎我”，这里面只要水平没有烂到一定程度都无伤大雅，两者之间更像是服务业和客人的关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 54,
+          "like_count": 7078,
+          "listed_count": 3,
+          "media_count": 177,
+          "tweet_count": 3426
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-10T04:12:36.000Z",
+        "description": "FF14|鸟区|🔞|很大很坏的龙|处于发情期中的捕食者|erp❤️想被吃掉的孩子可以私信❤️|",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/9187412",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/9187412",
+                "start": 0,
+                "url": "https://t.co/uoXbBlvnr8"
+              }
+            ]
+          }
+        },
+        "id": "1071980977482813441",
+        "location": "穹顶皓天部队工房",
+        "name": "Aristotle Plato",
+        "pinned_tweet_id": "1642963416221634561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991512686396600325/eTOLn-oo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 2820,
+          "like_count": 44198,
+          "listed_count": 4,
+          "media_count": 101,
+          "tweet_count": 9694
+        },
+        "url": "https://t.co/uoXbBlvnr8",
+        "username": "GD_Atlas",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T22:07:00.000Z",
+        "description": "性癖：扭曲人/Switch 日常：FF14/龙娘天下第一 会随机出没曝光，抓到我请狠狠欺负",
+        "id": "1865880759334313984",
+        "location": "艾欧泽亚",
+        "name": "Santa",
+        "pinned_tweet_id": "2025085173147336839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025081058770001920/IR_SdLf__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 98,
+          "like_count": 134,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 105
+        },
+        "username": "Ling_0728_",
+        "verified": false
+      }
+    ]
+  }
+}

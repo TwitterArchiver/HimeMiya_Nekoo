@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1977828003074994396",
+    "created_at": "2025-10-14T01:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T02:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977911471628841143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1057694024843182081",
+          "start": 0,
+          "username": "Alenia_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977911471628841143",
+    "in_reply_to_user_id": "1057694024843182081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977828003074994396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alenia_chan 好きだよー♪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1977828000646471680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3KoFm1aoAAWL9W.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1977828003074994396",
+        "created_at": "2025-10-14T01:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T02:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977911471628841143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1057694024843182081",
+              "start": 0,
+              "username": "Alenia_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977911471628841143",
+        "in_reply_to_user_id": "1057694024843182081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977828003074994396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alenia_chan 好きだよー♪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977828000646471680"
+          ]
+        },
+        "author_id": "1057694024843182081",
+        "conversation_id": "1977828003074994396",
+        "created_at": "2025-10-13T20:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T21:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977828003074994396"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "自撮り界隈と繋がりたい"
+            },
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "自撮り界限"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sSgBKKIsQh",
+              "end": 58,
+              "expanded_url": "https://x.com/Alenia_chan/status/1977828003074994396/photo/1",
+              "media_key": "3_1977828000646471680",
+              "start": 35,
+              "url": "https://t.co/sSgBKKIsQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977828003074994396",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈と繋がりたい \n#自撮り界限 \n\n誰も私を好きにならない https://t.co/sSgBKKIsQh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 79,
+          "like_count": 6124,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 2390
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-31T18:01:21.000Z",
+        "description": "18↑✨重度のゲームオタク女子です\n幻想の海を彷徨う\n君が幸せでありますように",
+        "id": "1057694024843182081",
+        "location": "DC∶Meteor（Valefor）",
+        "name": "✟アレニア✟",
+        "pinned_tweet_id": "1967719044662039039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973988337078968320/QeaNwj_Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 205,
+          "like_count": 2031,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 681
+        },
+        "username": "Alenia_chan",
+        "verified": false
+      }
+    ]
+  }
+}

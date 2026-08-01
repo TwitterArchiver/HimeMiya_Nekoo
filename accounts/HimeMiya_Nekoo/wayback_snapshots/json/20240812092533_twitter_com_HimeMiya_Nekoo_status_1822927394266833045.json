@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1822926805713801464",
+    "created_at": "2024-08-12T09:25:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T10:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822927394266833045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1452084724764082182",
+          "start": 0,
+          "username": "EwsaRewsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822927394266833045",
+    "in_reply_to_user_id": "1452084724764082182",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822927112615141602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EwsaRewsa 二百多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1822926805713801464",
+        "created_at": "2024-08-12T09:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T10:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822927394266833045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1452084724764082182",
+              "start": 0,
+              "username": "EwsaRewsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822927394266833045",
+        "in_reply_to_user_id": "1452084724764082182",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822927112615141602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EwsaRewsa 二百多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452084724764082182",
+        "conversation_id": "1822926805713801464",
+        "created_at": "2024-08-12T09:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T10:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822927112615141602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822927112615141602",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822926805713801464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 利息多少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1822447650811298297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 51,
+          "like_count": 255,
+          "listed_count": 0,
+          "tweet_count": 167
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T01:29:20.000Z",
+        "description": "",
+        "id": "1452084724764082182",
+        "location": "Massachusetts, USA",
+        "name": "Rewsa Ewsa",
+        "pinned_tweet_id": "1732991748052242460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557155343540670464/m9SEIjTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 4837,
+          "like_count": 2379,
+          "listed_count": 1,
+          "tweet_count": 592
+        },
+        "username": "EwsaRewsa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1866293496749130044",
+    "created_at": "2024-12-10T01:26:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T02:26:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1866293496749130044"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1866293496749130044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "忍不了了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1866293496749130044",
+        "created_at": "2024-12-10T01:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T02:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866293496749130044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866293496749130044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忍不了了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "半退！不接",
+        "id": "1584537561787428865",
+        "location": "你的心里♡",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1858794431589347342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 79,
+          "like_count": 1320,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 831
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      }
+    ]
+  }
+}

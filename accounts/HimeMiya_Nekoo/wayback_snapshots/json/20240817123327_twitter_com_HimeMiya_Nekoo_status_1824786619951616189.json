@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1824499636645851179",
+    "created_at": "2024-08-17T12:33:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T13:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824786619951616189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1694301523713687554",
+          "start": 0,
+          "username": "yushiyu173173"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824786619951616189",
+    "in_reply_to_user_id": "1694301523713687554",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824505579911647279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yushiyu173173 没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1824499636645851179",
+        "created_at": "2024-08-17T12:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T13:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824786619951616189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1694301523713687554",
+              "start": 0,
+              "username": "yushiyu173173"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824786619951616189",
+        "in_reply_to_user_id": "1694301523713687554",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824505579911647279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yushiyu173173 没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694301523713687554",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "1824499636645851179",
+        "created_at": "2024-08-16T17:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T18:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824505579911647279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824505579911647279",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824499636645851179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 京都地震了嘛？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1823052132465135940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 51,
+          "like_count": 290,
+          "listed_count": 0,
+          "tweet_count": 210
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-23T10:52:26.000Z",
+        "description": "25，1943，7，26",
+        "id": "1694301523713687554",
+        "location": "广州 龙华中学",
+        "name": "叶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703351703121354752/W_3uKhQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 1038,
+          "like_count": 146,
+          "listed_count": 0,
+          "tweet_count": 378
+        },
+        "username": "yushiyu173173",
+        "verified": false
+      }
+    ]
+  }
+}

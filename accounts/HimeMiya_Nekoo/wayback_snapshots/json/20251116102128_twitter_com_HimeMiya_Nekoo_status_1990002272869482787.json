@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1989699589289775513",
+    "created_at": "2025-11-16T10:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T11:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990002272869482787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1758506265557581824",
+          "start": 0,
+          "username": "DragonCat345718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990002272869482787",
+    "in_reply_to_user_id": "1758506265557581824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989699589289775513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DragonCat345718 何意味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1989699363774631936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5zVB4ubkAAzPB5.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1989699589289775513",
+        "created_at": "2025-11-16T10:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T11:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990002272869482787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1758506265557581824",
+              "start": 0,
+              "username": "DragonCat345718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990002272869482787",
+        "in_reply_to_user_id": "1758506265557581824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989699589289775513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DragonCat345718 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989699363774631936"
+          ]
+        },
+        "author_id": "1758506265557581824",
+        "conversation_id": "1989699589289775513",
+        "created_at": "2025-11-15T14:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T15:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989699589289775513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rbVxApTv37",
+              "end": 48,
+              "expanded_url": "https://x.com/DragonCat345718/status/1989699589289775513/photo/1",
+              "media_key": "3_1989699363774631936",
+              "start": 25,
+              "url": "https://t.co/rbVxApTv37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989699589289775513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 455,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在qq5-10分钟就会自动删除这种空间 挺离谱 https://t.co/rbVxApTv37"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 85,
+          "like_count": 6374,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 2686
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T14:59:08.000Z",
+        "description": "含糖日期2025/09/14@ QQ：926182040 （🚪5r 同类无🚪 ）非（性骚扰禁止） 双相情感障碍 摄政自觉走开 清水推 不要私信问我要r18 看见直接拉黑 TG不常用 聊天请加QQ（无门槛但请说明来意） 本人速热型 可以当成小棉袄 但请不要一上来就假装很熟 我会很反感… 姐姐@LuLuCapcake",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "LuLuCapcake"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KawaiiDragonCat",
+                "end": 23,
+                "expanded_url": "https://t.me/KawaiiDragonCat",
+                "start": 0,
+                "url": "https://t.co/BSC3dYGgJ4"
+              }
+            ]
+          }
+        },
+        "id": "1758506265557581824",
+        "location": "距您127m",
+        "name": "🏳️‍⚧️DragonCat🍥",
+        "pinned_tweet_id": "1979773907608777038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974788570138447872/oYYR3kKU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 108,
+          "like_count": 149,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 356
+        },
+        "url": "https://t.co/BSC3dYGgJ4",
+        "username": "DragonCat345718",
+        "verified": false
+      }
+    ]
+  }
+}

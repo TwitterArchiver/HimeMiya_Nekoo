@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1986810147784781835",
+    "created_at": "2025-11-07T17:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T18:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986842170566058270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1824818634809806848",
+          "start": 0,
+          "username": "hsgmxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986842170566058270",
+    "in_reply_to_user_id": "1824818634809806848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986810147784781835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsgmxz 都允许女装了还要啥自行车"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2884,
+        "media_key": "3_1986810144374882304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5KRTLubgAA1P8z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1986810147784781835",
+        "created_at": "2025-11-07T17:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T18:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986842170566058270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1824818634809806848",
+              "start": 0,
+              "username": "hsgmxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986842170566058270",
+        "in_reply_to_user_id": "1824818634809806848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986810147784781835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsgmxz 都允许女装了还要啥自行车"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986810144374882304"
+          ]
+        },
+        "author_id": "1824818634809806848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1986810147784781835",
+        "created_at": "2025-11-07T14:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T15:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986810147784781835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yvEumDUPVs",
+              "end": 46,
+              "expanded_url": "https://x.com/hsgmxz/status/1986810147784781835/photo/1",
+              "media_key": "3_1986810144374882304",
+              "start": 23,
+              "url": "https://t.co/yvEumDUPVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986810147784781835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2279,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "唔...炸柜了...不过情况还好...也许吧 https://t.co/yvEumDUPVs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 84,
+          "like_count": 6183,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 2567
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T14:40:51.000Z",
+        "description": "「この世には息もできない人が沢山いるんですよ。」可以叫咱honoka。|14岁mtf🏳️‍⚧️|🍥2025.7.26|初音ミク大好き。🥰|2011.1.24|同类互fo|极度社恐|重焦重郁|intp-t|匿名提问箱https://t.co/eJ9r7Nq5dA|💔@hrklovehonoka|皆さま我爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 132,
+                "username": "hrklovehonoka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hsgmxz1",
+                "end": 130,
+                "expanded_url": "http://ngl.link/hsgmxz1",
+                "start": 107,
+                "url": "https://t.co/eJ9r7Nq5dA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mx_honoka",
+                "end": 23,
+                "expanded_url": "http://t.me/mx_honoka",
+                "start": 0,
+                "url": "https://t.co/Xrx6CgHeeR"
+              }
+            ]
+          }
+        },
+        "id": "1824818634809806848",
+        "location": "誰もいないセカイ",
+        "name": "萌新 honoka🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1986810147784781835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984291521521455104/IO0ryWj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 1236,
+          "like_count": 9002,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1381
+        },
+        "url": "https://t.co/Xrx6CgHeeR",
+        "username": "hsgmxz",
+        "verified": false
+      }
+    ]
+  }
+}

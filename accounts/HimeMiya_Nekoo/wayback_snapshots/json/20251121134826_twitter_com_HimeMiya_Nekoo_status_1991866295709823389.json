@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1991806281343177182",
+    "created_at": "2025-11-21T13:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T14:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991866295709823389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1685577326959239168",
+          "start": 0,
+          "username": "natsuki_2911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991866295709823389",
+    "in_reply_to_user_id": "1685577326959239168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991806281343177182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@natsuki_2911 私も"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1991806281343177182",
+        "created_at": "2025-11-21T13:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T14:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991866295709823389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1685577326959239168",
+              "start": 0,
+              "username": "natsuki_2911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991866295709823389",
+        "in_reply_to_user_id": "1685577326959239168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991806281343177182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@natsuki_2911 私も"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685577326959239168",
+        "conversation_id": "1991806281343177182",
+        "created_at": "2025-11-21T09:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T10:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991806281343177182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991806281343177182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私ODすると無性に喋りたくなる"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（互联网幽灵版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 71,
+          "like_count": 6415,
+          "listed_count": 3,
+          "media_count": 149,
+          "tweet_count": 2767
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T09:06:40.000Z",
+        "description": "08┋ASD/場面緘黙/不安障害/適応障害/パニ障/聴覚過敏┋HSP気質┋精神科通院┋リスカ/レグカ/OD┋タメ◎┋DM⚪︎┋通話×┋お別れはB解┋サブ：@na2ki_2911",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "na2ki_2911"
+              }
+            ]
+          }
+        },
+        "id": "1685577326959239168",
+        "location": "ここまで生きてきたのちょーえらくない？",
+        "name": "✧⁎₊夏姫₊⁎✧",
+        "pinned_tweet_id": "1914292925057695951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968187385688231938/kjJrIhhK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 124,
+          "like_count": 1325,
+          "listed_count": 4,
+          "media_count": 190,
+          "tweet_count": 1868
+        },
+        "username": "natsuki_2911",
+        "verified": false
+      }
+    ]
+  }
+}

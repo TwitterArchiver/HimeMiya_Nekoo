@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1953831292086169819",
+    "created_at": "2025-08-16T23:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T00:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956858524971290763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1618672811048050689",
+          "start": 0,
+          "username": "Zealakok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956858524971290763",
+    "in_reply_to_user_id": "1618672811048050689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953831292086169819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zealakok 啊啊啊啊啊对不起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 711,
+        "media_key": "3_1953831289079181316",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx1nNKCbsAQvP4r.jpg",
+        "width": 617
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1953831292086169819",
+        "created_at": "2025-08-16T23:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T00:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956858524971290763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1618672811048050689",
+              "start": 0,
+              "username": "Zealakok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956858524971290763",
+        "in_reply_to_user_id": "1618672811048050689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953831292086169819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zealakok 啊啊啊啊啊对不起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953831289079181316"
+          ]
+        },
+        "author_id": "1618672811048050689",
+        "conversation_id": "1953831292086169819",
+        "created_at": "2025-08-08T14:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T15:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953831292086169819"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "男尊女卑"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "羞辱"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "腹肌"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "男喘"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ub2rYQGuwz",
+              "end": 135,
+              "expanded_url": "https://x.com/Zealakok/status/1953831292086169819/photo/1",
+              "media_key": "3_1953831289079181316",
+              "start": 112,
+              "url": "https://t.co/ub2rYQGuwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953831292086169819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1521,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爹一直最爱爆耍的母猪就是那种阴暗b宅女 内心卑微好控制 满脑子都是黄色废料 整天想着自己什么时候能跟黄漫里面的女主角一样被爹当成肉便器爆耍 但是却又只敢在推上盯着爹意淫翻白眼抠逼\n#男尊女卑 #羞辱 #腹肌 #男喘 #反差 https://t.co/ub2rYQGuwz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（诺艾尔版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 89,
+          "like_count": 5394,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 2020
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T18:11:13.000Z",
+        "description": "坏女孩是我眼里的好女孩",
+        "id": "1618672811048050689",
+        "location": "天國",
+        "name": "龙舌兰风味天使",
+        "pinned_tweet_id": "1954925709929107677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618799522041462784/Dmw89RqJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 1075,
+          "like_count": 223,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 98
+        },
+        "username": "Zealakok",
+        "verified": false
+      }
+    ]
+  }
+}

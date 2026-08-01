@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2026346501782515855",
+    "created_at": "2026-02-24T17:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T18:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026347333903110531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1875905825157640192",
+          "start": 0,
+          "username": "Nanamigaoshou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026347333903110531",
+    "in_reply_to_user_id": "1875905825157640192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026346936220135772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nanamigaoshou 老毛病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2026346501782515855",
+        "created_at": "2026-02-24T17:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T18:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026347333903110531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1875905825157640192",
+              "start": 0,
+              "username": "Nanamigaoshou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026347333903110531",
+        "in_reply_to_user_id": "1875905825157640192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026346936220135772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nanamigaoshou 老毛病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875905825157640192",
+        "conversation_id": "2026346501782515855",
+        "created_at": "2026-02-24T17:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T18:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026346936220135772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026346936220135772",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026346501782515855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 怎么啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "2025759179487784987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 28,
+          "like_count": 7195,
+          "listed_count": 3,
+          "media_count": 177,
+          "tweet_count": 3511
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T14:03:16.000Z",
+        "description": "",
+        "id": "1875905825157640192",
+        "name": "遗憾写成书",
+        "pinned_tweet_id": "1876819951303979167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023036164543033344/FiB5Y9KM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 485,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1054
+        },
+        "username": "Nanamigaoshou",
+        "verified": false
+      }
+    ]
+  }
+}

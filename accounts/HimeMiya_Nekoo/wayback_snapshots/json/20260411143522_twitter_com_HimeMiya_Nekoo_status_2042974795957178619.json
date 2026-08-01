@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2042918418471686464",
+    "created_at": "2026-04-11T14:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T15:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042974795957178619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1952626998733672448",
+          "start": 0,
+          "username": "sama184397"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042974795957178619",
+    "in_reply_to_user_id": "1952626998733672448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042968220009926690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sama184397 耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2042918418471686464",
+        "created_at": "2026-04-11T14:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042974795957178619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952626998733672448",
+              "start": 0,
+              "username": "sama184397"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042974795957178619",
+        "in_reply_to_user_id": "1952626998733672448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042968220009926690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama184397 耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952626998733672448",
+        "conversation_id": "2042918418471686464",
+        "created_at": "2026-04-11T14:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042968220009926690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042968220009926690",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042918418471686464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 耶新艺术品w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（方知宥版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 27,
+          "like_count": 7312,
+          "listed_count": 4,
+          "media_count": 199,
+          "tweet_count": 3909
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T07:05:36.000Z",
+        "description": "日常扯皮吹水\n联系方式/业务详情请移步:@sama184396\n是非常恶劣的榨金犯呢🖤\n超绝☆可爱☆聪明☆美丽☆游戏高手☆里形态是臭脚💜恶魔\nb站随缘播会游戏\n🐧:3593709078\n🚪8.8 好友位  闲聊🚪52起 禁止废话\n只扩列不互推～欢迎██无偿付费转帖♡\n支持同行骚扰？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/s0b5K4s",
+                "end": 23,
+                "expanded_url": "https://b23.tv/s0b5K4s",
+                "start": 0,
+                "url": "https://t.co/pFAJ4toRfO"
+              }
+            ]
+          }
+        },
+        "id": "1952626998733672448",
+        "location": "你的头上💜",
+        "name": "夜々（日常版）",
+        "pinned_tweet_id": "1962880912439607563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042255396304572416/XmsDGXLb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 14,
+          "like_count": 163,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 457
+        },
+        "url": "https://t.co/pFAJ4toRfO",
+        "username": "sama184397",
+        "verified": false
+      }
+    ]
+  }
+}

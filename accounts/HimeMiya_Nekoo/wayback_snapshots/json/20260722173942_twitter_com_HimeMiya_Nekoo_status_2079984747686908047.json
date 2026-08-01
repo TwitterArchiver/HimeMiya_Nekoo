@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2079972380991193096",
+    "created_at": "2026-07-22T17:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T18:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079984747686908047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2064729788607275008",
+          "start": 0,
+          "username": "Sluttteredz7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079984747686908047",
+    "in_reply_to_user_id": "2064729788607275008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079972380991193096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sluttteredz7 语文…可以好一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2079972380991193096",
+        "created_at": "2026-07-22T17:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079984747686908047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2064729788607275008",
+              "start": 0,
+              "username": "Sluttteredz7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079984747686908047",
+        "in_reply_to_user_id": "2064729788607275008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079972380991193096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sluttteredz7 语文…可以好一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064729788607275008",
+        "conversation_id": "2079972380991193096",
+        "created_at": "2026-07-22T16:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079972380991193096"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "母猪"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "母畜"
+            },
+            {
+              "end": 93,
+              "start": 88,
+              "tag": "男尊女卑"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "女德"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "羞辱"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079972380991193096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "畜牲的作用还可以伺候祖宗如厕，可以躺着把盆放在脸上，或者跪着把盆举过头顶，这样就等于祖宗变相的拉在畜牲的脸上或头上，等祖宗如厕完畜牲用舌头去清理您高贵的臀部\n\n#母猪 #母畜 #男尊女卑 #女德 #羞辱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的别烦我｜点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll许愿请来这里不要打扰我们天使妹｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室👉",
+        "name": "🎀音恋✞Mia🎀（查拉图斯特拉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 32,
+          "like_count": 8299,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 5048
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T15:22:58.000Z",
+        "description": "",
+        "id": "2064729788607275008",
+        "name": "Sluttter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064730636628402176/gH9VXpuh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 7,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "Sluttteredz7",
+        "verified": false
+      }
+    ]
+  }
+}

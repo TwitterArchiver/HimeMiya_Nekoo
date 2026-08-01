@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1990073946910150955",
+    "created_at": "2025-11-16T15:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T16:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990081329606672646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1375210133656059909",
+          "start": 0,
+          "username": "Phoebus36356441"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990081329606672646",
+    "in_reply_to_user_id": "1375210133656059909",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990073946910150955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Phoebus36356441 好的我等着了w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1990073946910150955",
+        "created_at": "2025-11-16T15:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990081329606672646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1375210133656059909",
+              "start": 0,
+              "username": "Phoebus36356441"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990081329606672646",
+        "in_reply_to_user_id": "1375210133656059909",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990073946910150955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phoebus36356441 好的我等着了w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1375210133656059909",
+        "conversation_id": "1990073946910150955",
+        "created_at": "2025-11-16T15:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990073946910150955"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "倒贴"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "白给"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "戏耍"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "傻逼"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "报销"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "压榨"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "胁迫"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "贡号"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990073946910150955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想法自己的账号密码...然后直接把收到的验证码公开发推特上...然后看着登录信息自慰...\n#倒贴 #白给 #戏耍 #傻逼 #ATM奴 #报销 #压榨 #胁迫 #贡号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 85,
+          "like_count": 6397,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 2698
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-25T22:17:09.000Z",
+        "description": "这里是一只超H的猫猫/狗狗菲比♡日常性发情期中sex方面几乎全部都会接受和喜欢的喵♡菲比的话会超级渴望被关注着和被了解，想要和更多的人分享自己的欲望，所以也请多多关注菲比～♡（悄悄说一下，头像可爱在人家眼中超级加分的！如果是女孩子或是可\n爱的男孩子请务必私聊人家！现场表白喵！）",
+        "id": "1375210133656059909",
+        "location": "距离你 5.20KM",
+        "name": "菲比",
+        "pinned_tweet_id": "1862921161459613769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982133094950883328/Qc0Ka_GO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10514,
+          "following_count": 3903,
+          "like_count": 5222,
+          "listed_count": 31,
+          "media_count": 249,
+          "tweet_count": 2175
+        },
+        "username": "Phoebus36356441",
+        "verified": false
+      }
+    ]
+  }
+}

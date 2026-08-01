@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1932735157456515280",
+    "created_at": "2025-06-12T09:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T10:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933094970891854174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747931023277502465",
+          "start": 0,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933094970891854174",
+    "in_reply_to_user_id": "1747931023277502465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932735157456515280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte8964 其实不麻烦下个软件电话问诊药一天两天就能到时间赶得上"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1488,
+        "media_key": "3_1932735150854713346",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtJ0YS-bMAIscSS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1932735157456515280",
+        "created_at": "2025-06-12T09:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T10:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933094970891854174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933094970891854174",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932735157456515280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 其实不麻烦下个软件电话问诊药一天两天就能到时间赶得上"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932735150854713346"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "1932735157456515280",
+        "created_at": "2025-06-11T09:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T10:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932735157456515280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jE6AKODGA1",
+              "end": 132,
+              "expanded_url": "https://x.com/damatte8964/status/1932735157456515280/photo/1",
+              "media_key": "3_1932735150854713346",
+              "start": 109,
+              "url": "https://t.co/jE6AKODGA1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932735157456515280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "警告⚠️此内容包含色情和药物滥用，看个乐子就好，请千万要以我为戒，千万以我为戒，千万不要做这样的事情。\n\n我这几天依旧很崩溃，这是前提，熟悉我的人可能都知道我平时情绪相对稳定，不然我也不会做出这样的事情啊啊啊啊！！！\n\n今天我中午从外面回来的时候舍友看到我一幅憔悴的样子问我发生什么了，其实我好想说我od给自己o大了，和人上床结果对方也o大了然后两个人做爱结果套滑掉了我操。\n我o到那种站都站不起来的程度，对方一直在出现幻觉。。发现套掉了之后我当时还在药效中，完全不知道要紧张难过啥的。今天早上赶的首班电车回家的时候在街上摔了四五次，结果早课又翘了。中午醒来之后发现完犊子了，但是日本买紧急避孕药很麻烦，我在小红书联系了国人买的。。。跟我离的很近所以很快就拿到药了，回家的时候感觉整个人都要死了。\n药啪虽然很爽但是请别药啪好吗？？？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 10086,
+          "like_count": 133,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "警告⚠️此内容包含色情和药物滥用，看个乐子就好，请千万要以我为戒，千万以我为戒，千万不要做这样的事情。\n\n我这几天依旧很崩溃，这是前提，熟悉我的人可能都知道我平时情绪相对稳定，不然我也不会做出这样的事情啊啊啊啊！！！ https://t.co/jE6AKODGA1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（平凡妹妹版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 91,
+          "like_count": 4652,
+          "listed_count": 3,
+          "media_count": 84,
+          "tweet_count": 1499
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ*   近期精神状态极差，请慎重关注慎重观看",
+        "id": "1747931023277502465",
+        "location": "🚪99/198/520/1314呜呜呜呜呜呜",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1931720541037380042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929548470274367488/QK72McBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33089,
+          "following_count": 733,
+          "like_count": 6496,
+          "listed_count": 43,
+          "media_count": 149,
+          "tweet_count": 2080
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

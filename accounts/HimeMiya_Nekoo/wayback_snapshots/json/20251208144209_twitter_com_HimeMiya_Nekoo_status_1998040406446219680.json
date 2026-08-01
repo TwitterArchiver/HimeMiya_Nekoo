@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1997942027259183305",
+    "created_at": "2025-12-08T14:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T15:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998040406446219680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1983208879535337475",
+          "start": 0,
+          "username": "zjlygzj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998040406446219680",
+    "in_reply_to_user_id": "1983208879535337475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997942027259183305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zjlygzj 豁达👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997942019470364672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7odrmBbkAAu0SD.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997942019478704128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7odrmDa0AAfYZw.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1997942027259183305",
+        "created_at": "2025-12-08T14:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T15:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998040406446219680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1983208879535337475",
+              "start": 0,
+              "username": "zjlygzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998040406446219680",
+        "in_reply_to_user_id": "1983208879535337475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997942027259183305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zjlygzj 豁达👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997942019470364672",
+            "3_1997942019478704128"
+          ]
+        },
+        "author_id": "1983208879535337475",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1997942027259183305",
+        "created_at": "2025-12-08T08:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T09:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997942027259183305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6BdQIpTZ4p",
+              "end": 44,
+              "expanded_url": "https://x.com/zjlygzj/status/1997942027259183305/photo/1",
+              "media_key": "3_1997942019470364672",
+              "start": 21,
+              "url": "https://t.co/6BdQIpTZ4p"
+            },
+            {
+              "display_url": "pic.x.com/6BdQIpTZ4p",
+              "end": 44,
+              "expanded_url": "https://x.com/zjlygzj/status/1997942027259183305/photo/1",
+              "media_key": "3_1997942019478704128",
+              "start": 21,
+              "url": "https://t.co/6BdQIpTZ4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997942027259183305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 78199,
+          "like_count": 186,
+          "quote_count": 3,
+          "reply_count": 210,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么门不门的，聊得好皮下男我都给你花钱😅 https://t.co/6BdQIpTZ4p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（由佳版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 70,
+          "like_count": 6401,
+          "listed_count": 3,
+          "media_count": 156,
+          "tweet_count": 2821
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T16:27:12.000Z",
+        "description": "",
+        "id": "1983208879535337475",
+        "name": "硫磺火",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983211490317611013/WTmUHyR5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 92,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 100
+        },
+        "username": "zjlygzj",
+        "verified": false
+      }
+    ]
+  }
+}

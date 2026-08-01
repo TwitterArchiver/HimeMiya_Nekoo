@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1886069945722880153",
+    "created_at": "2025-02-02T15:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T16:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886070970613666146"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "知惠ちゃん",
+          "probability": 0.5529,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1238358430429007873",
+          "start": 0,
+          "username": "Kodokuna_kingyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886070970613666146",
+    "in_reply_to_user_id": "1238358430429007873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886069945722880153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kodokuna_kingyo 知惠ちゃんかわいい🩷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1886069945722880153",
+        "created_at": "2025-02-02T15:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T16:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886070970613666146"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "知惠ちゃん",
+              "probability": 0.5529,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1238358430429007873",
+              "start": 0,
+              "username": "Kodokuna_kingyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886070970613666146",
+        "in_reply_to_user_id": "1238358430429007873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886069945722880153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kodokuna_kingyo 知惠ちゃんかわいい🩷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1238358430429007873",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1886069945722880153",
+        "created_at": "2025-02-02T15:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T16:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886069945722880153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886069945722880153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ロックンロールで死ねれば割と本望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "你的心里♡",
+        "name": "🎀音恋✞Mia🎀（算了变成游戏版）",
+        "pinned_tweet_id": "1870486188890767606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 77,
+          "like_count": 2099,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 941
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T06:57:34.000Z",
+        "description": "生きろ！知恵ちゃん！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/4I5NF47NFNFT?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/oV0W4rGmBh"
+              }
+            ]
+          }
+        },
+        "id": "1238358430429007873",
+        "location": "バカの故郷は海の底。",
+        "name": "知恵ちゃん",
+        "pinned_tweet_id": "1827624881879715980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1315548141869953025/uCIznIos_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13413,
+          "following_count": 172,
+          "like_count": 274353,
+          "listed_count": 34,
+          "media_count": 1077,
+          "tweet_count": 6012
+        },
+        "url": "https://t.co/oV0W4rGmBh",
+        "username": "Kodokuna_kingyo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2079854407949406413",
+    "created_at": "2026-07-22T09:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T10:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079854407949406413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dourazee57303/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/dourazee57303/status/2079616851139793182",
+          "start": 7,
+          "url": "https://t.co/pkQSF1b48u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079854407949406413",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079616851139793182",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "i need https://t.co/pkQSF1b48u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2079616830633893888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxIfTrbYAArGSI.jpg",
+        "width": 1409
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2079854407949406413",
+        "created_at": "2026-07-22T09:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079854407949406413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dourazee57303/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/dourazee57303/status/2079616851139793182",
+              "start": 7,
+              "url": "https://t.co/pkQSF1b48u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079854407949406413",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079616851139793182",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i need https://t.co/pkQSF1b48u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079616830633893888"
+          ]
+        },
+        "author_id": "1779181070875037696",
+        "conversation_id": "2079616851139793182",
+        "created_at": "2026-07-21T17:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079616851139793182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NOYAGRDGr5",
+              "end": 23,
+              "expanded_url": "https://x.com/DourazeE57303/status/2079616851139793182/photo/1",
+              "media_key": "3_2079616830633893888",
+              "start": 0,
+              "url": "https://t.co/NOYAGRDGr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079616851139793182",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1544,
+          "impression_count": 104134,
+          "like_count": 9325,
+          "quote_count": 34,
+          "reply_count": 9,
+          "retweet_count": 577
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NOYAGRDGr5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的别烦我｜点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll许愿请来这里不要打扰我们天使妹｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室👉",
+        "name": "🎀音恋✞Mia🎀（查拉图斯特拉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 32,
+          "like_count": 8287,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 5028
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T16:13:31.000Z",
+        "description": "(｀•ω•´)ゞ\nRevolution.9\n\n关注喜欢的老师，囤图用账号",
+        "id": "1779181070875037696",
+        "name": "E_Douraze",
+        "pinned_tweet_id": "2079594624495333487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955534155779018753/6ZfcDyrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 303,
+          "like_count": 1974,
+          "listed_count": 6,
+          "media_count": 116,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "DourazeE57303",
+        "verified": false
+      }
+    ]
+  }
+}

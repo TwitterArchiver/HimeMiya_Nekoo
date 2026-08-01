@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1957466218798997751",
+    "created_at": "2025-08-18T16:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T17:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957473260553261104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1885164250563293184",
+          "start": 0,
+          "username": "xurun250427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957473260553261104",
+    "in_reply_to_user_id": "1885164250563293184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957466218798997751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xurun250427 以做人为感受快乐的方式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1957466218798997751",
+        "created_at": "2025-08-18T16:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T17:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957473260553261104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1885164250563293184",
+              "start": 0,
+              "username": "xurun250427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957473260553261104",
+        "in_reply_to_user_id": "1885164250563293184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957466218798997751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xurun250427 以做人为感受快乐的方式"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885164250563293184",
+        "conversation_id": "1957466218798997751",
+        "created_at": "2025-08-18T15:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T16:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957466218798997751"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957466218798997751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我决定试着重新以人为乐了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（诺艾尔版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 89,
+          "like_count": 5431,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 2077
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T03:12:47.000Z",
+        "description": "情感推主\n皮下\n我想成为毒品\n🚪3980385046",
+        "id": "1885164250563293184",
+        "location": "理发店",
+        "name": "窝要成为心理学糕手",
+        "pinned_tweet_id": "1895439292203405589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901327464070307840/1q1VBsh3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 161,
+          "like_count": 104,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 500
+        },
+        "username": "xurun250427",
+        "verified": false
+      }
+    ]
+  }
+}

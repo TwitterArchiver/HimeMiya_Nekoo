@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2024837994449129702",
+    "created_at": "2026-02-20T14:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T15:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024851415433384053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2003554310442090498",
+          "start": 0,
+          "username": "FreshyLuLu_Pr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024851415433384053",
+    "in_reply_to_user_id": "2003554310442090498",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024837994449129702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreshyLuLu_Pr 9之12凌空罩😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2024837994449129702",
+        "created_at": "2026-02-20T14:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024851415433384053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2003554310442090498",
+              "start": 0,
+              "username": "FreshyLuLu_Pr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024851415433384053",
+        "in_reply_to_user_id": "2003554310442090498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024837994449129702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreshyLuLu_Pr 9之12凌空罩😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003554310442090498",
+        "conversation_id": "2024837994449129702",
+        "created_at": "2026-02-20T13:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024837994449129702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yourming04/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/yourming04/status/2024288138261098560",
+              "start": 30,
+              "url": "https://t.co/cNPnVwKvJ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024837994449129702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 452,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024288138261098560",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来下围棋，我每提你1子罚你10，终局每赢你1目再罚你20。 https://t.co/cNPnVwKvJ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 53,
+          "like_count": 6930,
+          "listed_count": 4,
+          "media_count": 175,
+          "tweet_count": 3284
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T19:52:41.000Z",
+        "description": "主账号：@FreshyLuLu 💙\n\n此账号上会讲述一些金钱和欲望的事情\n💙超温柔系引导式榨金，看一下我的网站来了解一下哦？（https://t.co/7FJIQ6JYMW）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "FreshyLuLu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "freshylulu.com/findom",
+                "end": 86,
+                "expanded_url": "http://freshylulu.com/findom",
+                "start": 63,
+                "url": "https://t.co/7FJIQ6JYMW"
+              }
+            ]
+          }
+        },
+        "id": "2003554310442090498",
+        "name": "FreshyLuLu💸甜蜜掠夺",
+        "pinned_tweet_id": "2006647070883729907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006248793969475584/Nys-vifx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 5,
+          "like_count": 41,
+          "listed_count": 4,
+          "media_count": 10,
+          "tweet_count": 79
+        },
+        "username": "FreshyLuLu_Pr",
+        "verified": true
+      }
+    ]
+  }
+}

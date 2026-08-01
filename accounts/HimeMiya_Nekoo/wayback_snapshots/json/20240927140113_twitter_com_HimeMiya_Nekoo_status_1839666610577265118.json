@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1839539001440772130",
+    "created_at": "2024-09-27T14:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T15:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839666610577265118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1828699042483986432",
+          "start": 0,
+          "username": "Avxzduqji568044"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839666610577265118",
+    "in_reply_to_user_id": "1828699042483986432",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839596246253613263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Avxzduqji568044 包天才的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1839539001440772130",
+        "created_at": "2024-09-27T14:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T15:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839666610577265118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1828699042483986432",
+              "start": 0,
+              "username": "Avxzduqji568044"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839666610577265118",
+        "in_reply_to_user_id": "1828699042483986432",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839596246253613263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Avxzduqji568044 包天才的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828699042483986432",
+        "conversation_id": "1839539001440772130",
+        "created_at": "2024-09-27T09:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T10:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839596246253613263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839596246253613263",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839539001440772130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 天才！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1838521083248685505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 54,
+          "like_count": 356,
+          "listed_count": 0,
+          "tweet_count": 497
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T07:40:25.000Z",
+        "description": "新号还是悠着点吧",
+        "id": "1828699042483986432",
+        "location": "贵阳",
+        "name": "你杜爹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828699540980989952/_DCFT8zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 166,
+          "like_count": 429,
+          "listed_count": 0,
+          "tweet_count": 75
+        },
+        "username": "Avxzduqji568044",
+        "verified": false
+      }
+    ]
+  }
+}

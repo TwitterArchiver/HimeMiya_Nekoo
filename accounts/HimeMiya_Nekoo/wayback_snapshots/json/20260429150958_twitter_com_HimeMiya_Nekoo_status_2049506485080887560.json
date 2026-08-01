@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2049506485080887560",
+    "created_at": "2026-04-29T15:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T16:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049506485080887560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cosmicdroplet/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/cosmicdroplet/status/2049275714948723017",
+          "start": 4,
+          "url": "https://t.co/mumJSit80Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049506485080887560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049275714948723017",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要这个 https://t.co/mumJSit80Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049275573101572096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHB9RrWasAAZsyz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049275573126746112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHB9Rrca0AAy_o3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2002,
+        "media_key": "3_2049275573105786880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHB9RrXbAAA50ZT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1367,
+        "media_key": "3_2049275573474820098",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHB9RsvaAAIJ4vJ.jpg",
+        "width": 1367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2049506485080887560",
+        "created_at": "2026-04-29T15:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049506485080887560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cosmicdroplet/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/cosmicdroplet/status/2049275714948723017",
+              "start": 4,
+              "url": "https://t.co/mumJSit80Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049506485080887560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049275714948723017",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要这个 https://t.co/mumJSit80Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049275573101572096",
+            "3_2049275573126746112",
+            "3_2049275573105786880",
+            "3_2049275573474820098"
+          ]
+        },
+        "author_id": "3232255189",
+        "conversation_id": "2049275714948723017",
+        "created_at": "2026-04-28T23:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T00:52:26.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049275581301494078",
+          "2049275714948723017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v3Tu2HDDvL",
+              "end": 159,
+              "expanded_url": "https://x.com/cosmicdroplet/status/2049275714948723017/photo/1",
+              "media_key": "3_2049275573101572096",
+              "start": 136,
+              "url": "https://t.co/v3Tu2HDDvL"
+            },
+            {
+              "display_url": "pic.x.com/v3Tu2HDDvL",
+              "end": 159,
+              "expanded_url": "https://x.com/cosmicdroplet/status/2049275714948723017/photo/1",
+              "media_key": "3_2049275573126746112",
+              "start": 136,
+              "url": "https://t.co/v3Tu2HDDvL"
+            },
+            {
+              "display_url": "pic.x.com/v3Tu2HDDvL",
+              "end": 159,
+              "expanded_url": "https://x.com/cosmicdroplet/status/2049275714948723017/photo/1",
+              "media_key": "3_2049275573105786880",
+              "start": 136,
+              "url": "https://t.co/v3Tu2HDDvL"
+            },
+            {
+              "display_url": "pic.x.com/v3Tu2HDDvL",
+              "end": 159,
+              "expanded_url": "https://x.com/cosmicdroplet/status/2049275714948723017/photo/1",
+              "media_key": "3_2049275573474820098",
+              "start": 136,
+              "url": "https://t.co/v3Tu2HDDvL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049275714948723017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "ところでこちらのメンツが新たな指定濫用防止医薬品に指定されましたね　施行は5月1日かららしい、素早いね\n.\nちなみにいずれも一応幻覚剤の区分になります　ただ細かくは性質が違って、\n🟣DXMことデキストロメトルファン(メジコンほか)→Dissociative(解離性麻酔)\n🔴DPHことジフェンヒドラミン(レスタミン、ドリエルほか)→Deliriants(譫妄誘発剤)\n.\n譫妄は高熱を出した時に見る幻覚や、特に認知症の高齢者がよく起こすやつです。\n「レタス(※レスタミンの俗称)飲みすぎると虫が見えて気持ち悪い」というのは譫妄だからですね。譫妄って基本的にキモいので…\nDissociativeもDeliriantsも、幻覚剤のうちPsychedelicsであるLSDとは異なるため、幻覚の質も違います。\n「幻覚が見えるらしい！」とか聞いて適当に飲むと最悪な体験になったりするので、どちらも安易にやらん方が絶対いいです。あと普通に危険(死亡例あり)\n.\nついでに言うとメジコンはデキストロメトルファンの臭化水素酸塩として製剤化されているのですが、臭素がガチヤバです。体内にめちゃ残り続けるし。\nWikipediaの「臭素中毒」とか読むのおすすめ😊"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 31261,
+          "like_count": 606,
+          "quote_count": 40,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "ところでこちらのメンツが新たな指定濫用防止医薬品に指定されましたね　施行は5月1日かららしい、素早いね\n.\nちなみにいずれも一応幻覚剤の区分になります　ただ細かくは性質が違って、\n🟣DXMことデキストロメトルファン(メジコンほか)→Dissociative(解離性麻酔) https://t.co/v3Tu2HDDvL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm  避難垢➡️@D4K_Blackdoll｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 81,
+                "start": 67,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（一条紅愛版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 42,
+          "like_count": 7814,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 4366
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-01T04:33:21.000Z",
+        "description": "こーばすと読みます。理系出身(UT 理科I類→工学部→新領域修士)、「科学雑貨Scientia」の屋号で制作・販売を行っています。その他のSNS、通販サイトのリンクはこちら↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/scientia",
+                "end": 23,
+                "expanded_url": "https://lit.link/scientia",
+                "start": 0,
+                "url": "https://t.co/NP7KzEFpuK"
+              }
+            ]
+          }
+        },
+        "id": "3232255189",
+        "location": "5p軌道",
+        "name": "corvus⌬科学雑貨Scientia",
+        "pinned_tweet_id": "1902985200864555299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429769330774843400/TGvNVEQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15406,
+          "following_count": 5085,
+          "like_count": 75896,
+          "listed_count": 211,
+          "media_count": 3582,
+          "tweet_count": 31402
+        },
+        "url": "https://t.co/NP7KzEFpuK",
+        "username": "cosmicdroplet",
+        "verified": true
+      }
+    ]
+  }
+}

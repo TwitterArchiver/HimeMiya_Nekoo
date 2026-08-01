@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1974112899464589683",
+    "created_at": "2025-10-03T15:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T16:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974141544740557055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1799664780539576321",
+          "start": 0,
+          "username": "noshitoji1984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974141544740557055",
+    "in_reply_to_user_id": "1799664780539576321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974141156893274149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noshitoji1984 那很有诚意了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1974112899464589683",
+        "created_at": "2025-10-03T15:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974141544740557055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1799664780539576321",
+              "start": 0,
+              "username": "noshitoji1984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974141544740557055",
+        "in_reply_to_user_id": "1799664780539576321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974141156893274149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noshitoji1984 那很有诚意了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799664780539576321",
+        "conversation_id": "1974112899464589683",
+        "created_at": "2025-10-03T15:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974141156893274149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974141156893274149",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974112899464589683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 谈，v你50"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 87,
+          "like_count": 5944,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 2286
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T04:48:21.000Z",
+        "description": "伪娘女神🖤温柔绿茶的吸金恶魔😈 喜欢玩弄各种🐕～～收🏧奴，工资奴～｜🚪28～支持验证🤑｜ 更新cos照片图包～｜语音视频定制88、188r 怨种专属520🖤",
+        "id": "1799664780539576321",
+        "location": "你的脑子里～",
+        "name": "怜之恶魔～🖤（互推）",
+        "pinned_tweet_id": "1960331134220562608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958085899222401024/IRZgRCwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 43,
+          "like_count": 333,
+          "listed_count": 4,
+          "media_count": 45,
+          "tweet_count": 164
+        },
+        "username": "noshitoji1984",
+        "verified": false
+      }
+    ]
+  }
+}

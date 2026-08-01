@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077726341571792896"
+      ],
+      "media_source_tweet_id": [
+        "2077726344478429230"
+      ]
+    },
+    "author_id": "1584537561787428865",
+    "conversation_id": "2079916966207471803",
+    "created_at": "2026-07-22T13:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T14:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079916966207471803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2056718645548687361",
+          "start": 3,
+          "username": "lilizzz__0o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CQk751J3mT",
+          "end": 48,
+          "expanded_url": "https://x.com/lilizzz__0o/status/2077726344478429230/photo/1",
+          "media_key": "3_2077726341571792896",
+          "start": 25,
+          "url": "https://t.co/CQk751J3mT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079916966207471803",
+    "lang": "bn",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 277
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077726344478429230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilizzz__0o: ꒰ঌ 🩷 ໒꒱ https://t.co/CQk751J3mT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2077726341571792896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWRGXHb0AAOLDP.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077726341571792896"
+          ]
+        },
+        "author_id": "2056718645548687361",
+        "conversation_id": "2077726344478429230",
+        "created_at": "2026-07-16T12:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077726344478429230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CQk751J3mT",
+              "end": 31,
+              "expanded_url": "https://x.com/lilizzz__0o/status/2077726344478429230/photo/1",
+              "media_key": "3_2077726341571792896",
+              "start": 8,
+              "url": "https://t.co/CQk751J3mT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077726344478429230",
+        "lang": "bn",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 299,
+          "impression_count": 33027,
+          "like_count": 3416,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 277
+        },
+        "reply_settings": "everyone",
+        "text": "꒰ঌ 🩷 ໒꒱ https://t.co/CQk751J3mT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077726341571792896"
+          ],
+          "media_source_tweet_id": [
+            "2077726344478429230"
+          ]
+        },
+        "author_id": "1584537561787428865",
+        "conversation_id": "2079916966207471803",
+        "created_at": "2026-07-22T13:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079916966207471803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2056718645548687361",
+              "start": 3,
+              "username": "lilizzz__0o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CQk751J3mT",
+              "end": 48,
+              "expanded_url": "https://x.com/lilizzz__0o/status/2077726344478429230/photo/1",
+              "media_key": "3_2077726341571792896",
+              "start": 25,
+              "url": "https://t.co/CQk751J3mT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079916966207471803",
+        "lang": "bn",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 277
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077726344478429230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilizzz__0o: ꒰ঌ 🩷 ໒꒱ https://t.co/CQk751J3mT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的别烦我｜点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll许愿请来这里不要打扰我们天使妹｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室👉",
+        "name": "🎀音恋✞Mia🎀（查拉图斯特拉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 32,
+          "like_count": 8291,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 5037
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T12:48:48.000Z",
+        "description": "zeta￤PixAI￤ljk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/l3jeuyydbkul56…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/l3jeuyydbkul56a?t=s5q8vq&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/eqnktPAkBN"
+              }
+            ]
+          }
+        },
+        "id": "2056718645548687361",
+        "location": "気になりさん無言f失礼します🩷",
+        "name": "りず",
+        "pinned_tweet_id": "2077726344478429230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078791451232845824/o8Rx3mHK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 83,
+          "like_count": 1846,
+          "listed_count": 16,
+          "media_count": 104,
+          "tweet_count": 801
+        },
+        "url": "https://t.co/eqnktPAkBN",
+        "username": "lilizzz__0o",
+        "verified": false
+      }
+    ]
+  }
+}

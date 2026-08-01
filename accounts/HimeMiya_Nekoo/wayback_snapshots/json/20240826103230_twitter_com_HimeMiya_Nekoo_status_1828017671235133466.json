@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1824477540305539511",
+    "created_at": "2024-08-26T10:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T11:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828017671235133466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1695470151364460544",
+          "start": 0,
+          "username": "xxooloooo"
+        },
+        {
+          "end": 20,
+          "id": "1252372982",
+          "start": 11,
+          "username": "007share"
+        },
+        {
+          "end": 33,
+          "id": "1427499053227466756",
+          "start": 21,
+          "username": "wqganenshi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828017671235133466",
+    "in_reply_to_user_id": "1695470151364460544",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824477540305539511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxooloooo @007share @wqganenshi_ 一堆省略号的不是百分之百是男的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1824477540305539511",
+        "created_at": "2024-08-26T10:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T11:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828017671235133466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1695470151364460544",
+              "start": 0,
+              "username": "xxooloooo"
+            },
+            {
+              "end": 20,
+              "id": "1252372982",
+              "start": 11,
+              "username": "007share"
+            },
+            {
+              "end": 33,
+              "id": "1427499053227466756",
+              "start": 21,
+              "username": "wqganenshi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828017671235133466",
+        "in_reply_to_user_id": "1695470151364460544",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824477540305539511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxooloooo @007share @wqganenshi_ 一堆省略号的不是百分之百是男的吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824477487209869312",
+            "3_1824477519715725312"
+          ]
+        },
+        "author_id": "1695470151364460544",
+        "conversation_id": "1824477540305539511",
+        "created_at": "2024-08-16T16:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T17:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824477540305539511"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "母猪"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "白痴"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "婊子"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "母狗"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "反差"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "社死"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "曝光"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "粗口"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "爆骂"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1252372982",
+              "start": 16,
+              "username": "007share"
+            },
+            {
+              "end": 38,
+              "id": "1427499053227466756",
+              "start": 26,
+              "username": "wqganenshi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4vhocqugey",
+              "end": 98,
+              "expanded_url": "https://twitter.com/xxooloooo/status/1824477540305539511/photo/1",
+              "media_key": "3_1824477487209869312",
+              "start": 75,
+              "url": "https://t.co/4vHOCQuGeY"
+            },
+            {
+              "display_url": "pic.x.com/4vhocqugey",
+              "end": 98,
+              "expanded_url": "https://twitter.com/xxooloooo/status/1824477540305539511/photo/1",
+              "media_key": "3_1824477519715725312",
+              "start": 75,
+              "url": "https://t.co/4vHOCQuGeY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824477540305539511",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3598,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我对你们不好吗？母猪们，心累了\n@007share\n@wqganenshi_\n#母猪 #白痴 #婊子 #母狗 #反差 #社死 #曝光 #粗口 #爆骂 https://t.co/4vHOCQuGeY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1823052132465135940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 52,
+          "like_count": 316,
+          "listed_count": 0,
+          "tweet_count": 280
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T16:16:08.000Z",
+        "description": "极其嘴臭又爱骂人，完全不把你们这些女权女神当人，母猪找祖宗先看顶置，收白痴atm脑残贡奴，该号涉三号，q: 1697683745，添加需验证，小号  @xxoolooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "xxoolooo"
+              }
+            ]
+          }
+        },
+        "id": "1695470151364460544",
+        "name": "Koip",
+        "pinned_tweet_id": "1827983016599371874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822250036786241536/J5cy_VYG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 142,
+          "like_count": 1898,
+          "listed_count": 6,
+          "tweet_count": 170
+        },
+        "username": "xxooloooo",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-08T18:00:46.000Z",
+        "description": "#老粉回归 fen xiang分着享受使用行使分享美好 🔞#树洞真人搞黄圈子 #关注投稿每日转推 推文中 @007share 就转/投稿私信入群👇 另一个我 @xx007share/代发推荐版 @006share",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "老粉回归"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "tag": "树洞真人搞黄圈子"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "tag": "关注投稿每日转推"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "007share"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "xx007share"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "006share"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gaozhenshe007",
+                "end": 23,
+                "expanded_url": "https://t.me/gaozhenshe007",
+                "start": 0,
+                "url": "https://t.co/FbRUm9ueeh"
+              }
+            ]
+          }
+        },
+        "id": "1252372982",
+        "location": "同好交流电报群",
+        "name": "007𝕏🟡（转推版）",
+        "pinned_tweet_id": "1761031204864999810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754128487634411520/eQEHUU7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25967,
+          "following_count": 63,
+          "like_count": 331,
+          "listed_count": 69,
+          "tweet_count": 10825
+        },
+        "url": "https://t.co/FbRUm9ueeh",
+        "username": "007share",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-17T05:14:45.000Z",
+        "description": "NSFW18+ ｜接投稿！！！投稿格式：@wqganenshi_中文翻译：wq感恩石_|超1天没转私我｜#进出可关注｜💗每日大賽💗請求出戰@MEIRI_DAZUOZHAN💗 ｜🥇认证线下全国安排👉🏻@jinchencos18｜自用老牌VPN https://t.co/YhaoXCFES7",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 52,
+                "tag": "进出可关注"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "wqganenshi_"
+              },
+              {
+                "end": 85,
+                "start": 69,
+                "username": "MEIRI_DAZUOZHAN"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "jinchencos18"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ac4km2ey.lsjsq.top",
+                "end": 144,
+                "expanded_url": "http://ac4km2ey.lsjsq.top/",
+                "start": 121,
+                "url": "https://t.co/YhaoXCFES7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gULO_xwx1Jo0M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gULO_xwx1Jo0M2Rl",
+                "start": 0,
+                "url": "https://t.co/BLtUTCdvtV"
+              }
+            ]
+          }
+        },
+        "id": "1427499053227466756",
+        "location": "有稿投💨💦小群👇",
+        "name": "有稿投😁（接推广）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1482978871964225537/zQoKqgXc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 259439,
+          "following_count": 74,
+          "like_count": 31548,
+          "listed_count": 358,
+          "tweet_count": 25247
+        },
+        "url": "https://t.co/BLtUTCdvtV",
+        "username": "wqganenshi_",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

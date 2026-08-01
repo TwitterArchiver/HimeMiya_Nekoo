@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1821930980648886763",
+    "created_at": "2024-08-09T17:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T18:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821966967160631694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1685577326959239168",
+          "start": 0,
+          "username": "natu_2911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821966967160631694",
+    "in_reply_to_user_id": "1685577326959239168",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821930980648886763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@natu_2911 可愛い——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1821930980648886763",
+        "created_at": "2024-08-09T17:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T18:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821966967160631694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1685577326959239168",
+              "start": 0,
+              "username": "natu_2911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821966967160631694",
+        "in_reply_to_user_id": "1685577326959239168",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821930980648886763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@natu_2911 可愛い——"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821930971840512000"
+          ]
+        },
+        "author_id": "1685577326959239168",
+        "conversation_id": "1821930980648886763",
+        "created_at": "2024-08-09T15:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T16:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821930980648886763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2y3mqfkhzf",
+              "end": 39,
+              "expanded_url": "https://twitter.com/natu_2911/status/1821930980648886763/photo/1",
+              "media_key": "3_1821930971840512000",
+              "start": 16,
+              "url": "https://t.co/2Y3mqFKhzF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821930980648886763",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "このレグカまじで可愛くない？🫶 https://t.co/2Y3mqFKhzF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1819367681000460701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 50,
+          "like_count": 176,
+          "listed_count": 0,
+          "tweet_count": 121
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T09:06:40.000Z",
+        "description": "✧病み垢✧┋08┋fjk⭐︎┋関東住み┋バイ┋精神科通院中┋病状▶︎不安障害/パニ障/場面緘黙/躁鬱/自閉症/聴覚過敏┋自傷▶︎リスカ/レグカ/OD/自殺未遂※個人的に苦手な人Bします",
+        "id": "1685577326959239168",
+        "location": "ここまで生きてきたのちょーえらくない？",
+        "name": "✧⁎₊夏姫₊⁎✧",
+        "pinned_tweet_id": "1821791890808942693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685578269578661888/FBjQyhjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 50,
+          "like_count": 20,
+          "listed_count": 0,
+          "tweet_count": 646
+        },
+        "username": "natu_2911",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1876912645162369350",
+    "created_at": "2025-01-08T08:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T09:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876913024662962291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1238358430429007873",
+          "start": 0,
+          "username": "Kodokuna_kingyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876913024662962291",
+    "in_reply_to_user_id": "1238358430429007873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876912645162369350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kodokuna_kingyo ダメ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1876912645162369350",
+        "created_at": "2025-01-08T08:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T09:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876913024662962291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1238358430429007873",
+              "start": 0,
+              "username": "Kodokuna_kingyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876913024662962291",
+        "in_reply_to_user_id": "1238358430429007873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876912645162369350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kodokuna_kingyo ダメ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1238358430429007873",
+        "conversation_id": "1876912645162369350",
+        "created_at": "2025-01-08T08:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T09:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876912645162369350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876912645162369350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "4にたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "你的心里♡",
+        "name": "🎀音恋✞Mia🎀（算了变成游戏版）",
+        "pinned_tweet_id": "1870486188890767606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 88,
+          "like_count": 1625,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 899
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T06:57:34.000Z",
+        "description": "生きろ！知恵ちゃん！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/4I5NF47NFNFT?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/oV0W4rGmBh"
+              }
+            ]
+          }
+        },
+        "id": "1238358430429007873",
+        "location": "バカの故郷は海の底。",
+        "name": "知恵ちゃん",
+        "pinned_tweet_id": "1827624881879715980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1315548141869953025/uCIznIos_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12301,
+          "following_count": 371,
+          "like_count": 272222,
+          "listed_count": 33,
+          "media_count": 1062,
+          "tweet_count": 5811
+        },
+        "url": "https://t.co/oV0W4rGmBh",
+        "username": "Kodokuna_kingyo",
+        "verified": false
+      }
+    ]
+  }
+}

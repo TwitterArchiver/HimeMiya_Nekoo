@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2049787061646061915",
+    "created_at": "2026-04-30T10:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T11:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049802952379117987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1739976691970412544",
+          "start": 0,
+          "username": "SakiHana_effigy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049802952379117987",
+    "in_reply_to_user_id": "1739976691970412544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049801282802925848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakiHana_effigy 亲亲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2049787061646061915",
+        "created_at": "2026-04-30T10:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049802952379117987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1739976691970412544",
+              "start": 0,
+              "username": "SakiHana_effigy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049802952379117987",
+        "in_reply_to_user_id": "1739976691970412544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049801282802925848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakiHana_effigy 亲亲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739976691970412544",
+        "conversation_id": "2049787061646061915",
+        "created_at": "2026-04-30T10:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049801282802925848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049801282802925848",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049787061646061915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 我也想变幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm  避難垢➡️@D4K_Blackdoll｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 81,
+                "start": 67,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（一条紅愛版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 38,
+          "like_count": 7822,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 4379
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T11:49:17.000Z",
+        "description": "诞生于纯粹恶意的人偶，各位称呼我为咲花即可。擅长运用各类毒素侵蚀意志薄弱的人类大哥哥大姐姐们🖤 \n门牌1377762595，🚪20，同行可免，私信看到感兴趣的会回复，锁奴/贡奴招收中～",
+        "id": "1739976691970412544",
+        "name": "咲花✨",
+        "pinned_tweet_id": "2046235460335444305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045219683532763136/muJtJPoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 19,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 15
+        },
+        "username": "SakiHana_effigy",
+        "verified": false
+      }
+    ]
+  }
+}

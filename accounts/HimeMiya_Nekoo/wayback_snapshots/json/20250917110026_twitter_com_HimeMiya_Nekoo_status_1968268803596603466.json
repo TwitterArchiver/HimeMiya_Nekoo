@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1968240187563278617",
+    "created_at": "2025-09-17T11:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T12:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968268803596603466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1237054141",
+          "start": 0,
+          "username": "yuki_mizuki02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968268803596603466",
+    "in_reply_to_user_id": "1237054141",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968266979086877122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuki_mizuki02 行家"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1968266979086877122].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1968266979086877122",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1968266979086877122"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1968240187563278617",
+        "created_at": "2025-09-17T11:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T12:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968268803596603466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1237054141",
+              "start": 0,
+              "username": "yuki_mizuki02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968268803596603466",
+        "in_reply_to_user_id": "1237054141",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968266979086877122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_mizuki02 行家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（诺艾尔版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 89,
+          "like_count": 5671,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 2229
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-03T00:04:33.000Z",
+        "description": "把最有趣的体验留给自己，用力的跳起来三百六十度 空翻后华丽的让命运击中吧",
+        "id": "1237054141",
+        "location": "Octopus's Garden ",
+        "name": "雪ミズキ",
+        "pinned_tweet_id": "1967280523950322078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955602003213828096/9jq6yazx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 187,
+          "like_count": 2049,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 306
+        },
+        "username": "yuki_mizuki02",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1990081870025920727",
+    "created_at": "2025-11-17T10:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T11:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990373829131268397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1625491529384222725",
+          "start": 0,
+          "username": "Kuroinu_0111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990373829131268397",
+    "in_reply_to_user_id": "1625491529384222725",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990081870025920727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuroinu_0111 ほぼ同じの飲んだことあるね…なんか既視感あってびっくりした"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990081863181053952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54w6SDasAAq0Bv.jpg",
+        "width": 1618
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990081863189475328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54w6SFbMAAt6ZO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990081863197863936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54w6SHbMAAh_JQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990081863218765824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54w6SMaIAA8JaM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1990081870025920727",
+        "created_at": "2025-11-17T10:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T11:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990373829131268397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1625491529384222725",
+              "start": 0,
+              "username": "Kuroinu_0111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990373829131268397",
+        "in_reply_to_user_id": "1625491529384222725",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990081870025920727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuroinu_0111 ほぼ同じの飲んだことあるね…なんか既視感あってびっくりした"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990081863181053952",
+            "3_1990081863189475328",
+            "3_1990081863197863936",
+            "3_1990081863218765824"
+          ]
+        },
+        "author_id": "1625491529384222725",
+        "conversation_id": "1990081870025920727",
+        "created_at": "2025-11-16T15:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990081870025920727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uYYceYqUxf",
+              "end": 35,
+              "expanded_url": "https://x.com/Kuroinu_0111/status/1990081870025920727/photo/1",
+              "media_key": "3_1990081863181053952",
+              "start": 12,
+              "url": "https://t.co/uYYceYqUxf"
+            },
+            {
+              "display_url": "pic.x.com/uYYceYqUxf",
+              "end": 35,
+              "expanded_url": "https://x.com/Kuroinu_0111/status/1990081870025920727/photo/1",
+              "media_key": "3_1990081863189475328",
+              "start": 12,
+              "url": "https://t.co/uYYceYqUxf"
+            },
+            {
+              "display_url": "pic.x.com/uYYceYqUxf",
+              "end": 35,
+              "expanded_url": "https://x.com/Kuroinu_0111/status/1990081870025920727/photo/1",
+              "media_key": "3_1990081863197863936",
+              "start": 12,
+              "url": "https://t.co/uYYceYqUxf"
+            },
+            {
+              "display_url": "pic.x.com/uYYceYqUxf",
+              "end": 35,
+              "expanded_url": "https://x.com/Kuroinu_0111/status/1990081870025920727/photo/1",
+              "media_key": "3_1990081863218765824",
+              "start": 12,
+              "url": "https://t.co/uYYceYqUxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990081870025920727",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 6597,
+          "like_count": 395,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "おくすりに溺れる毎日！ https://t.co/uYYceYqUxf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 69,
+          "like_count": 6395,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 2723
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-14T13:46:14.000Z",
+        "description": "お菓子みたいなあまいブランド/日常/𝜗𝜚君のお守り。-—⚠No Unauthorized Reproduction/「ぴんくのあしあと。」———--店長くろいぬ。作品はハイライトに載せてます。不定期に通販してますshop→ https://t.co/ytVIwAzrWO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "asiato26.base.shop",
+                "end": 135,
+                "expanded_url": "https://asiato26.base.shop/",
+                "start": 112,
+                "url": "https://t.co/ytVIwAzrWO"
+              }
+            ]
+          }
+        },
+        "id": "1625491529384222725",
+        "location": "ハッピーないぬ小屋",
+        "name": "くぬ",
+        "pinned_tweet_id": "1967484599967285353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925757965442732032/DzSLj_qP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10796,
+          "following_count": 79,
+          "like_count": 12186,
+          "listed_count": 50,
+          "media_count": 547,
+          "tweet_count": 4058
+        },
+        "username": "Kuroinu_0111",
+        "verified": false
+      }
+    ]
+  }
+}

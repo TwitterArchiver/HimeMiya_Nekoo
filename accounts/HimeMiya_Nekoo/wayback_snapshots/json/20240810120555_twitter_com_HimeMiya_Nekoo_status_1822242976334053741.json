@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1822211037182992890",
+    "created_at": "2024-08-10T12:05:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-10T13:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822242976334053741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1540984110448910336",
+          "start": 0,
+          "username": "qiubingtong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822242976334053741",
+    "in_reply_to_user_id": "1540984110448910336",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822237434379124849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiubingtong ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1822211037182992890",
+        "created_at": "2024-08-10T12:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T13:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822242976334053741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1540984110448910336",
+              "start": 0,
+              "username": "qiubingtong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822242976334053741",
+        "in_reply_to_user_id": "1540984110448910336",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822237434379124849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiubingtong ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540984110448910336",
+        "conversation_id": "1822211037182992890",
+        "created_at": "2024-08-10T11:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T12:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822237434379124849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822237434379124849",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822211037182992890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 我爱你，对不起，我爱你，对不起，我爱你，对不起。（之前棍勇的梗，这句话就是棍勇被一个黑叔叔强奸的时候，黑叔叔说的）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1819367681000460701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 50,
+          "like_count": 195,
+          "listed_count": 0,
+          "tweet_count": 140
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-26T09:03:52.000Z",
+        "description": "TMD，跟这社会爆了，吃我树干猛击。",
+        "id": "1540984110448910336",
+        "location": "山东",
+        "name": "邱冰彤",
+        "pinned_tweet_id": "1820824212334064027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1540984805470244865/BWLgs5-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 63,
+          "like_count": 40,
+          "listed_count": 0,
+          "tweet_count": 137
+        },
+        "username": "qiubingtong",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2025240610203148542",
+    "created_at": "2026-02-21T19:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T20:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025286249423274053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1852135214795100164",
+          "start": 0,
+          "username": "ayameeii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025286249423274053",
+    "in_reply_to_user_id": "1852135214795100164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025240610203148542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayameeii 不会的俩可怜蛋只会纷纷哑火"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2025240610203148542",
+        "created_at": "2026-02-21T19:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T20:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025286249423274053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025286249423274053",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025240610203148542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 不会的俩可怜蛋只会纷纷哑火"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2025240610203148542",
+        "created_at": "2026-02-21T16:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025240610203148542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025240610203148542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 511,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两个地雷在一起会炸吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 54,
+          "like_count": 7021,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 3369
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存 前世@ayamekiss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2014053871983685932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 418,
+          "like_count": 7404,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2595
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

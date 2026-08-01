@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2026246421264163267",
+    "created_at": "2026-02-24T11:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T12:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026251990368673956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1241328367309336576",
+          "start": 0,
+          "username": "lovekmrlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026251990368673956",
+    "in_reply_to_user_id": "1241328367309336576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026251933171003722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovekmrlove 不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2026246421264163267",
+        "created_at": "2026-02-24T11:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T12:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026251990368673956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1241328367309336576",
+              "start": 0,
+              "username": "lovekmrlove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026251990368673956",
+        "in_reply_to_user_id": "1241328367309336576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026251933171003722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovekmrlove 不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1241328367309336576",
+        "conversation_id": "2026246421264163267",
+        "created_at": "2026-02-24T11:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T12:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026251933171003722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026251933171003722",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026246421264163267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 手机打字会不会也不好打"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "2025759179487784987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 29,
+          "like_count": 7171,
+          "listed_count": 3,
+          "media_count": 176,
+          "tweet_count": 3494
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-21T11:38:49.000Z",
+        "description": "很会做人",
+        "id": "1241328367309336576",
+        "location": "People's Republic of China",
+        "name": "ark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965445127339737088/4IHicYST_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 76,
+          "like_count": 1191,
+          "listed_count": 1,
+          "media_count": 4709,
+          "tweet_count": 5092
+        },
+        "username": "lovekmrlove",
+        "verified": false
+      }
+    ]
+  }
+}

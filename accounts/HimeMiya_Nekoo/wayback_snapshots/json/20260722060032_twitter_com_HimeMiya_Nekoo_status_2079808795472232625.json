@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2079582767491567718",
+    "created_at": "2026-07-22T06:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T07:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079808795472232625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2044236966254821377",
+          "start": 0,
+          "username": "QiuFu161"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079808795472232625",
+    "in_reply_to_user_id": "2044236966254821377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079582767491567718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuFu161 打开x就发现有人咒我死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2079582767491567718",
+        "created_at": "2026-07-22T06:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T07:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079808795472232625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2044236966254821377",
+              "start": 0,
+              "username": "QiuFu161"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079808795472232625",
+        "in_reply_to_user_id": "2044236966254821377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079582767491567718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuFu161 打开x就发现有人咒我死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044236966254821377",
+        "conversation_id": "2079582767491567718",
+        "created_at": "2026-07-21T15:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079582767491567718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079582767491567718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1188,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "晚安\n\n祝每一位毒虫都能早点死\n\n不用谢我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的别烦我｜点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll许愿请来这里不要打扰我们天使妹｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室👉",
+        "name": "🎀音恋✞Mia🎀（查拉图斯特拉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 32,
+          "like_count": 8285,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 5019
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T02:11:16.000Z",
+        "description": "ododod，冲刺冲刺冲刺//原推号@chuyinweilai114@06auser@06auser1\n//单推全球最伟大倒车帝总加速师庆丰包子铺主席、包共中央总书记、中央包委主席习近平//🍥🍥🍥",
+        "id": "2044236966254821377",
+        "name": "yice",
+        "pinned_tweet_id": "2076555415127835052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075301904578650112/x1XfixFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 122,
+          "like_count": 588,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "QiuFu161",
+        "verified": false
+      }
+    ]
+  }
+}

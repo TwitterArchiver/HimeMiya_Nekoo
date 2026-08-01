@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2024877499176603901",
+    "created_at": "2026-02-20T17:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T18:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024896606697652388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857335218673483776",
+          "start": 0,
+          "username": "xiaoyv_zer0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024896606697652388",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024877499176603901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyv_zer0 你自立门户以上的所有不都解决了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2024877499176603901",
+        "created_at": "2026-02-20T17:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024896606697652388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "xiaoyv_zer0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024896606697652388",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024877499176603901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyv_zer0 你自立门户以上的所有不都解决了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2024877499176603901",
+        "created_at": "2026-02-20T16:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024877499176603901"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024877499176603901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 502,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是男生真的对我是诅咒啊，因为我是男生，所以我要被我父母，我爸以所谓的男人，男子汉。每天打呀，当沙包打，我为了被他们爱，我也没接触手机，学习好不行，主动干家务说我没干好，说我真不像个男的，连家务都干不好，我操你妈的，就是因为是个男的就整天折磨我，我也不想当男的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 53,
+          "like_count": 6937,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 3297
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//请资助我谢谢///互关或者加好友请私信我//月亮计划 车万  十二神器 魂系游戏 日恐 还有一些老ip//cos//碎碎念//低智碎碎念//od自伤蛆//我是一个有心理疾病的人//好闺蜜@ace_sana_ @fuyunxian//大徒弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 106,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 127,
+                "start": 117,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 139,
+                "start": 132,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3921,
+          "following_count": 551,
+          "like_count": 7118,
+          "listed_count": 8,
+          "media_count": 300,
+          "tweet_count": 3592
+        },
+        "username": "xiaoyv_zer0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1930258327352537475",
+    "created_at": "2025-06-04T13:49:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T14:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930260526040527002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747931023277502465",
+          "start": 0,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930260526040527002",
+    "in_reply_to_user_id": "1747931023277502465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930258327352537475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte8964 小咪真棒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1645,
+        "media_key": "3_1930258322051276800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsmnt4qboAA94WU.jpg",
+        "width": 1317
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1930258327352537475",
+        "created_at": "2025-06-04T13:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T14:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930260526040527002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930260526040527002",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930258327352537475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 小咪真棒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930258322051276800"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "1930258327352537475",
+        "created_at": "2025-06-04T13:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T14:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930258327352537475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uQ76skggOh",
+              "end": 38,
+              "expanded_url": "https://x.com/damatte8964/status/1930258327352537475/photo/1",
+              "media_key": "3_1930258322051276800",
+              "start": 15,
+              "url": "https://t.co/uQ76skggOh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930258327352537475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "o(｀ω´ )o\n我画了画～ https://t.co/uQ76skggOh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（平凡妹妹版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 90,
+          "like_count": 4613,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 1467
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ*",
+        "id": "1747931023277502465",
+        "location": "🚪99呜呜呜呜呜呜",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1927718648103198984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929548470274367488/QK72McBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32277,
+          "following_count": 724,
+          "like_count": 6326,
+          "listed_count": 43,
+          "media_count": 136,
+          "tweet_count": 2007
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

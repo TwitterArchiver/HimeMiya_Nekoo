@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1988911196842438962",
+    "created_at": "2025-11-14T08:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T09:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989251063673999790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "395155600",
+          "start": 0,
+          "username": "BeauGarcondeTao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989251063673999790",
+    "in_reply_to_user_id": "395155600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988911196842438962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeauGarcondeTao 大部分人都只是想透逼了没那么多过程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1988911196842438962",
+        "created_at": "2025-11-14T08:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989251063673999790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "395155600",
+              "start": 0,
+              "username": "BeauGarcondeTao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989251063673999790",
+        "in_reply_to_user_id": "395155600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988911196842438962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeauGarcondeTao 大部分人都只是想透逼了没那么多过程"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "395155600",
+        "conversation_id": "1988911196842438962",
+        "created_at": "2025-11-13T10:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T11:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988911196842438962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988911196842438962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 62519,
+          "like_count": 644,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "很多人是不是觉得，玩bdsm就是玩怎么突破m的下限，催眠、催情，让ta和中毒了似的欲仙欲死又没s不行，不断突破底线最后变成生活尽废无法独立的人畜啊？\n醒醒吧，m又不是傻子，法律又不是假的，一个性癖罢了，没人真会往死里玩。\n所有一切都是两个人有商有量小心翼翼地讨论和摸索的，娱乐活动罢了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 84,
+          "like_count": 6264,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 2638
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-21T06:50:58.000Z",
+        "description": "CNC sub of  @earthAndsunsh  | 陶氏多奴城堡的肉棒小挂件｜随行犬花球球｜虚拟围栏电击项圈噤声圈养中｜ Je suis Belladonna. Je suis Nausicaa.\nCNC沟通QQ群：792606093",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "earthAndsunsh"
+              }
+            ]
+          }
+        },
+        "id": "395155600",
+        "location": "No where",
+        "name": "亦肉",
+        "pinned_tweet_id": "1907283192379572342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902564927015157760/zW5ghxo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4281,
+          "following_count": 283,
+          "like_count": 866,
+          "listed_count": 13,
+          "media_count": 184,
+          "tweet_count": 1504
+        },
+        "username": "BeauGarcondeTao",
+        "verified": false
+      }
+    ]
+  }
+}

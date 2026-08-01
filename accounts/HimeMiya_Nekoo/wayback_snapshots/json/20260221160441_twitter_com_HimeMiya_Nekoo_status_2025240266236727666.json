@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2025131281328341057",
+    "created_at": "2026-02-21T16:04:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T17:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025240266236727666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2250210022",
+          "start": 0,
+          "username": "stelios199948"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025240266236727666",
+    "in_reply_to_user_id": "2250210022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025131281328341057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stelios199948 谁tm敢说我指甲我上去就把桌子掀了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2025131281328341057",
+        "created_at": "2026-02-21T16:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025240266236727666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2250210022",
+              "start": 0,
+              "username": "stelios199948"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025240266236727666",
+        "in_reply_to_user_id": "2250210022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025131281328341057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stelios199948 谁tm敢说我指甲我上去就把桌子掀了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2250210022",
+        "conversation_id": "2025131281328341057",
+        "created_at": "2026-02-21T08:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T09:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025131281328341057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025131281328341057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎，今天在亲戚家被狠狠劝酒，还叨叨我手指甲,有个人喝多了和我说话两分钟提五次手指甲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 53,
+          "like_count": 7015,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 3356
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-29T15:21:44.000Z",
+        "description": "2009.2|177cm|60Kg|\n喜欢文学，尤其是现实主义\nl出柜|家长求神拜鬼中|自由|平等|独立|私信不提示，晚回请见谅",
+        "id": "2250210022",
+        "name": "空气味🍥软糖",
+        "pinned_tweet_id": "2024694651081674809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024738450784866304/ItqCGyJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 350,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 287
+        },
+        "username": "stelios199948",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1990287747869978856",
+    "created_at": "2025-11-17T09:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T10:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990356638784745530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1839881314155278340",
+          "start": 0,
+          "username": "nei_hua7675"
+        },
+        {
+          "end": 29,
+          "id": "1650682917964906496",
+          "start": 13,
+          "username": "QihuaiNya114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990356638784745530",
+    "in_reply_to_user_id": "1839881314155278340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990349307380445655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nei_hua7675 @QihuaiNya114514 这不是我吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1990287747869978856",
+        "created_at": "2025-11-17T09:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990356638784745530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1839881314155278340",
+              "start": 0,
+              "username": "nei_hua7675"
+            },
+            {
+              "end": 29,
+              "id": "1650682917964906496",
+              "start": 13,
+              "username": "QihuaiNya114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990356638784745530",
+        "in_reply_to_user_id": "1839881314155278340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990349307380445655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nei_hua7675 @QihuaiNya114514 这不是我吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839881314155278340",
+        "conversation_id": "1990287747869978856",
+        "created_at": "2025-11-17T09:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990349307380445655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1650682917964906496",
+              "start": 0,
+              "username": "QihuaiNya114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990349307380445655",
+        "in_reply_to_user_id": "1650682917964906496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990287747869978856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QihuaiNya114514 属于脑雾，可以通过一些小游戏进行训练，但是根治比较困难"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 85,
+          "like_count": 6392,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 2704
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T04:14:54.000Z",
+        "description": "୨୧ .*･ﾟ 痛み止め依存症 │DM 〇 │ 空气系界隈│我想变成地瓜🍠│ ﾟ･*.ೀ",
+        "id": "1839881314155278340",
+        "location": "無の中",
+        "name": "もちもちもち",
+        "pinned_tweet_id": "1984257066735919499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984240985078153217/pIJESQg7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 35,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 165
+        },
+        "username": "nei_hua7675",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T02:07:41.000Z",
+        "description": "Hi there is NekoHuai/04/在深圳接受正规HRT治疗的持证长发男生/ISFJ/轻躁狂期性冷淡郁期超想要贴贴的一般路过无性恋/CPTSD/淡推了偶遇即是缘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/QihuaiStartIn2…",
+                "end": 23,
+                "expanded_url": "https://t.me/QihuaiStartIn2025",
+                "start": 0,
+                "url": "https://t.co/nhS32nNCnR"
+              }
+            ]
+          }
+        },
+        "id": "1650682917964906496",
+        "location": "学生",
+        "name": "这个人叫祁怀怀",
+        "pinned_tweet_id": "1962552783527460986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984882953361768464/1nbI14zT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2491,
+          "following_count": 359,
+          "like_count": 2058,
+          "listed_count": 4,
+          "media_count": 253,
+          "tweet_count": 1514
+        },
+        "url": "https://t.co/nhS32nNCnR",
+        "username": "QihuaiNya114514",
+        "verified": false
+      }
+    ]
+  }
+}

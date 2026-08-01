@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Community Health",
+          "id": "918538847302041600",
+          "name": "Community Health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Common Medication",
+          "id": "920768310152593408",
+          "name": "Common Medication"
+        }
+      }
+    ],
+    "conversation_id": "1987916202296131789",
+    "created_at": "2025-11-10T16:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T17:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987916202296131789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nei_hua7675/st…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/nei_hua7675/status/1984257066735919499",
+          "start": 45,
+          "url": "https://t.co/oswkUMQGKd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987916202296131789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 101,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984257066735919499",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们快去找我姐姐玩她说她头顶要长蘑菇了，她说自己缺固聊快去和她聊天快去快去，爱你们啾咪☆ https://t.co/oswkUMQGKd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_1984257063040827392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4l_SSmbwAAYZt_.jpg",
+        "width": 1500
+      },
+      {
+        "height": 2000,
+        "media_key": "3_1984257064118726656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4l_SWnbMAAvQeY.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Community Health",
+              "id": "918538847302041600",
+              "name": "Community Health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Common Medication",
+              "id": "920768310152593408",
+              "name": "Common Medication"
+            }
+          }
+        ],
+        "conversation_id": "1987916202296131789",
+        "created_at": "2025-11-10T16:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T17:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987916202296131789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nei_hua7675/st…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/nei_hua7675/status/1984257066735919499",
+              "start": 45,
+              "url": "https://t.co/oswkUMQGKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987916202296131789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984257066735919499",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们快去找我姐姐玩她说她头顶要长蘑菇了，她说自己缺固聊快去和她聊天快去快去，爱你们啾咪☆ https://t.co/oswkUMQGKd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984257063040827392",
+            "3_1984257064118726656"
+          ]
+        },
+        "author_id": "1839881314155278340",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Community Health",
+              "id": "918538847302041600",
+              "name": "Community Health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Common Medication",
+              "id": "920768310152593408",
+              "name": "Common Medication"
+            }
+          }
+        ],
+        "conversation_id": "1984257066735919499",
+        "created_at": "2025-10-31T13:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T14:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984257066735919499"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "病み垢"
+            },
+            {
+              "end": 109,
+              "start": 98,
+              "tag": "病み垢さんとお友達に"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vog5nxotzc",
+              "end": 133,
+              "expanded_url": "https://x.com/nei_hua7675/status/1984257066735919499/photo/1",
+              "media_key": "3_1984257063040827392",
+              "start": 110,
+              "url": "https://t.co/vog5nxotzc"
+            },
+            {
+              "display_url": "pic.x.com/vog5nxotzc",
+              "end": 133,
+              "expanded_url": "https://x.com/nei_hua7675/status/1984257066735919499/photo/1",
+              "media_key": "3_1984257064118726656",
+              "start": 110,
+              "url": "https://t.co/vog5nxotzc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984257066735919499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 403,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "˖ ⊹ Tag  ˖  ໒꒱\n\n濃い絡みください .ᐟ.ᐟ♡ \n\n痛み止め依存症│DM 〇 │ 空气系界隈│健全演技中\n\n所以不舒服就需要吃药‼️\n\n♡ ••┈┈┈┈┈┈┈┈•• ♡\n\n#病み垢 #病み垢さんとお友達に https://t.co/vog5nxotzc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 84,
+          "like_count": 6199,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 2608
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T04:14:54.000Z",
+        "description": "୨୧ .*･ﾟ 痛み止め依存症 │DM 〇 │ 空气系界隈│我想变成地瓜🍠│ ﾟ･*.ೀ",
+        "id": "1839881314155278340",
+        "location": "無の中",
+        "name": "もちもちもち",
+        "pinned_tweet_id": "1984257066735919499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984240985078153217/pIJESQg7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 34,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 106
+        },
+        "username": "nei_hua7675",
+        "verified": false
+      }
+    ]
+  }
+}

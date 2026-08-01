@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2025489394296397898",
+    "created_at": "2026-02-22T11:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T12:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025532457567797371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2001371240548962304",
+          "start": 0,
+          "username": "figureout275662"
+        },
+        {
+          "end": 23,
+          "id": "1978471428170379264",
+          "start": 17,
+          "username": "71tfi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025532457567797371",
+    "in_reply_to_user_id": "2001371240548962304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025505007156539663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@figureout275662 @71tfi 真的别人被骗是笨、你这机翻都翻不明白不会用的真是活该了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2025489394296397898",
+        "created_at": "2026-02-22T11:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T12:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025532457567797371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001371240548962304",
+              "start": 0,
+              "username": "figureout275662"
+            },
+            {
+              "end": 23,
+              "id": "1978471428170379264",
+              "start": 17,
+              "username": "71tfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025532457567797371",
+        "in_reply_to_user_id": "2001371240548962304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025505007156539663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@figureout275662 @71tfi 真的别人被骗是笨、你这机翻都翻不明白不会用的真是活该了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001371240548962304",
+        "conversation_id": "2025489394296397898",
+        "created_at": "2026-02-22T09:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025505007156539663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1978471428170379264",
+              "start": 0,
+              "username": "71tfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025505007156539663",
+        "in_reply_to_user_id": "1978471428170379264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025489394296397898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@71tfi 私は海外の奴隷だ。弄ばれたい、訓練されたい、辱められたい、ホステスに支配され侮辱されたい、ホステスの犬になりたい。主人のために足や肛門を舐めたい。主人の尿と水を手に入れることは私の名誉だ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 54,
+          "like_count": 7068,
+          "listed_count": 3,
+          "media_count": 177,
+          "tweet_count": 3410
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-17T19:18:12.000Z",
+        "description": "做人顶天立地",
+        "id": "2001371240548962304",
+        "name": "figureout",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001371440344633345/1ZZRvJQ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 249,
+          "like_count": 4317,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 120
+        },
+        "username": "figureout275662",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-15T14:43:04.000Z",
+        "description": "JPN🇯🇵 国立大卒の都内OLお姉さん♡",
+        "id": "1978471428170379264",
+        "name": "ゆり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998059132159774720/3X3CpUbU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 3,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 96
+        },
+        "username": "71tfi",
+        "verified": false
+      }
+    ]
+  }
+}

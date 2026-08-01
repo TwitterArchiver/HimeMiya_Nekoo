@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2024545665385451975",
+    "created_at": "2026-02-20T03:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T04:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024683723468451868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1931321288892751872",
+          "start": 0,
+          "username": "cidao070113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024683723468451868",
+    "in_reply_to_user_id": "1931321288892751872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024545665385451975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cidao070113 个体多了就是群体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2024545665385451975",
+        "created_at": "2026-02-20T03:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T04:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024683723468451868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1931321288892751872",
+              "start": 0,
+              "username": "cidao070113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024683723468451868",
+        "in_reply_to_user_id": "1931321288892751872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024545665385451975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cidao070113 个体多了就是群体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931321288892751872",
+        "conversation_id": "2024545665385451975",
+        "created_at": "2026-02-19T18:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T19:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024545665385451975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024545665385451975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 801,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉男的都这样，对自己刚认识且不算很在意的女孩毫无尊重，不带大脑思考，无意识地耍流氓。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 54,
+          "like_count": 6904,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 3245
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-07T12:04:30.000Z",
+        "description": "我是叨叨、泛性恋 1️⃣无🚪想加谁vx我自己会要  2️⃣私信不要叫姐姐！！3️⃣只发可以认识一下吗的不回4️⃣提问箱📪 https://t.co/RSwAo9Pseo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cidao31181",
+                "end": 84,
+                "expanded_url": "https://ngl.link/cidao31181",
+                "start": 61,
+                "url": "https://t.co/RSwAo9Pseo"
+              }
+            ]
+          }
+        },
+        "id": "1931321288892751872",
+        "location": "小船",
+        "name": "hh",
+        "pinned_tweet_id": "2022223566826352759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960679267089702919/ztNGEkpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5092,
+          "following_count": 290,
+          "like_count": 3453,
+          "listed_count": 6,
+          "media_count": 115,
+          "tweet_count": 2864
+        },
+        "username": "cidao070113",
+        "verified": false
+      }
+    ]
+  }
+}

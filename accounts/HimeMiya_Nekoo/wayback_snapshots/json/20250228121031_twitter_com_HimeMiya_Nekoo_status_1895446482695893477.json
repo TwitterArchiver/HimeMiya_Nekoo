@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1895400367715930442",
+    "created_at": "2025-02-28T12:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T13:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895446482695893477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "798217615290368000",
+          "start": 0,
+          "username": "ArthurViolent"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895446482695893477",
+    "in_reply_to_user_id": "798217615290368000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895445965500473443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArthurViolent 我他妈要钱我干啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1895400367715930442",
+        "created_at": "2025-02-28T12:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T13:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895446482695893477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "798217615290368000",
+              "start": 0,
+              "username": "ArthurViolent"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895446482695893477",
+        "in_reply_to_user_id": "798217615290368000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895445965500473443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArthurViolent 我他妈要钱我干啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "798217615290368000",
+        "conversation_id": "1895400367715930442",
+        "created_at": "2025-02-28T12:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T13:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895445965500473443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895445965500473443",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895400367715930442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 你要干啥你这是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "你的心里♡",
+        "name": "🎀音恋✞Mia🎀（算了变成游戏版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 89,
+          "like_count": 3255,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 1061
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-14T17:34:44.000Z",
+        "description": "Chinese, 1994, Patriot, kind of communist.\nKink: Patriarchy, Punch bag, Toilet slavery, Cuckqueen, Brainwash, Orgasm control",
+        "id": "798217615290368000",
+        "location": "北京",
+        "name": "Sadist_n_Poem",
+        "pinned_tweet_id": "1135473327693320192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223901453946802176/cITpa76M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 188,
+          "like_count": 62,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 770
+        },
+        "username": "ArthurViolent",
+        "verified": false
+      }
+    ]
+  }
+}

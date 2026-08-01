@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1824953540588285952"
+      ]
+    },
+    "author_id": "1584537561787428865",
+    "conversation_id": "1824953558619607072",
+    "created_at": "2024-08-17T23:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-18T00:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1824953558619607072"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/obokkubgrl",
+          "end": 28,
+          "expanded_url": "https://twitter.com/HimeMiya_Nekoo/status/1824953558619607072/video/1",
+          "media_key": "7_1824953540588285952",
+          "start": 5,
+          "url": "https://t.co/ObOKKubgRL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824953558619607072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发过了🚬 https://t.co/ObOKKubgRL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8700,
+        "height": 1280,
+        "media_key": "7_1824953540588285952",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1824953540588285952/pu/img/C88Hlqp6XU8WtGqQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1824953540588285952/pu/vid/avc1/320x568/9qdguTOSydadB5XF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1824953540588285952/pu/vid/avc1/480x852/D_qxO5lUr3zXn1zP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1824953540588285952/pu/vid/avc1/720x1280/SYrT4ZwSz8orh5LL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1824953540588285952/pu/pl/YKEehB47mG0x4oll.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1824953540588285952"
+          ]
+        },
+        "author_id": "1584537561787428865",
+        "conversation_id": "1824953558619607072",
+        "created_at": "2024-08-17T23:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T00:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824953558619607072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/obokkubgrl",
+              "end": 28,
+              "expanded_url": "https://twitter.com/HimeMiya_Nekoo/status/1824953558619607072/video/1",
+              "media_key": "7_1824953540588285952",
+              "start": 5,
+              "url": "https://t.co/ObOKKubgRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824953558619607072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发过了🚬 https://t.co/ObOKKubgRL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1823052132465135940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 51,
+          "like_count": 291,
+          "listed_count": 0,
+          "tweet_count": 218
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      }
+    ]
+  }
+}

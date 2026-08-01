@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2050403203968356820",
+    "created_at": "2026-05-02T09:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T10:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050511564466430439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942218631267639296",
+          "start": 0,
+          "username": "Shiho_MtF_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050511564466430439",
+    "in_reply_to_user_id": "1942218631267639296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050403203968356820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shiho_MtF_ 最悪、"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1954,
+        "media_key": "3_2050403196011741184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR-1-CbAAAXhBE.jpg",
+        "width": 1726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2050403203968356820",
+        "created_at": "2026-05-02T09:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050511564466430439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942218631267639296",
+              "start": 0,
+              "username": "Shiho_MtF_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050511564466430439",
+        "in_reply_to_user_id": "1942218631267639296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050403203968356820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shiho_MtF_ 最悪、"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050403196011741184"
+          ]
+        },
+        "author_id": "1942218631267639296",
+        "conversation_id": "2050403203968356820",
+        "created_at": "2026-05-02T02:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T03:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050403203968356820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rc5vDhpEJH",
+              "end": 107,
+              "expanded_url": "https://x.com/Shiho_MtF_/status/2050403203968356820/photo/1",
+              "media_key": "3_2050403196011741184",
+              "start": 84,
+              "url": "https://t.co/rc5vDhpEJH"
+            },
+            {
+              "display_url": "x.com/Shiho_MtF_/sta…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/Shiho_MtF_/status/2050044049919529053",
+              "start": 108,
+              "url": "https://t.co/NjyZQx2iDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050403203968356820",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1831,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050044049919529053",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【速報】\nまずいぞまずいぞ‼️\nマツキヨココカラグループのお店はもう規制が始まってる‼️\n・学生証、身分証の提示\n・年齢確認\n・用法用量の確認\nが義務付けられてた‼️ https://t.co/rc5vDhpEJH https://t.co/NjyZQx2iDm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm  避難垢➡️@D4K_Blackdoll｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 81,
+                "start": 67,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（一条紅愛版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 38,
+          "like_count": 7831,
+          "listed_count": 4,
+          "media_count": 217,
+          "tweet_count": 4404
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T13:46:30.000Z",
+        "description": "￤高1(10)￤病み垢￤MtF￤ピアニスト￤解離性健忘￤性別違和￤\n￤活動垢🎧@Shiho_music_ ￤親友@nlO10QYnfh38198\n￤Amazon→https://t.co/euOQH8G2HP?",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "Shiho_music_"
+              },
+              {
+                "end": 72,
+                "start": 56,
+                "username": "nlO10QYnfh38198"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 104,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1EN36XRX8G12R",
+                "start": 81,
+                "url": "https://t.co/euOQH8G2HP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shiho_MtF_",
+                "end": 23,
+                "expanded_url": "https://lit.link/shiho_MtF_",
+                "start": 0,
+                "url": "https://t.co/U9gdg63t5H"
+              }
+            ]
+          }
+        },
+        "id": "1942218631267639296",
+        "location": "東京🗼￤パキ中‼️￤将来の夢は看護師🩺￤是非繋がろ！",
+        "name": "しほ໒꒱꒰ ྀི ∩⸝⸝∩ ꒱ෆ˚*",
+        "pinned_tweet_id": "2045740514453193164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047923648317763584/Z3ysi6Rt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 611,
+          "like_count": 14878,
+          "listed_count": 5,
+          "media_count": 96,
+          "tweet_count": 3169
+        },
+        "url": "https://t.co/U9gdg63t5H",
+        "username": "Shiho_MtF_",
+        "verified": true
+      }
+    ]
+  }
+}

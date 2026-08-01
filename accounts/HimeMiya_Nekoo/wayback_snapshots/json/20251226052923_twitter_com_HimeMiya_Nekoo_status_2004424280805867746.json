@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2004372864376754614",
+    "created_at": "2025-12-26T05:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T06:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004424280805867746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1784190372148658176",
+          "start": 0,
+          "username": "batista_br14742"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004424280805867746",
+    "in_reply_to_user_id": "1784190372148658176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004404077531484656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@batista_br14742 我也喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2004372864376754614",
+        "created_at": "2025-12-26T05:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T06:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004424280805867746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1784190372148658176",
+              "start": 0,
+              "username": "batista_br14742"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004424280805867746",
+        "in_reply_to_user_id": "1784190372148658176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004404077531484656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@batista_br14742 我也喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784190372148658176",
+        "conversation_id": "2004372864376754614",
+        "created_at": "2025-12-26T04:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T05:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004404077531484656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004404077531484656",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004372864376754614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlCDZU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlCDZU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP6tL0"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（薛湘灵版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 74,
+          "like_count": 6514,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 2904
+        },
+        "url": "https://t.co/LC1ydP6tL0",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-27T11:58:51.000Z",
+        "description": "",
+        "id": "1784190372148658176",
+        "name": "king",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949856453738876928/2cSVtGdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 950,
+          "like_count": 11185,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 508
+        },
+        "username": "batista_br14742",
+        "verified": false
+      }
+    ]
+  }
+}

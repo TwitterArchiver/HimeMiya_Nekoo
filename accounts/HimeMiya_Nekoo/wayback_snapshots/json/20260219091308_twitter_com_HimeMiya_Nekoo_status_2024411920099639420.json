@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2024411920099639420",
+    "created_at": "2026-02-19T09:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T10:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024411920099639420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mmetut/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/mmetut/status/2024089047778353276",
+          "start": 5,
+          "url": "https://t.co/BJoJUwZBp4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024411920099639420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024089047778353276",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/BJoJUwZBp4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2024411920099639420",
+        "created_at": "2026-02-19T09:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024411920099639420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mmetut/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/mmetut/status/2024089047778353276",
+              "start": 5,
+              "url": "https://t.co/BJoJUwZBp4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024411920099639420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024089047778353276",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/BJoJUwZBp4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976383726855839744",
+        "conversation_id": "2024089047778353276",
+        "created_at": "2026-02-18T11:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T12:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024089047778353276"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024089047778353276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7569,
+          "like_count": 172,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "你根本就不喜欢我呀，你就是觉得我乖乖的，笨笨的，逗我好玩而已，没关系呀，我愿意的，你再怎么骗我，我也只喜欢你呀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 54,
+          "like_count": 6888,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 3210
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T20:26:15.000Z",
+        "description": "希望每个人都幸福｜brat｜在上学｜哥哥控｜没有🚪不加v不闲聊（互关可以）不礼貌的会被我屏蔽 不要给我发牛子",
+        "id": "1976383726855839744",
+        "name": "风铃",
+        "pinned_tweet_id": "2024089047778353276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024281684741705728/aIMam9uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 27,
+          "like_count": 2118,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 331
+        },
+        "username": "MmeTuT",
+        "verified": false
+      }
+    ]
+  }
+}

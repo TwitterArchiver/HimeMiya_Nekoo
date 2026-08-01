@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043198954201030657"
+      ]
+    },
+    "author_id": "1584537561787428865",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043198959381021102",
+    "created_at": "2026-04-12T05:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T06:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043198959381021102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Luq63sVjDS",
+          "end": 34,
+          "expanded_url": "https://x.com/HimeMiya_Nekoo/status/2043198959381021102/photo/1",
+          "media_key": "3_2043198954201030657",
+          "start": 11,
+          "url": "https://t.co/Luq63sVjDS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043198959381021102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经典老吃家组合套装😋 https://t.co/Luq63sVjDS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2043198954201030657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFrmn56aIAEenF0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043198954201030657"
+          ]
+        },
+        "author_id": "1584537561787428865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043198959381021102",
+        "created_at": "2026-04-12T05:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043198959381021102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Luq63sVjDS",
+              "end": 34,
+              "expanded_url": "https://x.com/HimeMiya_Nekoo/status/2043198959381021102/photo/1",
+              "media_key": "3_2043198954201030657",
+              "start": 11,
+              "url": "https://t.co/Luq63sVjDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043198959381021102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经典老吃家组合套装😋 https://t.co/Luq63sVjDS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（方知宥版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 27,
+          "like_count": 7346,
+          "listed_count": 4,
+          "media_count": 201,
+          "tweet_count": 3919
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      }
+    ]
+  }
+}

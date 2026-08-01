@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1938607040701800499",
+    "created_at": "2025-06-27T14:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T15:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938607040701800499"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1938607040701800499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嘘，闭嘴。你的每一个选择都是正确的，玩gel都要走一遍难道你第一次不选第二次就不选了吗，好不容易进这条线就请享受这段故事吧，至少选择了另一条线的你还在想如果换了一个选项会得到什么结果呢。你的痛苦有最深层次的意义，这个意义从不关乎好坏，它不会给你美好的未来，但请记住它必然足够有意义。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1938607040701800499",
+        "created_at": "2025-06-27T14:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T15:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938607040701800499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938607040701800499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘘，闭嘴。你的每一个选择都是正确的，玩gel都要走一遍难道你第一次不选第二次就不选了吗，好不容易进这条线就请享受这段故事吧，至少选择了另一条线的你还在想如果换了一个选项会得到什么结果呢。你的痛苦有最深层次的意义，这个意义从不关乎好坏，它不会给你美好的未来，但请记住它必然足够有意义。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（平凡姐姐版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 93,
+          "like_count": 4725,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 1609
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      }
+    ]
+  }
+}

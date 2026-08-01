@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2041753848201802103",
+    "created_at": "2026-04-09T06:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T07:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042123423896498461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976254529399332864",
+          "start": 0,
+          "username": "yuanmiaojk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042123423896498461",
+    "in_reply_to_user_id": "1976254529399332864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041753848201802103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanmiaojk 那你偷别人三次元的图用干嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2041753844724727808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXETdmbAAAeDgR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2041753848201802103",
+        "created_at": "2026-04-09T06:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042123423896498461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976254529399332864",
+              "start": 0,
+              "username": "yuanmiaojk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042123423896498461",
+        "in_reply_to_user_id": "1976254529399332864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041753848201802103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanmiaojk 那你偷别人三次元的图用干嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041753844724727808"
+          ]
+        },
+        "author_id": "1976254529399332864",
+        "conversation_id": "2041753848201802103",
+        "created_at": "2026-04-08T05:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041753848201802103"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "atm"
+            },
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "贡奴"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "贡猪"
+            },
+            {
+              "end": 141,
+              "start": 137,
+              "tag": "奴下奴"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "败北"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "上贡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OwY6hCFwSS",
+              "end": 174,
+              "expanded_url": "https://x.com/yuanmiaojk/status/2041753848201802103/photo/1",
+              "media_key": "3_2041753844724727808",
+              "start": 151,
+              "url": "https://t.co/OwY6hCFwSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041753848201802103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3564,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我上贡好像是想体验一种败北的感觉，把钱给出去的时候我才会觉得我输了，这样就会很兴奋\n到我这个等级的贡奴的话其实都不需要对方特意做什么特别的，因为我自己知道我怎么样会爽，对方只要在我需要的时候让我上贡我自己就会给钱了\n其他贡奴会是这样吗\n#atm #ATM奴 #贡奴 #贡猪 #奴下奴 #败北  #上贡 https://t.co/OwY6hCFwSS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（方知宥版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 27,
+          "like_count": 7305,
+          "listed_count": 4,
+          "media_count": 195,
+          "tweet_count": 3832
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T11:52:57.000Z",
+        "description": "贡奴喵,戒贡from 2025/09/14 to 2025/11/07 失败了！\n几乎只能靠贡系内容自慰\n爱好:温柔勾引、反杀、倒反天罡提款、戒贡\nNG:粗口辱骂、射精管理、现实动作(如磕头下跪)、角色扮演、报销账单\n调教成功后支持直接提款(提太多会逃跑\n半夜一般不在\n前账号rbqrss\n不会有愿意给远喵回血的孩子吧w",
+        "id": "1976254529399332864",
+        "name": "远喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976255088596484098/PJmRmHiA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 58,
+          "like_count": 790,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 45
+        },
+        "username": "yuanmiaojk",
+        "verified": false
+      }
+    ]
+  }
+}

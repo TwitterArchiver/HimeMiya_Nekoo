@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026885863062519808"
+      ]
+    },
+    "author_id": "1584537561787428865",
+    "conversation_id": "2026877578804604954",
+    "created_at": "2026-02-26T05:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T06:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026885871769891290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1839881314155278340",
+          "start": 0,
+          "username": "nei_hua7675"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NG9SVCiX0C",
+          "end": 45,
+          "expanded_url": "https://x.com/HimeMiya_Nekoo/status/2026885871769891290/photo/1",
+          "media_key": "3_2026885863062519808",
+          "start": 22,
+          "url": "https://t.co/NG9SVCiX0C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026885871769891290",
+    "in_reply_to_user_id": "1839881314155278340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026885309049483577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nei_hua7675 我没懂我急什么了 https://t.co/NG9SVCiX0C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026885863062519808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDx9BwaQAAmHsG.jpg",
+        "width": 1154
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026885863062519808"
+          ]
+        },
+        "author_id": "1584537561787428865",
+        "conversation_id": "2026877578804604954",
+        "created_at": "2026-02-26T05:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026885871769891290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1839881314155278340",
+              "start": 0,
+              "username": "nei_hua7675"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NG9SVCiX0C",
+              "end": 45,
+              "expanded_url": "https://x.com/HimeMiya_Nekoo/status/2026885871769891290/photo/1",
+              "media_key": "3_2026885863062519808",
+              "start": 22,
+              "url": "https://t.co/NG9SVCiX0C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026885871769891290",
+        "in_reply_to_user_id": "1839881314155278340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026885309049483577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nei_hua7675 我没懂我急什么了 https://t.co/NG9SVCiX0C"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839881314155278340",
+        "conversation_id": "2026877578804604954",
+        "created_at": "2026-02-26T05:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026885309049483577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026885309049483577",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026877578804604954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 原来真的有人把发牢骚当成发自肺腑的真心话喔，太懂了，世界真谛已经被此人掌握了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 115,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 92,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "2025759179487784987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 28,
+          "like_count": 7246,
+          "listed_count": 4,
+          "media_count": 180,
+          "tweet_count": 3570
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T04:14:54.000Z",
+        "description": "୨୧ .*･ﾟ 痛み止め依存症 │DM 〇 │ 空气系界隈│我想变成地瓜🍠│ ﾟ･*.ೀ",
+        "id": "1839881314155278340",
+        "location": "無の中",
+        "name": "もちもちもち",
+        "pinned_tweet_id": "1984257066735919499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984240985078153217/pIJESQg7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 47,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 326
+        },
+        "username": "nei_hua7675",
+        "verified": false
+      }
+    ]
+  }
+}

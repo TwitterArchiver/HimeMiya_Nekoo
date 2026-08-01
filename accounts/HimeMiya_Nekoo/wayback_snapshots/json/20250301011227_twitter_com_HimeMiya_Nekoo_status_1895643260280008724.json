@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1895400367715930442",
+    "created_at": "2025-03-01T01:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T02:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895643260280008724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1675951117631631360",
+          "start": 0,
+          "username": "AdaiQuQ_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895643260280008724",
+    "in_reply_to_user_id": "1675951117631631360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895408602049089826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AdaiQuQ_ 好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1895400367715930442",
+        "created_at": "2025-03-01T01:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T02:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895643260280008724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1675951117631631360",
+              "start": 0,
+              "username": "AdaiQuQ_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895643260280008724",
+        "in_reply_to_user_id": "1675951117631631360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895408602049089826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AdaiQuQ_ 好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675951117631631360",
+        "conversation_id": "1895400367715930442",
+        "created_at": "2025-02-28T09:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T10:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895408602049089826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895408602049089826",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895400367715930442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 我吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "你的心里♡",
+        "name": "🎀音恋✞Mia🎀（算了变成游戏版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 89,
+          "like_count": 3245,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 1063
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T19:34:27.000Z",
+        "description": "请主动私我！！\n不会文爱\nQQ/电报回复会比较及时 推回复不一定及时\nQQ：2427104523（说明来意）\n 纸飞机/电报 https://t.co/urystyMFmY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/nianchoujinye",
+                "end": 86,
+                "expanded_url": "http://t.me/nianchoujinye",
+                "start": 63,
+                "url": "https://t.co/urystyMFmY"
+              }
+            ]
+          }
+        },
+        "id": "1675951117631631360",
+        "name": "包皮垢臭屌（男同勿扰）",
+        "pinned_tweet_id": "1893924093709193384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888196998102478848/H2jICU26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 2822,
+          "like_count": 27044,
+          "listed_count": 6,
+          "media_count": 153,
+          "tweet_count": 894
+        },
+        "username": "AdaiQuQ_",
+        "verified": false
+      }
+    ]
+  }
+}

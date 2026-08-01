@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1883099666553966802",
+    "created_at": "2025-01-25T12:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T13:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883124485873922357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1257672824346431488",
+          "start": 0,
+          "username": "akilovelyuriyh"
+        },
+        {
+          "end": 28,
+          "id": "1375012183382269953",
+          "start": 16,
+          "username": "HelovJumire"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883124485873922357",
+    "in_reply_to_user_id": "1257672824346431488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883124062903480535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akilovelyuriyh @HelovJumire v我50看看实力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1883099666553966802",
+        "created_at": "2025-01-25T12:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T13:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883124485873922357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1257672824346431488",
+              "start": 0,
+              "username": "akilovelyuriyh"
+            },
+            {
+              "end": 28,
+              "id": "1375012183382269953",
+              "start": 16,
+              "username": "HelovJumire"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883124485873922357",
+        "in_reply_to_user_id": "1257672824346431488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883124062903480535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akilovelyuriyh @HelovJumire v我50看看实力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257672824346431488",
+        "conversation_id": "1883099666553966802",
+        "created_at": "2025-01-25T12:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T13:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883124062903480535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            },
+            {
+              "end": 28,
+              "id": "1375012183382269953",
+              "start": 16,
+              "username": "HelovJumire"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883124062903480535",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883122928981848185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo @HelovJumire 我来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "你的心里♡",
+        "name": "🎀音恋✞Mia🎀（算了变成游戏版）",
+        "pinned_tweet_id": "1870486188890767606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 76,
+          "like_count": 1874,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 920
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-05T14:05:51.000Z",
+        "description": "冒充人类",
+        "id": "1257672824346431488",
+        "name": "狗悟饭与龟波功⛄️🤍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1257673100063240194/-18Pc17__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 1163,
+          "like_count": 676,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 755
+        },
+        "username": "akilovelyuriyh",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-25T09:10:34.000Z",
+        "description": "非典型男S，洗脑型玩家，爱和虔诚是唯一标准。喜欢让保守谨慎的女孩自毁堕落，又对丧志下贱的母狗无边宠爱。一边吻你一边折断你的鼻梁，如果流出的是来自脑子里的精液，这样的母畜才算是合格。QQ：515484969，加联系方式得到的是一杯奶茶而不会是辱骂。",
+        "id": "1375012183382269953",
+        "location": "北京",
+        "name": "不寿不伤",
+        "pinned_tweet_id": "1707341888565751918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688500056108998656/S4Xai1_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 368,
+          "like_count": 38,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 138
+        },
+        "username": "HelovJumire",
+        "verified": true
+      }
+    ]
+  }
+}

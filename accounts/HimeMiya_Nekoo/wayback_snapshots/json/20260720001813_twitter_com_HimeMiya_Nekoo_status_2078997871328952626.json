@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2077765349848781136",
+    "created_at": "2026-07-20T00:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T01:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078997871328952626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1499067414264254465",
+          "start": 0,
+          "username": "bitch99996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078997871328952626",
+    "in_reply_to_user_id": "1499067414264254465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077765349848781136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bitch99996 经典照片的主人不知道自己被挂了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077765197499101184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNW0cEuacAAjWYB.jpg",
+        "width": 996
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077765201261371392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNW0cSvaIAAvu5k.jpg",
+        "width": 979
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2077765349848781136",
+        "created_at": "2026-07-20T00:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T01:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078997871328952626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1499067414264254465",
+              "start": 0,
+              "username": "bitch99996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078997871328952626",
+        "in_reply_to_user_id": "1499067414264254465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077765349848781136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bitch99996 经典照片的主人不知道自己被挂了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077765197499101184",
+            "3_2077765201261371392"
+          ]
+        },
+        "author_id": "1499067414264254465",
+        "conversation_id": "2077765349848781136",
+        "created_at": "2026-07-16T14:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077765349848781136"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "白给"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "傻逼"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "母猪"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "倒贴"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "白给"
+            },
+            {
+              "end": 44,
+              "start": 29,
+              "tag": "cosplayㅤㅤㅤㅤㅤㅤㅤ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vco6zIjBPJ",
+              "end": 68,
+              "expanded_url": "https://x.com/bitch99996/status/2077765349848781136/photo/1",
+              "media_key": "3_2077765197499101184",
+              "start": 45,
+              "url": "https://t.co/Vco6zIjBPJ"
+            },
+            {
+              "display_url": "pic.x.com/Vco6zIjBPJ",
+              "end": 68,
+              "expanded_url": "https://x.com/bitch99996/status/2077765349848781136/photo/1",
+              "media_key": "3_2077765201261371392",
+              "start": 45,
+              "url": "https://t.co/Vco6zIjBPJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077765349848781136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2512,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挂一头傻屄COS #白给 #傻逼 #母猪 #倒贴 #白给 #cosplayㅤㅤㅤㅤㅤㅤㅤ https://t.co/Vco6zIjBPJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的别烦我｜点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室👉",
+        "name": "🎀音恋✞Mia🎀（查拉图斯特拉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 32,
+          "like_count": 8245,
+          "listed_count": 3,
+          "media_count": 252,
+          "tweet_count": 4955
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-02T17:01:44.000Z",
+        "description": "此处省略100种XP，女权 胁迫 控制 压榨 洗脑 吸金 自毁 社死 忠爱死妈喷卵母猪欢迎骚扰收无脑母人（皮下男死绝户）",
+        "id": "1499067414264254465",
+        "location": "🚪加微耍狗",
+        "name": "变态恶毒男",
+        "pinned_tweet_id": "1758466481812304245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988230937096974339/AvrHc-cR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 80,
+          "like_count": 483,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "bitch99996",
+        "verified": false
+      }
+    ]
+  }
+}

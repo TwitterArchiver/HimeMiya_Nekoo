@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1894970405217280232",
+    "created_at": "2025-02-27T04:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T05:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894970405217280232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584539548843151361",
+          "start": 3,
+          "username": "UUUx_mm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894970405217280232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1697267801462104163",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UUUx_mm: 母人小课堂18♡\n无论是流浪汉还是肥肥大叔都无疑是傻逼母猪最好的归宿（前提是看得上媛媛呢）w\n几个月没洗澡浑身散发着汗臭，肉棒的骚臭味更是隔着内裤都溢出来了，这样的肉棒满满的包皮垢和尿渍，当然发黄发黑的内裤、脚臭的袜子也是佳品w\n啊♡想想就要高潮了，想…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1894970405217280232].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1894970405217280232",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1894970405217280232"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1252,
+        "media_key": "3_1697267797125156864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F43oEaha0AAnNJT.jpg",
+        "width": 1667
+      },
+      {
+        "height": 1500,
+        "media_key": "3_1697267797150388225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F43oEanb0AEt3UK.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1697267797125156864",
+            "3_1697267797150388225"
+          ]
+        },
+        "author_id": "1584539548843151361",
+        "conversation_id": "1697267801462104163",
+        "created_at": "2023-08-31T15:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2023-08-31T16:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1697267801462104163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hLyl71Zcm4",
+              "end": 166,
+              "expanded_url": "https://x.com/MebutaHime/status/1697267801462104163/photo/1",
+              "media_key": "3_1697267797125156864",
+              "start": 143,
+              "url": "https://t.co/hLyl71Zcm4"
+            },
+            {
+              "display_url": "pic.x.com/hLyl71Zcm4",
+              "end": 166,
+              "expanded_url": "https://x.com/MebutaHime/status/1697267801462104163/photo/1",
+              "media_key": "3_1697267797150388225",
+              "start": 143,
+              "url": "https://t.co/hLyl71Zcm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1697267801462104163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 10709,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "母人小课堂18♡\n无论是流浪汉还是肥肥大叔都无疑是傻逼母猪最好的归宿（前提是看得上媛媛呢）w\n几个月没洗澡浑身散发着汗臭，肉棒的骚臭味更是隔着内裤都溢出来了，这样的肉棒满满的包皮垢和尿渍，当然发黄发黑的内裤、脚臭的袜子也是佳品w\n啊♡想想就要高潮了，想被这样的肉棒弄脏jk再穿去学校w https://t.co/hLyl71Zcm4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "你的心里♡",
+        "name": "🎀音恋✞Mia🎀（算了变成游戏版）",
+        "pinned_tweet_id": "1870486188890767606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 89,
+          "like_count": 3232,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 1051
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-24T13:37:38.000Z",
+        "description": "✞ #病垢➡️@HimeMiya_Nekoo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 2,
+                "tag": "病垢"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "HimeMiya_Nekoo"
+              }
+            ]
+          }
+        },
+        "id": "1584539548843151361",
+        "name": "HimeMiya_媛🐰",
+        "pinned_tweet_id": "1845802301694603300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822231957989924864/_zVgV4mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 2,
+          "like_count": 111,
+          "listed_count": 7,
+          "media_count": 69,
+          "tweet_count": 270
+        },
+        "username": "UUUx_mm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2004792895023575167",
+    "created_at": "2025-12-27T12:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T13:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004899322027196864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1882030403516862464",
+          "start": 0,
+          "username": "parm_chocolate_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004899322027196864",
+    "in_reply_to_user_id": "1882030403516862464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004792895023575167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@parm_chocolate_ これカメラなの？、"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1273,
+        "media_key": "3_2004792885372485632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9J0geTbgAAcy8c.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2004792895023575167",
+        "created_at": "2025-12-27T12:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T13:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004899322027196864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1882030403516862464",
+              "start": 0,
+              "username": "parm_chocolate_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004899322027196864",
+        "in_reply_to_user_id": "1882030403516862464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004792895023575167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@parm_chocolate_ これカメラなの？、"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004792885372485632"
+          ]
+        },
+        "author_id": "1882030403516862464",
+        "conversation_id": "2004792895023575167",
+        "created_at": "2025-12-27T05:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004792895023575167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J1Xg8pCFcf",
+              "end": 54,
+              "expanded_url": "https://x.com/parm_chocolate_/status/2004792895023575167/photo/1",
+              "media_key": "3_2004792885372485632",
+              "start": 31,
+              "url": "https://t.co/J1Xg8pCFcf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004792895023575167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 486,
+          "impression_count": 1832150,
+          "like_count": 8849,
+          "quote_count": 161,
+          "reply_count": 218,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "天井にカメラがついてる……\n精神病棟だから仕方ないのかな…… https://t.co/J1Xg8pCFcf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlCDZU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlCDZU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP6tL0"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（薛湘灵版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 75,
+          "like_count": 6571,
+          "listed_count": 3,
+          "media_count": 162,
+          "tweet_count": 2933
+        },
+        "url": "https://t.co/LC1ydP6tL0",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T11:40:05.000Z",
+        "description": "🪼やくちう天使🤍現世随想録🪽\n 病み垢/統合失調症 鬱etc…/手帳2級  \n現世垢 @MIO_OIW \nにこいち @pino_candy_\nFA #みおみお天使像",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "みおみお天使像"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "MIO_OIW"
+              },
+              {
+                "end": 70,
+                "start": 58,
+                "username": "pino_candy_"
+              }
+            ]
+          }
+        },
+        "id": "1882030403516862464",
+        "location": "天王星",
+        "name": "ぱるむ.ᐟ🪽入院中",
+        "pinned_tweet_id": "2001928060569039329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923666935264272386/4DsLuQie_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1765,
+          "following_count": 860,
+          "like_count": 24625,
+          "listed_count": 18,
+          "media_count": 479,
+          "tweet_count": 4637
+        },
+        "username": "parm_chocolate_",
+        "verified": false
+      }
+    ]
+  }
+}

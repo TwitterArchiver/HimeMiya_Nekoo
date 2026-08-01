@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2021440646469558438",
+    "created_at": "2026-02-11T23:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T00:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021725284228378642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1646175801404956672",
+          "start": 0,
+          "username": "LightDark0615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021725284228378642",
+    "in_reply_to_user_id": "1646175801404956672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021636467634975123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LightDark0615 脆脆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2021440646469558438",
+        "created_at": "2026-02-11T23:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T00:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021725284228378642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1646175801404956672",
+              "start": 0,
+              "username": "LightDark0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021725284228378642",
+        "in_reply_to_user_id": "1646175801404956672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021636467634975123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LightDark0615 脆脆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646175801404956672",
+        "conversation_id": "2021440646469558438",
+        "created_at": "2026-02-11T17:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T18:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021636467634975123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021636467634975123",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021440646469558438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 搞点奥利奥我要吃麦旋风"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlCDZU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlCDZU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP6tL0"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（薛湘灵版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 62,
+          "like_count": 6848,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 3103
+        },
+        "url": "https://t.co/LC1ydP6tL0",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T15:37:57.000Z",
+        "description": "一个非正常的生物。",
+        "id": "1646175801404956672",
+        "location": "Birmingham, England",
+        "name": "明暗的Ld",
+        "pinned_tweet_id": "1865872878509699099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1646176076870172672/-5JIGy_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 175,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 395
+        },
+        "username": "LightDark0615",
+        "verified": false
+      }
+    ]
+  }
+}

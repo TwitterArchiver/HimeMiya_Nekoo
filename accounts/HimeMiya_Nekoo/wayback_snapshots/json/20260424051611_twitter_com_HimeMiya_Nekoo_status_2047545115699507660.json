@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2047282489341903145",
+    "created_at": "2026-04-24T05:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047545115699507660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2013291448838610944",
+          "start": 0,
+          "username": "yyqx52000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047545115699507660",
+    "in_reply_to_user_id": "2013291448838610944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047282489341903145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyqx52000 他在说什么东西😟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2047282489341903145",
+        "created_at": "2026-04-24T05:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047545115699507660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2013291448838610944",
+              "start": 0,
+              "username": "yyqx52000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047545115699507660",
+        "in_reply_to_user_id": "2013291448838610944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047282489341903145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyqx52000 他在说什么东西😟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013291448838610944",
+        "conversation_id": "2047282489341903145",
+        "created_at": "2026-04-23T11:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047282489341903145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047282489341903145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 9715,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我7、8岁那时候，媚日的情况比媚黑还要严重，跟着姥姥姥爷看完抗战奇侠剧之后，自己晚上会想象着，跪着喝大佐的圣水，蹭床自慰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm  避難垢➡️@D4K_Blackdoll｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 81,
+                "start": 67,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（一条紅愛版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 40,
+          "like_count": 7736,
+          "listed_count": 4,
+          "media_count": 209,
+          "tweet_count": 4255
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T16:44:29.000Z",
+        "description": "这里是优叶千香了，是一个神奇mtf，前无古人的从听说药娘到成为药娘两个小时速通\n从三岁开始就是抖m了，六岁开始更是不断的涌出雌堕的想法，应该是天生的吧，这十几年来一直在加深，会有自卑，生殖崇拜等现象，终于在16岁的时候接触了药娘，也是没有考虑就变了，还没有服侍过真正强大的男人呢😭\n但是吃过很多郭楠的精液，精液好吃😋",
+        "id": "2013291448838610944",
+        "location": "🚪78     与¥无关，取吉利数字",
+        "name": "一只普普通通的♠️伪娘千香🇨🇳❤️🇯🇵",
+        "pinned_tweet_id": "2036362194473066996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013291557567242240/AyAgUxps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 91,
+          "like_count": 151,
+          "listed_count": 5,
+          "media_count": 48,
+          "tweet_count": 453
+        },
+        "username": "yyqx52000",
+        "verified": false
+      }
+    ]
+  }
+}

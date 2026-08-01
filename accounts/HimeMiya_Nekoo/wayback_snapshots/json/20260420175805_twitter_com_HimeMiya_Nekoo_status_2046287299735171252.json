@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2046287299735171252",
+    "created_at": "2026-04-20T17:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T18:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046287299735171252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2024195400442531841",
+          "start": 3,
+          "username": "zhngy228309"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046287299735171252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045787151716294993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhngy228309: 我叫你哥哥不应该叫我宝宝吗 叫母狗是什么意思？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2046287299735171252",
+        "created_at": "2026-04-20T17:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T18:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046287299735171252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2024195400442531841",
+              "start": 3,
+              "username": "zhngy228309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046287299735171252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045787151716294993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhngy228309: 我叫你哥哥不应该叫我宝宝吗 叫母狗是什么意思？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024195400442531841",
+        "conversation_id": "2045787151716294993",
+        "created_at": "2026-04-19T08:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045787151716294993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045787151716294993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 30364,
+          "like_count": 402,
+          "quote_count": 4,
+          "reply_count": 19,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "我叫你哥哥不应该叫我宝宝吗 叫母狗是什么意思？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（一条紅愛版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 28,
+          "like_count": 7519,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 4140
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "🩸痂痂 请多夸我(•̀ϖ•́ ) \n同类互fo 直fo就是喜歡你 \n我爱发啥发啥\nod｜自残｜抽烟\n10年｜162cm｜40kg 可以叫我小予喵🥺\n互fo我爱你们w 回fo私信 查成分\n第二人格@zyuyuouo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "zyuyuouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%97%82",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%97%82",
+                "start": 0,
+                "url": "https://t.co/FgU3Ypa1us"
+              }
+            ]
+          }
+        },
+        "id": "2024195400442531841",
+        "location": "🚪70好友位 纯绿",
+        "name": "痂",
+        "pinned_tweet_id": "2042223647331582256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044364789103935488/__gBwnPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 484,
+          "like_count": 5282,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2083
+        },
+        "url": "https://t.co/FgU3Ypa1us",
+        "username": "zhngy228309",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2080270175417532843",
+    "created_at": "2026-07-24T07:22:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:22:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080554162522308638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1169174984389885952",
+          "start": 0,
+          "username": "Angel_SaveUsAll"
+        },
+        {
+          "end": 27,
+          "id": "1926506432276348928",
+          "start": 17,
+          "username": "linwei130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080554162522308638",
+    "in_reply_to_user_id": "1169174984389885952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080270175417532843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angel_SaveUsAll @linwei130 你家好豪华"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2080270148615991296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6ara0a8AAQG3_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2080270175417532843",
+        "created_at": "2026-07-24T07:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080554162522308638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1169174984389885952",
+              "start": 0,
+              "username": "Angel_SaveUsAll"
+            },
+            {
+              "end": 27,
+              "id": "1926506432276348928",
+              "start": 17,
+              "username": "linwei130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080554162522308638",
+        "in_reply_to_user_id": "1169174984389885952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080270175417532843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angel_SaveUsAll @linwei130 你家好豪华"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080270148615991296"
+          ]
+        },
+        "author_id": "1169174984389885952",
+        "conversation_id": "2080270175417532843",
+        "created_at": "2026-07-23T12:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080270175417532843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qOPHIeUh3Q",
+              "end": 34,
+              "expanded_url": "https://x.com/Angel_SaveUsAll/status/2080270175417532843/photo/1",
+              "media_key": "3_2080270148615991296",
+              "start": 11,
+              "url": "https://t.co/qOPHIeUh3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080270175417532843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1485,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "试戴假发，懒得化妆了 https://t.co/qOPHIeUh3Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的别烦我｜点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll许愿请来这里不要打扰我们天使妹｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室👉",
+        "name": "🎀音恋✞Mia🎀（查拉图斯特拉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 33,
+          "like_count": 8309,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 5073
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-04T09:07:06.000Z",
+        "description": "救贖天使 含糖 新人画师，阴湿蕾蕾 只是会吃神秘小药片💊💊噶手手🩸🔪 情绪不稳定/双相/焦虑症 舞萌 经常碎碎念EN&CN OK 日本語苦手 欢迎同类找我聊天贴贴🍥老婆@linwei130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "linwei130"
+              }
+            ]
+          }
+        },
+        "id": "1169174984389885952",
+        "location": "New York, NY",
+        "name": "小救「回归」",
+        "pinned_tweet_id": "2043782475936120911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058870609170616320/JW0PIo2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 642,
+          "like_count": 16720,
+          "listed_count": 4,
+          "media_count": 572,
+          "tweet_count": 5212
+        },
+        "url": "",
+        "username": "Angel_SaveUsAll",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-25T05:12:03.000Z",
+        "description": "MTF🏳️‍⚧️｜小证含糖🍥｜小证2026.5.12｜已出柜 ｜ISFP-T｜碎碎念｜抑郁中｜同类互fo喵（没看到请在评论区说一下或者私信）｜老婆@Angel_SaveUsAll共号中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "Angel_SaveUsAll"
+              }
+            ]
+          }
+        },
+        "id": "1926506432276348928",
+        "location": "距离你520m",
+        "name": "堇&小救「天使夺舍」",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071996459973824512/Cf2Cgvbz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 654,
+          "like_count": 7755,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1056
+        },
+        "url": "",
+        "username": "linwei130",
+        "verified": true
+      }
+    ]
+  }
+}

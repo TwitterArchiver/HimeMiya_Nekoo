@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1882913937638965387",
+    "created_at": "2025-01-25T15:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T16:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883176093810921941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1375443911779381255",
+          "start": 0,
+          "username": "anyun424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883176093810921941",
+    "in_reply_to_user_id": "1375443911779381255",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882913937638965387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anyun424 细糠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1882913937638965387",
+        "created_at": "2025-01-25T15:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T16:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883176093810921941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1375443911779381255",
+              "start": 0,
+              "username": "anyun424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883176093810921941",
+        "in_reply_to_user_id": "1375443911779381255",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882913937638965387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anyun424 细糠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882913929363607553"
+          ]
+        },
+        "author_id": "1375443911779381255",
+        "conversation_id": "1882913937638965387",
+        "created_at": "2025-01-24T22:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T23:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882913937638965387"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "女绿"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "随笔"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "文爱"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "聊骚"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "性幻想"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "女绿帽"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "女m"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "母王八"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kAidmP1EY6",
+              "end": 81,
+              "expanded_url": "https://x.com/anyun424/status/1882913937638965387/photo/1",
+              "media_key": "3_1882913929363607553",
+              "start": 58,
+              "url": "https://t.co/kAidmP1EY6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882913937638965387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1042,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“妹妹要来家里过年，宝宝要好好招待她呦～”💚 #女绿 #随笔 #文爱 #聊骚 #性幻想 #女绿帽 #女m #母王八 https://t.co/kAidmP1EY6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "你的心里♡",
+        "name": "🎀音恋✞Mia🎀（算了变成游戏版）",
+        "pinned_tweet_id": "1870486188890767606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 76,
+          "like_count": 1883,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-26T13:47:09.000Z",
+        "description": "仍为相识、陪伴、重逢欣喜，不因离开、拒绝、遗憾内耗。很高兴认识你",
+        "id": "1375443911779381255",
+        "name": "安公子",
+        "pinned_tweet_id": "1761490482436395145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1375444748190633986/rHMT-90l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2124,
+          "following_count": 0,
+          "like_count": 45,
+          "listed_count": 6,
+          "media_count": 35,
+          "tweet_count": 59
+        },
+        "username": "anyun424",
+        "verified": false
+      }
+    ]
+  }
+}

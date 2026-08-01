@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892447478370488321"
+      ]
+    },
+    "author_id": "1584537561787428865",
+    "conversation_id": "1892447485748302112",
+    "created_at": "2025-02-20T05:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T06:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892447485748302112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tzCBt9YM2T",
+          "end": 34,
+          "expanded_url": "https://x.com/HimeMiya_Nekoo/status/1892447485748302112/photo/1",
+          "media_key": "3_1892447478370488321",
+          "start": 11,
+          "url": "https://t.co/tzCBt9YM2T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892447485748302112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我草稿箱里是什么东西 https://t.co/tzCBt9YM2T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1892447478370488321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkNS9HhbUAE0A_u.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892447478370488321"
+          ]
+        },
+        "author_id": "1584537561787428865",
+        "conversation_id": "1892447485748302112",
+        "created_at": "2025-02-20T05:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T06:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892447485748302112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tzCBt9YM2T",
+              "end": 34,
+              "expanded_url": "https://x.com/HimeMiya_Nekoo/status/1892447485748302112/photo/1",
+              "media_key": "3_1892447478370488321",
+              "start": 11,
+              "url": "https://t.co/tzCBt9YM2T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892447485748302112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草稿箱里是什么东西 https://t.co/tzCBt9YM2T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "你的心里♡",
+        "name": "🎀音恋✞Mia🎀（算了变成游戏版）",
+        "pinned_tweet_id": "1870486188890767606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 78,
+          "like_count": 2439,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 993
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      }
+    ]
+  }
+}

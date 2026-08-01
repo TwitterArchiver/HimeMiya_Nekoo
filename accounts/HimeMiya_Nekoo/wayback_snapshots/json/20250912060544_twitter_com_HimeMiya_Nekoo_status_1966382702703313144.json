@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1966382702703313144",
+    "created_at": "2025-09-12T06:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T07:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966382702703313144"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dailyshuukura/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/dailyshuukura/status/1965676778707619870",
+          "start": 2,
+          "url": "https://t.co/rfKQ89k87s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966382702703313144",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965676778707619870",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤤 https://t.co/rfKQ89k87s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 925,
+        "media_key": "3_1965676773187948544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0d8nFEakAAcNgX.jpg",
+        "width": 1060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1966382702703313144",
+        "created_at": "2025-09-12T06:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T07:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966382702703313144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dailyshuukura/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/dailyshuukura/status/1965676778707619870",
+              "start": 2,
+              "url": "https://t.co/rfKQ89k87s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966382702703313144",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965676778707619870",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤤 https://t.co/rfKQ89k87s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965676773187948544"
+          ]
+        },
+        "author_id": "1838197563897626624",
+        "conversation_id": "1965676778707619870",
+        "created_at": "2025-09-10T07:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T08:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965676778707619870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UU2EGeoulv",
+              "end": 23,
+              "expanded_url": "https://x.com/DailyShuukura/status/1965676778707619870/photo/1",
+              "media_key": "3_1965676773187948544",
+              "start": 0,
+              "url": "https://t.co/UU2EGeoulv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965676778707619870",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1251,
+          "impression_count": 93307,
+          "like_count": 7555,
+          "quote_count": 18,
+          "reply_count": 8,
+          "retweet_count": 362
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UU2EGeoulv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（诺艾尔版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 88,
+          "like_count": 5640,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 2206
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-23T12:45:44.000Z",
+        "description": "Daily Posts of Shuukura “A Story About Buying My Classmate Once A Week\" (Shuu ni Ichido Classmate wo Kau Hanashi)",
+        "id": "1838197563897626624",
+        "name": "Daily Shuukura",
+        "pinned_tweet_id": "1951511528886378603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947715766213844992/0IcNU3Le_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 51,
+          "like_count": 326,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 114
+        },
+        "username": "DailyShuukura",
+        "verified": false
+      }
+    ]
+  }
+}

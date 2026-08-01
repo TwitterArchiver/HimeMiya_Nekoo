@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2028155271357534473",
+    "created_at": "2026-03-01T17:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T18:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028164957603594357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "731020847490588672",
+          "start": 0,
+          "username": "spseae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028164957603594357",
+    "in_reply_to_user_id": "731020847490588672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028158355316052064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@spseae 诶..了解一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2028155271357534473",
+        "created_at": "2026-03-01T17:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T18:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028164957603594357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "731020847490588672",
+              "start": 0,
+              "username": "spseae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028164957603594357",
+        "in_reply_to_user_id": "731020847490588672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028158355316052064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spseae 诶..了解一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "731020847490588672",
+        "conversation_id": "2028155271357534473",
+        "created_at": "2026-03-01T17:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T18:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028158355316052064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028158355316052064",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028157065152086410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 试试FEZ ，解密游戏很好玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 115,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 92,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "2025759179487784987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 28,
+          "like_count": 7265,
+          "listed_count": 4,
+          "media_count": 181,
+          "tweet_count": 3623
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-13T07:18:46.000Z",
+        "description": "",
+        "id": "731020847490588672",
+        "location": "Mars ",
+        "name": "Spserena",
+        "pinned_tweet_id": "1816004406145343776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291185293702377478/07Hx-U5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 1237,
+          "like_count": 5873,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 536
+        },
+        "username": "spseae",
+        "verified": false
+      }
+    ]
+  }
+}

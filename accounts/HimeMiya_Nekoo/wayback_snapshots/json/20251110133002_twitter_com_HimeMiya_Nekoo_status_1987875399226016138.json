@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1987768520009248924",
+    "created_at": "2025-11-10T13:30:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T14:30:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987875399226016138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1737474298934161409",
+          "start": 0,
+          "username": "blueicesama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987875399226016138",
+    "in_reply_to_user_id": "1737474298934161409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987768520009248924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blueicesama 对不起我还以为是玩抽象"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987768506738429952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5X47NvaUAA8FSt.jpg",
+        "width": 1818
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1987768520009248924",
+        "created_at": "2025-11-10T13:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987875399226016138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1737474298934161409",
+              "start": 0,
+              "username": "blueicesama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987875399226016138",
+        "in_reply_to_user_id": "1737474298934161409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987768520009248924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blueicesama 对不起我还以为是玩抽象"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987768506738429952"
+          ]
+        },
+        "author_id": "1737474298934161409",
+        "conversation_id": "1987768520009248924",
+        "created_at": "2025-11-10T06:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T07:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987768520009248924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kbEZ0XrH14",
+              "end": 43,
+              "expanded_url": "https://x.com/blueicesama/status/1987768520009248924/photo/1",
+              "media_key": "3_1987768506738429952",
+              "start": 20,
+              "url": "https://t.co/kbEZ0XrH14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987768520009248924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6539,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我超我看起来好阴啊我不行了\n完全地雷男 https://t.co/kbEZ0XrH14"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 84,
+          "like_count": 6199,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 2607
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T14:05:40.000Z",
+        "description": "🏳️‍🌈/INFJ-T/Apple全肯定bot/中文·日本語·ENG/大连人/网蓝/杂学分享·日常碎碎念·生活账·奇怪梗图/三倍厚袜/不涉政/有对象/里@blueicesamaQWQ /社交饱和暂不扩列·本账号任何关注不代表本人立场 推止于推/可爱小狐狸@ri_si16512/☁️@StarryCloud1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "blueicesamaQWQ"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "ri_si16512"
+              },
+              {
+                "end": 158,
+                "start": 142,
+                "username": "StarryCloud1123"
+              }
+            ]
+          }
+        },
+        "id": "1737474298934161409",
+        "location": "「落し水 岐れて細き 川生る」",
+        "name": "蓝冰冰冰蓝蓝",
+        "pinned_tweet_id": "1983061990609424563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875804058004676608/uKIbIoPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6646,
+          "following_count": 3322,
+          "like_count": 40178,
+          "listed_count": 9,
+          "media_count": 947,
+          "tweet_count": 8427
+        },
+        "username": "blueicesama",
+        "verified": false
+      }
+    ]
+  }
+}

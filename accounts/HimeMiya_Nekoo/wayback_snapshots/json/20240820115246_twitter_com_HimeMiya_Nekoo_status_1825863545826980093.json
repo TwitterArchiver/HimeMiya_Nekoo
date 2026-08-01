@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1765378913797283841"
+      ],
+      "media_source_tweet_id": [
+        "1765378927533695186"
+      ]
+    },
+    "author_id": "1584537561787428865",
+    "conversation_id": "1825863545826980093",
+    "created_at": "2024-08-20T11:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T12:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825863545826980093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "913368619333017600",
+          "start": 3,
+          "username": "Dobuu_2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/os9yk3epts",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Dobuu_2/status/1765378927533695186/photo/1",
+          "media_key": "3_1765378913797283841",
+          "start": 24,
+          "url": "https://t.co/oS9yk3EpTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825863545826980093",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1166
+    },
+    "referenced_tweets": [
+      {
+        "id": "1765378927533695186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dobuu_2: はやく帰っておいで。 https://t.co/oS9yk3EpTS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2943,
+        "media_key": "3_1765378913797283841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GH_ixMraIAER4ht.jpg",
+        "width": 3511
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1765378913797283841"
+          ],
+          "media_source_tweet_id": [
+            "1765378927533695186"
+          ]
+        },
+        "author_id": "1584537561787428865",
+        "conversation_id": "1825863545826980093",
+        "created_at": "2024-08-20T11:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T12:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825863545826980093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "913368619333017600",
+              "start": 3,
+              "username": "Dobuu_2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/os9yk3epts",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Dobuu_2/status/1765378927533695186/photo/1",
+              "media_key": "3_1765378913797283841",
+              "start": 24,
+              "url": "https://t.co/oS9yk3EpTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825863545826980093",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1166
+        },
+        "referenced_tweets": [
+          {
+            "id": "1765378927533695186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dobuu_2: はやく帰っておいで。 https://t.co/oS9yk3EpTS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1765378913797283841"
+          ]
+        },
+        "author_id": "913368619333017600",
+        "conversation_id": "1765378927533695186",
+        "created_at": "2024-03-06T14:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-06T15:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1765378927533695186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/os9yk3epts",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Dobuu_2/status/1765378927533695186/photo/1",
+              "media_key": "3_1765378913797283841",
+              "start": 11,
+              "url": "https://t.co/oS9yk3EpTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1765378927533695186",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 985,
+          "impression_count": 374333,
+          "like_count": 16853,
+          "quote_count": 18,
+          "reply_count": 8,
+          "retweet_count": 1166
+        },
+        "reply_settings": "everyone",
+        "text": "はやく帰っておいで。 https://t.co/oS9yk3EpTS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1823052132465135940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 52,
+          "like_count": 307,
+          "listed_count": 0,
+          "tweet_count": 224
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-28T11:43:43.000Z",
+        "description": "絵|映像|立体制作🥩https://t.co/pySedkBnRx ◀企業様、個人様問わずお仕事はこちらからお受けしております💌",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cloud9pro.co.jp/contact",
+                "end": 33,
+                "expanded_url": "https://cloud9pro.co.jp/contact",
+                "start": 10,
+                "url": "https://t.co/pySedkBnRx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "suzuri.jp/Dobuu_2",
+                "end": 23,
+                "expanded_url": "https://suzuri.jp/Dobuu_2",
+                "start": 0,
+                "url": "https://t.co/Vhn8fcWDcU"
+              }
+            ]
+          }
+        },
+        "id": "913368619333017600",
+        "name": "沼田ᶻᴼᴹᴮᴵᴱ⁉️︎",
+        "pinned_tweet_id": "1765378927533695186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789585272721793024/qq8lbP_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137796,
+          "following_count": 468,
+          "like_count": 16846,
+          "listed_count": 897,
+          "tweet_count": 4000
+        },
+        "url": "https://t.co/Vhn8fcWDcU",
+        "username": "Dobuu_2",
+        "verified": true
+      }
+    ]
+  }
+}

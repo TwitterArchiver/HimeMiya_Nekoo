@@ -1,0 +1,499 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1820104298270711808",
+        "3_1820104298161926144",
+        "3_1820104298208038912"
+      ],
+      "media_source_tweet_id": [
+        "1820104307062059111",
+        "1820104307062059111",
+        "1820104307062059111"
+      ]
+    },
+    "author_id": "1584537561787428865",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1820336023215521897",
+    "created_at": "2024-08-05T05:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T06:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820336023215521897"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 17,
+          "tag": "私はこういう絵師です見た絵師全員参加"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1239107320136617985",
+          "start": 3,
+          "username": "tamatebox_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/rxeJhbBj7L",
+          "end": 82,
+          "expanded_url": "https://twitter.com/tamatebox_x/status/1820104307062059111/photo/1",
+          "media_key": "3_1820104298270711808",
+          "start": 59,
+          "url": "https://t.co/rxeJhbBj7L"
+        },
+        {
+          "display_url": "pic.twitter.com/rxeJhbBj7L",
+          "end": 82,
+          "expanded_url": "https://twitter.com/tamatebox_x/status/1820104307062059111/photo/1",
+          "media_key": "3_1820104298161926144",
+          "start": 59,
+          "url": "https://t.co/rxeJhbBj7L"
+        },
+        {
+          "display_url": "pic.twitter.com/rxeJhbBj7L",
+          "end": 82,
+          "expanded_url": "https://twitter.com/tamatebox_x/status/1820104307062059111/photo/1",
+          "media_key": "3_1820104298208038912",
+          "start": 59,
+          "url": "https://t.co/rxeJhbBj7L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820336023215521897",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820104307062059111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tamatebox_x: #私はこういう絵師です見た絵師全員参加\n\n病み＋かわいいイラストを描いてます🍽️🖤 https://t.co/rxeJhbBj7L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2034,
+        "media_key": "3_1820104298270711808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUJPN0iWYAAZDfl.jpg",
+        "width": 1405
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1820104298161926144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUJPN0IacAARzQt.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1079,
+        "media_key": "3_1820104298208038912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUJPN0TaEAALjwA.jpg",
+        "width": 1925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820104298270711808",
+            "3_1820104298161926144",
+            "3_1820104298208038912"
+          ],
+          "media_source_tweet_id": [
+            "1820104307062059111",
+            "1820104307062059111",
+            "1820104307062059111"
+          ]
+        },
+        "author_id": "1584537561787428865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1820336023215521897",
+        "created_at": "2024-08-05T05:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T06:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820336023215521897"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 17,
+              "tag": "私はこういう絵師です見た絵師全員参加"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1239107320136617985",
+              "start": 3,
+              "username": "tamatebox_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/rxeJhbBj7L",
+              "end": 82,
+              "expanded_url": "https://twitter.com/tamatebox_x/status/1820104307062059111/photo/1",
+              "media_key": "3_1820104298270711808",
+              "start": 59,
+              "url": "https://t.co/rxeJhbBj7L"
+            },
+            {
+              "display_url": "pic.twitter.com/rxeJhbBj7L",
+              "end": 82,
+              "expanded_url": "https://twitter.com/tamatebox_x/status/1820104307062059111/photo/1",
+              "media_key": "3_1820104298161926144",
+              "start": 59,
+              "url": "https://t.co/rxeJhbBj7L"
+            },
+            {
+              "display_url": "pic.twitter.com/rxeJhbBj7L",
+              "end": 82,
+              "expanded_url": "https://twitter.com/tamatebox_x/status/1820104307062059111/photo/1",
+              "media_key": "3_1820104298208038912",
+              "start": 59,
+              "url": "https://t.co/rxeJhbBj7L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820336023215521897",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820104307062059111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tamatebox_x: #私はこういう絵師です見た絵師全員参加\n\n病み＋かわいいイラストを描いてます🍽️🖤 https://t.co/rxeJhbBj7L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820104298270711808",
+            "3_1820104298161926144",
+            "3_1820104298208038912"
+          ]
+        },
+        "author_id": "1239107320136617985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1820104307062059111",
+        "created_at": "2024-08-04T14:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T15:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820104307062059111"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 0,
+              "tag": "私はこういう絵師です見た絵師全員参加"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/rxeJhbBj7L",
+              "end": 65,
+              "expanded_url": "https://twitter.com/tamatebox_x/status/1820104307062059111/photo/1",
+              "media_key": "3_1820104298270711808",
+              "start": 42,
+              "url": "https://t.co/rxeJhbBj7L"
+            },
+            {
+              "display_url": "pic.twitter.com/rxeJhbBj7L",
+              "end": 65,
+              "expanded_url": "https://twitter.com/tamatebox_x/status/1820104307062059111/photo/1",
+              "media_key": "3_1820104298161926144",
+              "start": 42,
+              "url": "https://t.co/rxeJhbBj7L"
+            },
+            {
+              "display_url": "pic.twitter.com/rxeJhbBj7L",
+              "end": 65,
+              "expanded_url": "https://twitter.com/tamatebox_x/status/1820104307062059111/photo/1",
+              "media_key": "3_1820104298208038912",
+              "start": 42,
+              "url": "https://t.co/rxeJhbBj7L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820104307062059111",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 8843,
+          "like_count": 329,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "#私はこういう絵師です見た絵師全員参加\n\n病み＋かわいいイラストを描いてます🍽️🖤 https://t.co/rxeJhbBj7L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1819367681000460701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 49,
+          "like_count": 91,
+          "listed_count": 0,
+          "tweet_count": 58
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-15T08:33:17.000Z",
+        "description": "🍽絵のお仕事についてはyokubariyachii@gmail.comかhttps://t.co/HBVjTbYJ3Iまで FA🤍#やちぃのたまて箱",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 65,
+                "tag": "やちぃのたまて箱"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@tamatebox_x",
+                "end": 59,
+                "expanded_url": "https://skeb.jp/@tamatebox_x",
+                "start": 36,
+                "url": "https://t.co/HBVjTbYJ3I"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@user-ux7qe6zq…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@user-ux7qe6zq3e",
+                "start": 0,
+                "url": "https://t.co/ImLOerZsja"
+              }
+            ]
+          }
+        },
+        "id": "1239107320136617985",
+        "location": "AIは一切使用しておりません。AI学習/転載/使用は厳禁です",
+        "name": "よくばりやちぃ",
+        "pinned_tweet_id": "1757680442642506032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667881665933512704/wvVrGSCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9802,
+          "following_count": 179,
+          "like_count": 19764,
+          "listed_count": 118,
+          "tweet_count": 8404
+        },
+        "url": "https://t.co/ImLOerZsja",
+        "username": "tamatebox_x",
+        "verified": true
+      }
+    ]
+  }
+}

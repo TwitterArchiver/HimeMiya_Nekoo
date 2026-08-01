@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1829678807852401019",
+    "created_at": "2024-08-31T00:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-31T01:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1829678807852401019"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1829678807852401019",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我已经很久没觉得自己脑子有病了，我觉得自己无比正常，那些痛苦的抉择需要努力才能达成的未知我都会用自己有病规劝自己，但终极这是失败的逃避行为，没有人会想面对的事情逃避也绝不是正确，但真的是错误吗，我不清楚。\n但无论如何通过外界的抚摸哪怕只有一点才能得到自我认知的想法，必然是错误的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1829678807852401019",
+        "created_at": "2024-08-31T00:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T01:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829678807852401019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1829678807852401019",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经很久没觉得自己脑子有病了，我觉得自己无比正常，那些痛苦的抉择需要努力才能达成的未知我都会用自己有病规劝自己，但终极这是失败的逃避行为，没有人会想面对的事情逃避也绝不是正确，但真的是错误吗，我不清楚。\n但无论如何通过外界的抚摸哪怕只有一点才能得到自我认知的想法，必然是错误的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1823052132465135940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 53,
+          "like_count": 331,
+          "listed_count": 0,
+          "tweet_count": 330
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      }
+    ]
+  }
+}

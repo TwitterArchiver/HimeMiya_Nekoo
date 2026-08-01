@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596153057282",
+          "name": "Alcohol - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026543830",
+          "name": "Kahlua"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Liqueur",
+          "id": "860608201539993600",
+          "name": "Liqueur"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596153057282",
+          "name": "Alcohol - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026543830",
+          "name": "Kahlua"
+        }
+      }
+    ],
+    "conversation_id": "2068603349189157053",
+    "created_at": "2026-07-22T09:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T10:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079860225956581881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1937819583110696960",
+          "start": 0,
+          "username": "ruparopa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079860225956581881",
+    "in_reply_to_user_id": "1937819583110696960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068603349189157053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruparopa 白俄罗斯人作为比较经典的鸡尾酒可以追溯到九几年，其原材料之一的kahlua作为著名咖啡味利口酒喝过就知道了其味道更是甜的发齁，当然例子还有很多，就这样一棒子打死所有可是不好的哦，我刚才说的还是酒要是糖浆就有数不胜数的蛮不错的酒了比如我钟爱的pink lady，可能你制作的或者酒吧不尽人意？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596153057282",
+              "name": "Alcohol - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026543830",
+              "name": "Kahlua"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Liqueur",
+              "id": "860608201539993600",
+              "name": "Liqueur"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596153057282",
+              "name": "Alcohol - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026543830",
+              "name": "Kahlua"
+            }
+          }
+        ],
+        "conversation_id": "2068603349189157053",
+        "created_at": "2026-07-22T09:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079860225956581881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1937819583110696960",
+              "start": 0,
+              "username": "ruparopa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079860225956581881",
+        "in_reply_to_user_id": "1937819583110696960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068603349189157053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruparopa 白俄罗斯人作为比较经典的鸡尾酒可以追溯到九几年，其原材料之一的kahlua作为著名咖啡味利口酒喝过就知道了其味道更是甜的发齁，当然例子还有很多，就这样一棒子打死所有可是不好的哦，我刚才说的还是酒要是糖浆就有数不胜数的蛮不错的酒了比如我钟爱的pink lady，可能你制作的或者酒吧不尽人意？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937819583110696960",
+        "conversation_id": "2068603349189157053",
+        "created_at": "2026-06-21T07:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068603349189157053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068603349189157053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1025,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有给酒精里加入甜腻东西的都是邪典喝法…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的别烦我｜点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll许愿请来这里不要打扰我们天使妹｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室👉",
+        "name": "🎀音恋✞Mia🎀（查拉图斯特拉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 32,
+          "like_count": 8287,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 5030
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T10:26:28.000Z",
+        "description": "rupa ☁️✧*｡٩(ˊᗜˋ*)و✧*｡🤍💙",
+        "id": "1937819583110696960",
+        "name": "Ami",
+        "pinned_tweet_id": "2067619974148128890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020915134517186560/wJxfvz8P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 224,
+          "like_count": 3836,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 460
+        },
+        "url": "",
+        "username": "ruparopa",
+        "verified": false
+      }
+    ]
+  }
+}

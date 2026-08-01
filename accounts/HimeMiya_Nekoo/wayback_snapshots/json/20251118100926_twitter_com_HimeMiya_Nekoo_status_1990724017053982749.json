@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1990426041031200834",
+    "created_at": "2025-11-18T10:09:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T11:09:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990724017053982749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1311911312708915200",
+          "start": 0,
+          "username": "mongdziao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990724017053982749",
+    "in_reply_to_user_id": "1311911312708915200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990426041031200834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mongdziao 这个头巾是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990426006109446144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G59p6CXaYAA_qSZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1990426041031200834",
+        "created_at": "2025-11-18T10:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990724017053982749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1311911312708915200",
+              "start": 0,
+              "username": "mongdziao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990724017053982749",
+        "in_reply_to_user_id": "1311911312708915200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990426041031200834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mongdziao 这个头巾是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990426006109446144"
+          ]
+        },
+        "author_id": "1311911312708915200",
+        "conversation_id": "1990426041031200834",
+        "created_at": "2025-11-17T14:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T15:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990426041031200834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/37wjHGdwTj",
+              "end": 41,
+              "expanded_url": "https://x.com/mongdziao/status/1990426041031200834/photo/1",
+              "media_key": "3_1990426006109446144",
+              "start": 18,
+              "url": "https://t.co/37wjHGdwTj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990426041031200834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 682,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪能？儂弗曉得Allah地雷女个？ https://t.co/37wjHGdwTj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 69,
+          "like_count": 6406,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 2754
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-02T06:10:27.000Z",
+        "description": "是迷幻小蘑菇｜🏳️‍🌈🏳️‍⚧️｜ה׳ אלקינו ה׳ אחד｜Masorti Judaism & Conservative Zionist｜@noadiahmeeden",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "noadiahmeeden"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "noadiah.com",
+                "end": 23,
+                "expanded_url": "http://noadiah.com",
+                "start": 0,
+                "url": "https://t.co/OmX5q4YdWY"
+              }
+            ]
+          }
+        },
+        "id": "1311911312708915200",
+        "location": "Ayin L’Tzion",
+        "name": "Mông-dziao מון-זיאו",
+        "pinned_tweet_id": "1990475954809168010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945841993591980032/pFvRGvBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 285,
+          "like_count": 10741,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/OmX5q4YdWY",
+        "username": "mongdziao",
+        "verified": false
+      }
+    ]
+  }
+}

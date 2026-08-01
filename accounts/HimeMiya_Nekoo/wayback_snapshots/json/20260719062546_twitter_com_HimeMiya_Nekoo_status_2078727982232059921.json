@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2078333873172423140",
+    "created_at": "2026-07-19T06:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T07:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078727982232059921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1935535718933090304",
+          "start": 0,
+          "username": "Ytkk999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078727982232059921",
+    "in_reply_to_user_id": "1935535718933090304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078333873172423140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ytkk999 你也伟大死了清醒死了就你个人有创伤还砥砺前行、我们就是烂泥扶不上墙，祝你做个好梦在老了的时候也能回想起美好的童年w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2078333873172423140",
+        "created_at": "2026-07-19T06:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078727982232059921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1935535718933090304",
+              "start": 0,
+              "username": "Ytkk999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078727982232059921",
+        "in_reply_to_user_id": "1935535718933090304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078333873172423140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ytkk999 你也伟大死了清醒死了就你个人有创伤还砥砺前行、我们就是烂泥扶不上墙，祝你做个好梦在老了的时候也能回想起美好的童年w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935535718933090304",
+        "conversation_id": "2078333873172423140",
+        "created_at": "2026-07-18T04:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078333873172423140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078333873172423140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 142323,
+          "like_count": 723,
+          "quote_count": 45,
+          "reply_count": 348,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "很多时候提童年创伤干嘛呢？不可否认童年创伤对人的影响很大，可是你都二三十岁了还要持续提原生家庭吗？？提到多少岁才是个头呢？纵使它影响真的很深远，人不能坐以待毙就放任它影响自己的一生吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的别烦我｜点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室👉",
+        "name": "🎀音恋✞Mia🎀（查拉图斯特拉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 32,
+          "like_count": 8238,
+          "listed_count": 3,
+          "media_count": 252,
+          "tweet_count": 4946
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T03:10:59.000Z",
+        "description": "你如冬天般流淌 而我甚至不认识白色\n\n不线下不加v",
+        "id": "1935535718933090304",
+        "location": "BJ",
+        "name": "K k",
+        "pinned_tweet_id": "2060743740852256813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935548487283687424/DXQxhi7M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 73,
+          "like_count": 1454,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1261
+        },
+        "url": "",
+        "username": "Ytkk999",
+        "verified": false
+      }
+    ]
+  }
+}

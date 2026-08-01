@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1819424179533582336"
+      ],
+      "media_source_tweet_id": [
+        "1819424186064163176"
+      ]
+    },
+    "author_id": "1584537561787428865",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1819535671583035896",
+    "created_at": "2024-08-03T00:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T01:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819535671583035896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745874929541939200",
+          "start": 3,
+          "username": "nerucamia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/VRF9AvZ1pb",
+          "end": 52,
+          "expanded_url": "https://twitter.com/nerucamia/status/1819424186064163176/photo/1",
+          "media_key": "3_1819424179533582336",
+          "start": 29,
+          "url": "https://t.co/VRF9AvZ1pb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819535671583035896",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819424186064163176",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nerucamia: 精神科病棟で描いていた絵7 https://t.co/VRF9AvZ1pb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1574,
+        "media_key": "3_1819424179533582336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GT_kpszbEAAtoEG.jpg",
+        "width": 1039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819424179533582336"
+          ],
+          "media_source_tweet_id": [
+            "1819424186064163176"
+          ]
+        },
+        "author_id": "1584537561787428865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1819535671583035896",
+        "created_at": "2024-08-03T00:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T01:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819535671583035896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745874929541939200",
+              "start": 3,
+              "username": "nerucamia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/VRF9AvZ1pb",
+              "end": 52,
+              "expanded_url": "https://twitter.com/nerucamia/status/1819424186064163176/photo/1",
+              "media_key": "3_1819424179533582336",
+              "start": 29,
+              "url": "https://t.co/VRF9AvZ1pb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819535671583035896",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819424186064163176",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nerucamia: 精神科病棟で描いていた絵7 https://t.co/VRF9AvZ1pb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819424179533582336"
+          ]
+        },
+        "author_id": "1745874929541939200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1819424186064163176",
+        "created_at": "2024-08-02T17:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T18:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819424186064163176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/VRF9AvZ1pb",
+              "end": 37,
+              "expanded_url": "https://twitter.com/nerucamia/status/1819424186064163176/photo/1",
+              "media_key": "3_1819424179533582336",
+              "start": 14,
+              "url": "https://t.co/VRF9AvZ1pb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819424186064163176",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 3565,
+          "like_count": 281,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "精神科病棟で描いていた絵7 https://t.co/VRF9AvZ1pb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1819367681000460701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 47,
+          "like_count": 63,
+          "listed_count": 0,
+          "tweet_count": 45
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T18:27:08.000Z",
+        "description": "",
+        "id": "1745874929541939200",
+        "location": "#nemurimuart",
+        "name": "nerucamia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773103962461483011/gMLlstA8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 64,
+          "like_count": 465,
+          "listed_count": 8,
+          "tweet_count": 41
+        },
+        "username": "nerucamia",
+        "verified": false
+      }
+    ]
+  }
+}

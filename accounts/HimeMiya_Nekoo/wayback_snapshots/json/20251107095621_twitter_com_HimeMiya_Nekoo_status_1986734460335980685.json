@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1986659814559400340",
+    "created_at": "2025-11-07T09:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T10:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986734460335980685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621372814900219904",
+          "start": 0,
+          "username": "GojyuuPlusOne"
+        },
+        {
+          "end": 27,
+          "id": "1445097910606045191",
+          "start": 15,
+          "username": "_JinZhengEn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986734460335980685",
+    "in_reply_to_user_id": "1621372814900219904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986726501409321005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GojyuuPlusOne @_JinZhengEn 六万多也贵了吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1986659814559400340",
+        "created_at": "2025-11-07T09:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T10:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986734460335980685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621372814900219904",
+              "start": 0,
+              "username": "GojyuuPlusOne"
+            },
+            {
+              "end": 27,
+              "id": "1445097910606045191",
+              "start": 15,
+              "username": "_JinZhengEn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986734460335980685",
+        "in_reply_to_user_id": "1621372814900219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986726501409321005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GojyuuPlusOne @_JinZhengEn 六万多也贵了吧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621372814900219904",
+        "conversation_id": "1986659814559400340",
+        "created_at": "2025-11-07T09:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T10:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986726501409321005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1445097910606045191",
+              "start": 0,
+              "username": "_JinZhengEn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986726501409321005",
+        "in_reply_to_user_id": "1445097910606045191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986725881717600510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_JinZhengEn 六万多，后来涨价到七万多协商也没用就搬家了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 84,
+          "like_count": 6183,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 2559
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T04:59:50.000Z",
+        "description": "play, design, manifest",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.gojyuplus.one",
+                "end": 23,
+                "expanded_url": "http://me.gojyuplus.one",
+                "start": 0,
+                "url": "https://t.co/HVzIXCb56W"
+              }
+            ]
+          }
+        },
+        "id": "1621372814900219904",
+        "location": "旧中野",
+        "name": "51",
+        "pinned_tweet_id": "1965717415062577313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904775697291501568/5lyu11f7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 769,
+          "like_count": 25752,
+          "listed_count": 3,
+          "media_count": 964,
+          "tweet_count": 7277
+        },
+        "url": "https://t.co/HVzIXCb56W",
+        "username": "GojyuuPlusOne",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-04T18:46:27.000Z",
+        "description": "めっちゃ普通な朝鮮民主主義共和国の総司令だけです！来自纯净的白头山革命老区，是照耀着全人类的伟大的太阳，温暖着全宇宙生物的心灵。我要用我闪耀的光辉传播超越全人类多层次维度的伟大思想。天生万物以养人，人无万物以报天。坦克飞弹莎莎莎",
+        "id": "1445097910606045191",
+        "location": "平壤",
+        "name": "金正恩／キム·ジョンウン",
+        "pinned_tweet_id": "1647919581791498241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725883081704484864/bzrtbyYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 107,
+          "like_count": 4155,
+          "listed_count": 9,
+          "media_count": 678,
+          "tweet_count": 11039
+        },
+        "username": "_JinZhengEn",
+        "verified": false
+      }
+    ]
+  }
+}

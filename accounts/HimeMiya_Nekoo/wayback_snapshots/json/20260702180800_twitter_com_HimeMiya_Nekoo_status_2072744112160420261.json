@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2072657724844990842",
+    "created_at": "2026-07-02T18:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T19:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072744112160420261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1839881314155278340",
+          "start": 0,
+          "username": "nei_hua7675"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072744112160420261",
+    "in_reply_to_user_id": "1839881314155278340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072657724844990842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nei_hua7675 你有鱼板"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2072657722533990400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOPN5yb0AAZdaI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2072657724844990842",
+        "created_at": "2026-07-02T18:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072744112160420261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1839881314155278340",
+              "start": 0,
+              "username": "nei_hua7675"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072744112160420261",
+        "in_reply_to_user_id": "1839881314155278340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072657724844990842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nei_hua7675 你有鱼板"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072657722533990400"
+          ]
+        },
+        "author_id": "1839881314155278340",
+        "conversation_id": "2072657724844990842",
+        "created_at": "2026-07-02T12:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072657724844990842"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s1TcqN7Y7X",
+              "end": 41,
+              "expanded_url": "https://x.com/nei_hua7675/status/2072657724844990842/photo/1",
+              "media_key": "3_2072657722533990400",
+              "start": 18,
+              "url": "https://t.co/s1TcqN7Y7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072657724844990842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "试了一下新的痘痘贴\n #自撮り界隈 https://t.co/s1TcqN7Y7X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 80,
+                "start": 66,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（波多江妙花版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 30,
+          "like_count": 7899,
+          "listed_count": 3,
+          "media_count": 235,
+          "tweet_count": 4629
+        },
+        "url": "",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T04:14:54.000Z",
+        "description": "୨୧ .*･ﾟ 痛み止め依存症 │DM 〇 │ 空气系界隈│我想变成地瓜🍠│ ﾟ･*.ೀ",
+        "id": "1839881314155278340",
+        "location": "無の中",
+        "name": "もちもちもち",
+        "pinned_tweet_id": "1984257066735919499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984240985078153217/pIJESQg7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 47,
+          "like_count": 36,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "nei_hua7675",
+        "verified": false
+      }
+    ]
+  }
+}

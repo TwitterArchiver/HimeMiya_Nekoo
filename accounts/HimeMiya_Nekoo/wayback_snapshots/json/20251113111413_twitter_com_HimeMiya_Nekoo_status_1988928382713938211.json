@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1987292121179504984",
+    "created_at": "2025-11-13T11:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T12:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988928382713938211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1960783006412480512",
+          "start": 0,
+          "username": "deco0024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988928382713938211",
+    "in_reply_to_user_id": "1960783006412480512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987292121179504984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deco0024 现在也可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1987292121179504984",
+        "created_at": "2025-11-13T11:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T12:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988928382713938211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1960783006412480512",
+              "start": 0,
+              "username": "deco0024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988928382713938211",
+        "in_reply_to_user_id": "1960783006412480512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987292121179504984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deco0024 现在也可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960783006412480512",
+        "conversation_id": "1987292121179504984",
+        "created_at": "2025-11-08T22:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T23:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987292121179504984"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987292121179504984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1680,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在听六年前在日本旅游的时候听的歌\n思绪又被拉回当时的东京\n当时自己去日本呆了半个月\n用刚练成的日语跟当地人磕磕绊绊地聊天\n也可以随便走进一家小店享受美食\n或者跑去天文馆看星星\n好喜欢🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 84,
+          "like_count": 6265,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 2629
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T19:14:49.000Z",
+        "description": "碎碎念，纯清水",
+        "id": "1960783006412480512",
+        "name": "迷你泡芙",
+        "pinned_tweet_id": "1962623926879592865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960783270238355456/yAAsxbeR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 10,
+          "like_count": 100,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 420
+        },
+        "username": "deco0024",
+        "verified": false
+      }
+    ]
+  }
+}

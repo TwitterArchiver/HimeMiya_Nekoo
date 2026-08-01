@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1908347799990919534",
+    "created_at": "2025-04-05T02:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T03:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908350542197473642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "805779842646110208",
+          "start": 0,
+          "username": "Dyc911900"
+        },
+        {
+          "end": 20,
+          "id": "1661419755864211456",
+          "start": 11,
+          "username": "xueli333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908350542197473642",
+    "in_reply_to_user_id": "805779842646110208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908347799990919534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dyc911900 @xueli333 我也是赚这种钱的人，只能给100了，请加油吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908347787663859713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnvQM7ebYAEs2Cx.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1058,
+        "media_key": "3_1908347787668049920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnvQM7fbUAAEFzV.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1908347799990919534",
+        "created_at": "2025-04-05T02:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T03:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908350542197473642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "805779842646110208",
+              "start": 0,
+              "username": "Dyc911900"
+            },
+            {
+              "end": 20,
+              "id": "1661419755864211456",
+              "start": 11,
+              "username": "xueli333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908350542197473642",
+        "in_reply_to_user_id": "805779842646110208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908347799990919534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dyc911900 @xueli333 我也是赚这种钱的人，只能给100了，请加油吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908347787663859713",
+            "3_1908347787668049920"
+          ]
+        },
+        "author_id": "805779842646110208",
+        "conversation_id": "1908347799990919534",
+        "created_at": "2025-04-05T02:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T03:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908347799990919534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1661419755864211456",
+              "start": 23,
+              "username": "xueli333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1NByBpYFEr",
+              "end": 68,
+              "expanded_url": "https://x.com/Dyc911900/status/1908347799990919534/photo/1",
+              "media_key": "3_1908347787663859713",
+              "start": 45,
+              "url": "https://t.co/1NByBpYFEr"
+            },
+            {
+              "display_url": "pic.x.com/1NByBpYFEr",
+              "end": 68,
+              "expanded_url": "https://x.com/Dyc911900/status/1908347799990919534/photo/1",
+              "media_key": "3_1908347787668049920",
+              "start": 45,
+              "url": "https://t.co/1NByBpYFEr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908347799990919534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求求你们了给点钱吧住院了要住院了，预计要一萬五@xueli333 就是这个，你们帮帮他吧 https://t.co/1NByBpYFEr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（公主妹妹版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 90,
+          "like_count": 4434,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 1300
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-05T14:24:19.000Z",
+        "description": "无性别克氏综合症/地雷系/🚪200好友位/ 288开pyq/520有tb /1314线下折扣/口令红包看喜歡的的人會關注不喜歡的 闺蜜@xueli333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "xueli333"
+              }
+            ]
+          }
+        },
+        "id": "805779842646110208",
+        "location": "地狱",
+        "name": "マメ",
+        "pinned_tweet_id": "1907269169378406463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906361953750294530/mUL40Z5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 55,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 125
+        },
+        "username": "Dyc911900",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T17:11:53.000Z",
+        "description": "le/s🚪188/288/520/1314 天才@dyc911900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "dyc911900"
+              }
+            ]
+          }
+        },
+        "id": "1661419755864211456",
+        "location": "江浙沪猫窝",
+        "name": "我见过很多天才 他们都叫我门槛",
+        "pinned_tweet_id": "1690884054919630848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906966918524989440/EIaT-qOO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20963,
+          "following_count": 196,
+          "like_count": 397,
+          "listed_count": 22,
+          "media_count": 63,
+          "tweet_count": 748
+        },
+        "username": "xueli333",
+        "verified": false
+      }
+    ]
+  }
+}

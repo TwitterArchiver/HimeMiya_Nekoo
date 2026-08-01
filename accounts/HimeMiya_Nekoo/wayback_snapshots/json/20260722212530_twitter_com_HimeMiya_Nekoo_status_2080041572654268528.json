@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2079941227156513185",
+    "created_at": "2026-07-22T21:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T22:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080041572654268528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1675772332349202434",
+          "start": 0,
+          "username": "magnet_8_8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080041572654268528",
+    "in_reply_to_user_id": "1675772332349202434",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079941227156513185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@magnet_8_8 美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2348,
+        "media_key": "3_2079941219204141056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1vhNRbEAAVqlh.jpg",
+        "width": 1199
+      },
+      {
+        "height": 2348,
+        "media_key": "3_2079941219250216960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1vhNcaIAAMD8q.jpg",
+        "width": 1185
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2079941227156513185",
+        "created_at": "2026-07-22T21:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T22:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080041572654268528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1675772332349202434",
+              "start": 0,
+              "username": "magnet_8_8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080041572654268528",
+        "in_reply_to_user_id": "1675772332349202434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079941227156513185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@magnet_8_8 美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079941219204141056",
+            "3_2079941219250216960"
+          ]
+        },
+        "author_id": "1675772332349202434",
+        "conversation_id": "2079941227156513185",
+        "created_at": "2026-07-22T14:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079941227156513185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yuYIxxtM3r",
+              "end": 38,
+              "expanded_url": "https://x.com/magnet_8_8/status/2079941227156513185/photo/1",
+              "media_key": "3_2079941219204141056",
+              "start": 15,
+              "url": "https://t.co/yuYIxxtM3r"
+            },
+            {
+              "display_url": "pic.x.com/yuYIxxtM3r",
+              "end": 38,
+              "expanded_url": "https://x.com/magnet_8_8/status/2079941227156513185/photo/1",
+              "media_key": "3_2079941219250216960",
+              "start": 15,
+              "url": "https://t.co/yuYIxxtM3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079941227156513185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1122,
+          "impression_count": 177088,
+          "like_count": 11820,
+          "quote_count": 12,
+          "reply_count": 11,
+          "retweet_count": 878
+        },
+        "reply_settings": "everyone",
+        "text": "タップとスライドで繋いでみて https://t.co/yuYIxxtM3r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的别烦我｜点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll许愿请来这里不要打扰我们天使妹｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室👉",
+        "name": "🎀音恋✞Mia🎀（查拉图斯特拉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 32,
+          "like_count": 8303,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 5053
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T07:44:13.000Z",
+        "description": "描いたイラストを載せていきます h→@oreore1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "oreore1121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/magnet88",
+                "end": 23,
+                "expanded_url": "https://lit.link/magnet88",
+                "start": 0,
+                "url": "https://t.co/CaE7jPJqn4"
+              }
+            ]
+          }
+        },
+        "id": "1675772332349202434",
+        "location": "見てくれてありがとうございます！",
+        "name": "まぐねっとc108土曜西1は-28b 委託",
+        "pinned_tweet_id": "2074851030194622761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039715363458560000/jZeAI6SQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56850,
+          "following_count": 75,
+          "like_count": 7043,
+          "listed_count": 194,
+          "media_count": 955,
+          "tweet_count": 3632
+        },
+        "url": "https://t.co/CaE7jPJqn4",
+        "username": "magnet_8_8",
+        "verified": false
+      }
+    ]
+  }
+}

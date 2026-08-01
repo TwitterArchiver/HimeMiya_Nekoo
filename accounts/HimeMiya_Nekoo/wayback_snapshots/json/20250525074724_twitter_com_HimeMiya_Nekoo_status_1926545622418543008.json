@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1926242744583815210",
+    "created_at": "2025-05-25T07:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T08:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926545622418543008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495662254544789506",
+          "start": 0,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926545622418543008",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926242744583815210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloevce 你似楞阿*阿梓音"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926242705945812992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrtjiQ8WYAAVaPy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1926242744583815210",
+        "created_at": "2025-05-25T07:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T08:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926545622418543008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926545622418543008",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926242744583815210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 你似楞阿*阿梓音"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926242705945812992"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "1926242744583815210",
+        "created_at": "2025-05-24T11:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T12:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926242744583815210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HOytl1HKDB",
+              "end": 26,
+              "expanded_url": "https://x.com/Aloevce/status/1926242744583815210/photo/1",
+              "media_key": "3_1926242705945812992",
+              "start": 3,
+              "url": "https://t.co/HOytl1HKDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926242744583815210",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 824,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人 https://t.co/HOytl1HKDB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（平凡妹妹版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 90,
+          "like_count": 4626,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 1421
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "岁月静好",
+        "id": "1495662254544789506",
+        "location": "闪焰王牌official",
+        "name": "闪焰王牌",
+        "pinned_tweet_id": "1648619904759910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888657547785011201/zSKZRxV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19229,
+          "following_count": 2391,
+          "like_count": 55351,
+          "listed_count": 20,
+          "media_count": 6053,
+          "tweet_count": 21271
+        },
+        "username": "Aloevce",
+        "verified": false
+      }
+    ]
+  }
+}

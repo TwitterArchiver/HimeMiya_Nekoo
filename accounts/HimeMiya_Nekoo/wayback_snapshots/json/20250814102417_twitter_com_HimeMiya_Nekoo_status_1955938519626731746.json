@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1955897397525266827",
+    "created_at": "2025-08-14T10:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T11:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955938519626731746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1901062040447578112",
+          "start": 0,
+          "username": "paoyou54188"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955938519626731746",
+    "in_reply_to_user_id": "1901062040447578112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955915727984320826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paoyou54188 懂得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1955897397525266827",
+        "created_at": "2025-08-14T10:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T11:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955938519626731746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1901062040447578112",
+              "start": 0,
+              "username": "paoyou54188"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955938519626731746",
+        "in_reply_to_user_id": "1901062040447578112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955915727984320826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paoyou54188 懂得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901062040447578112",
+        "conversation_id": "1955897397525266827",
+        "created_at": "2025-08-14T08:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T09:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955915727984320826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955915727984320826",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955897397525266827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 哎呦，写的真好🤙🤙🤙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（福音版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 91,
+          "like_count": 5186,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 1979
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T00:05:04.000Z",
+        "description": "20，身高183，体重128，🐮14\n是细狗了，有在锻炼增肥\n有事加🐧2478217824",
+        "id": "1901062040447578112",
+        "location": "洛阳",
+        "name": "蹭蹭就进去了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926074950156214272/U0ussXe5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 399,
+          "like_count": 2126,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1868
+        },
+        "username": "paoyou54188",
+        "verified": false
+      }
+    ]
+  }
+}

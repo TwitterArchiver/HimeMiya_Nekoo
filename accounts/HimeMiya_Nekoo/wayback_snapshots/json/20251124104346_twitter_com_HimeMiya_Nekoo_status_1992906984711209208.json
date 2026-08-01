@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1992906984711209208",
+    "created_at": "2025-11-24T10:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T11:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992906984711209208"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1992906984711209208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不得不提出有部分服饰是高强度绑定妆容亦或者样貌的，在未匹配的状况下应当做的事情是姑且接受、更换，而不是用自以为来驱动身体，是的大家其实不是因为你奇装异服不接受你、大家是因为一个不匹配的脸装载了奇装异服才不接受的。当然以上是我温和的见解，我个人更喜欢把这种统称为没有逼数和不自量力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1992906984711209208",
+        "created_at": "2025-11-24T10:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992906984711209208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992906984711209208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不得不提出有部分服饰是高强度绑定妆容亦或者样貌的，在未匹配的状况下应当做的事情是姑且接受、更换，而不是用自以为来驱动身体，是的大家其实不是因为你奇装异服不接受你、大家是因为一个不匹配的脸装载了奇装异服才不接受的。当然以上是我温和的见解，我个人更喜欢把这种统称为没有逼数和不自量力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（互联网幽灵版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 71,
+          "like_count": 6423,
+          "listed_count": 3,
+          "media_count": 150,
+          "tweet_count": 2776
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      }
+    ]
+  }
+}

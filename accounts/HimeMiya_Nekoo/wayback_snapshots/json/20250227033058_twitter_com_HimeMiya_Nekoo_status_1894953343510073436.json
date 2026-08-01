@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1894953343510073436",
+    "created_at": "2025-02-27T03:30:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T04:30:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894953343510073436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584539548843151361",
+          "start": 3,
+          "username": "UUUx_mm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894953343510073436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1785536352211345616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UUUx_mm: 控制高潮当然爽啊♡在上课的时候接到信息必须立刻开始自慰，想尽办法自慰高潮，哪怕你不想自慰也必须立刻随着爹爹的读秒高潮。就在你瞬间进入了涩涩的状态，在教室里好不容易准备高潮的时候，爹爹会在3、2、1之后告诉你不许高潮，还没上贡呢还想高潮？，这个时候你会毫…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1894953343510073436].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1894953343510073436",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1894953343510073436"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1786,
+        "media_key": "3_1785536335820054528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GMd_1lYbYAAANq_.jpg",
+        "width": 1386
+      },
+      {
+        "height": 1507,
+        "media_key": "3_1785536335799070720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GMd_1lTbMAAOz2G.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1785536335820054528",
+            "3_1785536335799070720"
+          ]
+        },
+        "author_id": "1584539548843151361",
+        "conversation_id": "1785536352211345616",
+        "created_at": "2024-05-01T05:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-01T06:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1785536352211345616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z3nvxN62VT",
+              "end": 163,
+              "expanded_url": "https://x.com/UUUx_mm/status/1785536352211345616/photo/1",
+              "media_key": "3_1785536335820054528",
+              "start": 140,
+              "url": "https://t.co/z3nvxN62VT"
+            },
+            {
+              "display_url": "pic.x.com/z3nvxN62VT",
+              "end": 163,
+              "expanded_url": "https://x.com/UUUx_mm/status/1785536352211345616/photo/1",
+              "media_key": "3_1785536335799070720",
+              "start": 140,
+              "url": "https://t.co/z3nvxN62VT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1785536352211345616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5603,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "控制高潮当然爽啊♡在上课的时候接到信息必须立刻开始自慰，想尽办法自慰高潮，哪怕你不想自慰也必须立刻随着爹爹的读秒高潮。就在你瞬间进入了涩涩的状态，在教室里好不容易准备高潮的时候，爹爹会在3、2、1之后告诉你不许高潮，还没上贡呢还想高潮？，这个时候你会毫不犹豫的打钱吗♥︎好期待w https://t.co/z3nvxN62VT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "你的心里♡",
+        "name": "🎀音恋✞Mia🎀（算了变成游戏版）",
+        "pinned_tweet_id": "1870486188890767606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 89,
+          "like_count": 3231,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 1050
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-24T13:37:38.000Z",
+        "description": "✞ #病垢➡️@HimeMiya_Nekoo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 2,
+                "tag": "病垢"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "HimeMiya_Nekoo"
+              }
+            ]
+          }
+        },
+        "id": "1584539548843151361",
+        "name": "HimeMiya_媛🐰",
+        "pinned_tweet_id": "1845802301694603300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822231957989924864/_zVgV4mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 2,
+          "like_count": 111,
+          "listed_count": 7,
+          "media_count": 69,
+          "tweet_count": 270
+        },
+        "username": "UUUx_mm",
+        "verified": false
+      }
+    ]
+  }
+}

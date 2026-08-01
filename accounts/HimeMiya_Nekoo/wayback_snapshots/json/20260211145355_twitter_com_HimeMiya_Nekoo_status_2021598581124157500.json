@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2021598581124157500",
+    "created_at": "2026-02-11T14:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T15:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021598581124157500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/quachill0312/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/quachill0312/status/2021502607689490687",
+          "start": 7,
+          "url": "https://t.co/EFSXlVN0Qx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021598581124157500",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021502607689490687",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "あたくしも😭 https://t.co/EFSXlVN0Qx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2021598581124157500",
+        "created_at": "2026-02-11T14:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021598581124157500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quachill0312/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/quachill0312/status/2021502607689490687",
+              "start": 7,
+              "url": "https://t.co/EFSXlVN0Qx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021598581124157500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021502607689490687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "あたくしも😭 https://t.co/EFSXlVN0Qx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786001369587187712",
+        "conversation_id": "2021502607689490687",
+        "created_at": "2026-02-11T08:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021502607689490687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021502607689490687",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 101842,
+          "like_count": 1027,
+          "quote_count": 128,
+          "reply_count": 20,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "メジコン1t飲んだらどれくらいキマれますか😭\nODよくわからないので詳しい方教えてほしいです（ ;  ; ）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlCDZU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlCDZU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP6tL0"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（薛湘灵版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 62,
+          "like_count": 6843,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 3102
+        },
+        "url": "https://t.co/LC1ydP6tL0",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T11:54:56.000Z",
+        "description": "社会不適合者です｜FA #く絵ちる｜リンクまとめhttps://t.co/jy1wGSpvj1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 12,
+                "tag": "く絵ちる"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/quachill",
+                "end": 47,
+                "expanded_url": "https://lit.link/quachill",
+                "start": 24,
+                "url": "https://t.co/jy1wGSpvj1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@quachill?si=9…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@quachill?si=9wpK4SC6fQ0VnZ2O",
+                "start": 0,
+                "url": "https://t.co/y5ZiCo5s7K"
+              }
+            ]
+          }
+        },
+        "id": "1786001369587187712",
+        "name": "鈴木くあちる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786019299037163520/YyEX1e00_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 11,
+          "like_count": 4894,
+          "listed_count": 5,
+          "media_count": 945,
+          "tweet_count": 3033
+        },
+        "url": "https://t.co/y5ZiCo5s7K",
+        "username": "quachill0312",
+        "verified": false
+      }
+    ]
+  }
+}

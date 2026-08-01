@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1908828062994821206",
+    "created_at": "2025-04-08T07:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T08:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909510818363830374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1811373871033102336",
+          "start": 0,
+          "username": "duoduolin8964"
+        },
+        {
+          "end": 29,
+          "id": "1800510193790586880",
+          "start": 15,
+          "username": "gundanshaluan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909510818363830374",
+    "in_reply_to_user_id": "1811373871033102336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908828062994821206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duoduolin8964 @gundanshaluan 如果他先说的你，他的问题。如果你先说的他，你的问题。很简单嘛不是…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 924,
+        "media_key": "3_1908828054665015298",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn2FAJebsAIBaMC.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1908828062994821206",
+        "created_at": "2025-04-08T07:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T08:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909510818363830374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1811373871033102336",
+              "start": 0,
+              "username": "duoduolin8964"
+            },
+            {
+              "end": 29,
+              "id": "1800510193790586880",
+              "start": 15,
+              "username": "gundanshaluan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909510818363830374",
+        "in_reply_to_user_id": "1811373871033102336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908828062994821206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoduolin8964 @gundanshaluan 如果他先说的你，他的问题。如果你先说的他，你的问题。很简单嘛不是…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908828054665015298"
+          ]
+        },
+        "author_id": "1811373871033102336",
+        "conversation_id": "1908828062994821206",
+        "created_at": "2025-04-06T10:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T11:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908828062994821206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 64,
+              "id": "1800510193790586880",
+              "start": 50,
+              "username": "gundanshaluan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UwVVvk2yce",
+              "end": 88,
+              "expanded_url": "https://x.com/duoduolin8964/status/1908828062994821206/photo/1",
+              "media_key": "3_1908828054665015298",
+              "start": 65,
+              "url": "https://t.co/UwVVvk2yce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908828062994821206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 23684,
+          "like_count": 133,
+          "quote_count": 4,
+          "reply_count": 38,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "1.我不是985的\n2.我卡里每个月的利息够你活一年了\n3.我在类似于你这类生物面前很难没有优越感\n@gundanshaluan https://t.co/UwVVvk2yce"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（公主妹妹版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 89,
+          "like_count": 4418,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 1311
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T12:16:09.000Z",
+        "description": "Whatever it takes～Or how my heart breaks～I will be right here～waiting for you～ 亲爱的🥰@xuan5159/小账@duoduolin0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "xuan5159"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "duoduolin0"
+              }
+            ]
+          }
+        },
+        "id": "1811373871033102336",
+        "location": "Rhodes",
+        "name": "朵朵玲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890098218362609664/IIfs4qGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3595,
+          "following_count": 1416,
+          "like_count": 29700,
+          "listed_count": 6,
+          "media_count": 902,
+          "tweet_count": 9664
+        },
+        "username": "duoduolin8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T12:47:37.000Z",
+        "description": "Please be obscene.",
+        "id": "1800510193790586880",
+        "name": "靜泽未那",
+        "pinned_tweet_id": "1909061516474937387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907115525395853314/O03Sd0St_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1851,
+          "following_count": 95,
+          "like_count": 1311,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 174
+        },
+        "username": "gundanshaluan",
+        "verified": false
+      }
+    ]
+  }
+}

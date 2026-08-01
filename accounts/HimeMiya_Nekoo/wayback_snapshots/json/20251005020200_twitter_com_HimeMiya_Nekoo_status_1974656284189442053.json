@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1974619572474089627",
+    "created_at": "2025-10-05T02:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T03:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974656284189442053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1444716723978981380",
+          "start": 0,
+          "username": "EleanorAnatidae"
+        },
+        {
+          "end": 28,
+          "id": "1526938197951131648",
+          "start": 17,
+          "username": "xinxia_mtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974656284189442053",
+    "in_reply_to_user_id": "1444716723978981380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974619572474089627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EleanorAnatidae @xinxia_mtf 成年人有手机打这么长串字的时间还要别人帮忙报警"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974619562273558530",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2dCB6faUAIlSmo.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974619562248376320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2dCB6ZaEAAcWFD.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1974619572474089627",
+        "created_at": "2025-10-05T02:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T03:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974656284189442053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1444716723978981380",
+              "start": 0,
+              "username": "EleanorAnatidae"
+            },
+            {
+              "end": 28,
+              "id": "1526938197951131648",
+              "start": 17,
+              "username": "xinxia_mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974656284189442053",
+        "in_reply_to_user_id": "1444716723978981380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974619572474089627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EleanorAnatidae @xinxia_mtf 成年人有手机打这么长串字的时间还要别人帮忙报警"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974619562273558530",
+            "3_1974619562248376320"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "conversation_id": "1974619572474089627",
+        "created_at": "2025-10-04T23:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T00:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974619572474089627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1526938197951131648",
+              "start": 12,
+              "username": "xinxia_mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FcOPrNlrLG",
+              "end": 127,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/1974619572474089627/photo/1",
+              "media_key": "3_1974619562273558530",
+              "start": 104,
+              "url": "https://t.co/FcOPrNlrLG"
+            },
+            {
+              "display_url": "pic.x.com/FcOPrNlrLG",
+              "end": 127,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/1974619572474089627/photo/1",
+              "media_key": "3_1974619562248376320",
+              "start": 104,
+              "url": "https://t.co/FcOPrNlrLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974619572474089627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1921,
+          "like_count": 27,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "❗️❗️求助帖❗️❗️\n@xinxia_mtf 其父亲是家暴党，曾在两年前被送进扭转机构。现在她正在被绑架前往葫芦岛建昌，车牌号豫ATE081，具体内容看图片。\n麻烦大家关注一下，可以的话帮帮忙，万分感谢！ https://t.co/FcOPrNlrLG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 78,
+          "like_count": 6057,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 2315
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "mtf🏳️‍⚧️/👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 46,
+                "start": 32,
+                "username": "Shirlene_girl"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772859713987960832/7mLglH_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2614,
+          "following_count": 1706,
+          "like_count": 20003,
+          "listed_count": 8,
+          "media_count": 117,
+          "tweet_count": 5214
+        },
+        "username": "EleanorAnatidae",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T14:50:21.000Z",
+        "description": "2007.8.18🐣/身高165😭/INFP/持证含糖mtf😺/第二次HRT：23.9.10/妈妈意外变成家长党😀/推文当日记发📝（一些和对象的日常）/想跟xyn互fo贴贴🥺（没回fo可能是没看见)/最好的姐姐兼恋人: @Starrynightwglf 🥰🥰🥰/🚪30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 110,
+                "username": "Starrynightwglf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xinxia90268",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xinxia90268",
+                "start": 0,
+                "url": "https://t.co/vMsqLwqjNV"
+              }
+            ]
+          }
+        },
+        "id": "1526938197951131648",
+        "location": "小风怀里",
+        "name": "喵喵大王小夏🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974004254777147392/aotsUvY5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6951,
+          "following_count": 1823,
+          "like_count": 8348,
+          "listed_count": 16,
+          "media_count": 344,
+          "tweet_count": 3214
+        },
+        "url": "https://t.co/vMsqLwqjNV",
+        "username": "xinxia_mtf",
+        "verified": false
+      }
+    ]
+  }
+}

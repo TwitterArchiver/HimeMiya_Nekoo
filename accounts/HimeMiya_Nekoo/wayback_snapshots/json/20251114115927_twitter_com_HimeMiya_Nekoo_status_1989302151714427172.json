@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1989188274947256328",
+    "created_at": "2025-11-14T11:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T12:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989302151714427172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1871588564343148544",
+          "start": 0,
+          "username": "w12343210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989302151714427172",
+    "in_reply_to_user_id": "1871588564343148544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989188274947256328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w12343210 噗嗤内裤挂肩带这aia的我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_1989188271084302336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sEMYFacAA2cLL.jpg",
+        "width": 1147
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1989188271235346433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sEMYpbMAERd5k.jpg",
+        "width": 988
+      },
+      {
+        "height": 1600,
+        "media_key": "3_1989188271935746048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sEMbQacAAxGHp.jpg",
+        "width": 1711
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1989188274947256328",
+        "created_at": "2025-11-14T11:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T12:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989302151714427172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1871588564343148544",
+              "start": 0,
+              "username": "w12343210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989302151714427172",
+        "in_reply_to_user_id": "1871588564343148544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989188274947256328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w12343210 噗嗤内裤挂肩带这aia的我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989188271084302336",
+            "3_1989188271235346433",
+            "3_1989188271935746048"
+          ]
+        },
+        "author_id": "1871588564343148544",
+        "conversation_id": "1989188274947256328",
+        "created_at": "2025-11-14T04:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989188274947256328"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "母狗曝光"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UOrGFRtf6o",
+              "end": 36,
+              "expanded_url": "https://x.com/w12343210/status/1989188274947256328/photo/1",
+              "media_key": "3_1989188271084302336",
+              "start": 13,
+              "url": "https://t.co/UOrGFRtf6o"
+            },
+            {
+              "display_url": "pic.x.com/UOrGFRtf6o",
+              "end": 36,
+              "expanded_url": "https://x.com/w12343210/status/1989188274947256328/photo/1",
+              "media_key": "3_1989188271235346433",
+              "start": 13,
+              "url": "https://t.co/UOrGFRtf6o"
+            },
+            {
+              "display_url": "pic.x.com/UOrGFRtf6o",
+              "end": 36,
+              "expanded_url": "https://x.com/w12343210/status/1989188274947256328/photo/1",
+              "media_key": "3_1989188271935746048",
+              "start": 13,
+              "url": "https://t.co/UOrGFRtf6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989188274947256328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜她多大罩杯 #母狗曝光 https://t.co/UOrGFRtf6o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 84,
+          "like_count": 6263,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 2643
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T16:07:52.000Z",
+        "description": "本人玩圈4年， 教学聊天玩母狗，如何找  有门槛 白嫖勿扰 学习一次受用终身 让大家像我一样 有玩不完的母狗 学费188，凭关注推特截图有优惠 白嫖哥sb勿扰、👉微信zbb20001231👈下面是飞机群，进群有母狗送，想被曝光的母狗私信联系",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lpc8888",
+                "end": 23,
+                "expanded_url": "https://t.me/lpc8888",
+                "start": 0,
+                "url": "https://t.co/YmlI5eikml"
+              }
+            ]
+          }
+        },
+        "id": "1871588564343148544",
+        "name": "穴者",
+        "pinned_tweet_id": "1981920277618655608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889651983646359552/DsaIHOdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 52,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 765,
+          "tweet_count": 847
+        },
+        "url": "https://t.co/YmlI5eikml",
+        "username": "w12343210",
+        "verified": false
+      }
+    ]
+  }
+}

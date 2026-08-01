@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2050083873875431542",
+    "created_at": "2026-05-01T19:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T20:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050296912734191932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1648402059526569988",
+          "start": 0,
+          "username": "Avxxxxyyyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050296912734191932",
+    "in_reply_to_user_id": "1648402059526569988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050291509095018930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Avxxxxyyyyyy 好的那我将谱写互联网圣经"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2050083873875431542",
+        "created_at": "2026-05-01T19:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T20:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050296912734191932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1648402059526569988",
+              "start": 0,
+              "username": "Avxxxxyyyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050296912734191932",
+        "in_reply_to_user_id": "1648402059526569988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050291509095018930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Avxxxxyyyyyy 好的那我将谱写互联网圣经"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648402059526569988",
+        "conversation_id": "2050083873875431542",
+        "created_at": "2026-05-01T19:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T20:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050291509095018930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050291509095018930",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050083873875431542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 我愿称之为圣经\n而你就是我在互联网滤镜下的圣经印刷机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm  避難垢➡️@D4K_Blackdoll｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 81,
+                "start": 67,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（一条紅愛版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 38,
+          "like_count": 7820,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 4388
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-18T19:04:21.000Z",
+        "description": "互动大欢迎！DM大歓迎！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/avxy95252",
+                "end": 23,
+                "expanded_url": "https://ngl.link/avxy95252",
+                "start": 0,
+                "url": "https://t.co/UhVsTs9oO3"
+              }
+            ]
+          }
+        },
+        "id": "1648402059526569988",
+        "name": "Avxy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979856921201897472/Hb-qWbfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 361,
+          "like_count": 5044,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 3053
+        },
+        "url": "https://t.co/UhVsTs9oO3",
+        "username": "Avxxxxyyyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

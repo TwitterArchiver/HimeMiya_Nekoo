@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1926666770095460787",
+    "created_at": "2025-05-25T17:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T18:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926689270275698966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1728257115419291648",
+          "start": 0,
+          "username": "slover12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926689270275698966",
+    "in_reply_to_user_id": "1728257115419291648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926680869231526275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@slover12138 这能听出来阿喂！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1926666770095460787",
+        "created_at": "2025-05-25T17:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T18:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926689270275698966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1728257115419291648",
+              "start": 0,
+              "username": "slover12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926689270275698966",
+        "in_reply_to_user_id": "1728257115419291648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926680869231526275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@slover12138 这能听出来阿喂！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728257115419291648",
+        "conversation_id": "1926666770095460787",
+        "created_at": "2025-05-25T16:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T17:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926680869231526275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926680869231526275",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926666770095460787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 真好听"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（平凡妹妹版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 89,
+          "like_count": 4621,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 1433
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T03:39:53.000Z",
+        "description": "欢迎反差贱母猪们主动爬起来跪在你祖宗面前当你祖宗的泄欲工具。评价骚逼鉴定评分 +qq 2695486549",
+        "id": "1728257115419291648",
+        "name": "lover骚屄鉴定评分处",
+        "pinned_tweet_id": "1865435185740931290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907479319397515264/doBgszub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 3976,
+          "like_count": 121,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 527
+        },
+        "username": "slover12138",
+        "verified": false
+      }
+    ]
+  }
+}

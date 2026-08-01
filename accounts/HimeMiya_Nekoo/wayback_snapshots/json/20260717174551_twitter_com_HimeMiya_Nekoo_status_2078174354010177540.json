@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2078107750907941027",
+    "created_at": "2026-07-17T17:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T18:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078174354010177540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1897884218740592640",
+          "start": 0,
+          "username": "kekeke0o0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078174354010177540",
+    "in_reply_to_user_id": "1897884218740592640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078107750907941027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kekeke0o0 我去美的不像人了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078107722369892352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbr9pTagAAgmR6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2078107750907941027",
+        "created_at": "2026-07-17T17:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078174354010177540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1897884218740592640",
+              "start": 0,
+              "username": "kekeke0o0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078174354010177540",
+        "in_reply_to_user_id": "1897884218740592640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078107750907941027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kekeke0o0 我去美的不像人了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078107722369892352"
+          ]
+        },
+        "author_id": "1897884218740592640",
+        "conversation_id": "2078107750907941027",
+        "created_at": "2026-07-17T13:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078107750907941027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TBIM2Te17f",
+              "end": 34,
+              "expanded_url": "https://x.com/kekeke0o0/status/2078107750907941027/photo/1",
+              "media_key": "3_2078107722369892352",
+              "start": 11,
+              "url": "https://t.co/TBIM2Te17f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078107750907941027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁在乎你还有没有明天 https://t.co/TBIM2Te17f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的别烦我｜点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室👉",
+        "name": "🎀音恋✞Mia🎀（查拉图斯特拉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 34,
+          "like_count": 8200,
+          "listed_count": 3,
+          "media_count": 251,
+          "tweet_count": 4910
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T05:37:34.000Z",
+        "description": "这是一个涉神账号❗接定制/可验证20r只回复口令和验证 一个问题20 /坐标长沙\n小号：@quan_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 44,
+                "username": "quan_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shiquankek",
+                "end": 23,
+                "expanded_url": "https://t.me/shiquankek",
+                "start": 0,
+                "url": "https://t.co/iUMveVRvtX"
+              }
+            ]
+          }
+        },
+        "id": "1897884218740592640",
+        "location": "🚪188/288/520/1314",
+        "name": "世泉",
+        "pinned_tweet_id": "2070453814277423392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073326095295008768/SdmXMy3L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 80,
+          "like_count": 205,
+          "listed_count": 5,
+          "media_count": 204,
+          "tweet_count": 510
+        },
+        "url": "https://t.co/iUMveVRvtX",
+        "username": "kekeke0o0",
+        "verified": false
+      }
+    ]
+  }
+}

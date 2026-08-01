@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1929416204763947081",
+    "created_at": "2025-06-02T08:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T09:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929450006551167406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1827383961766490112",
+          "start": 0,
+          "username": "djdj456987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929450006551167406",
+    "in_reply_to_user_id": "1827383961766490112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929419772975808976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@djdj456987 你要女装吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1929416204763947081",
+        "created_at": "2025-06-02T08:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T09:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929450006551167406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827383961766490112",
+              "start": 0,
+              "username": "djdj456987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929450006551167406",
+        "in_reply_to_user_id": "1827383961766490112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929419772975808976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@djdj456987 你要女装吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827383961766490112",
+        "conversation_id": "1929416204763947081",
+        "created_at": "2025-06-02T06:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T07:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929419772975808976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929419772975808976",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929416204763947081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 爸爸不行么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（平凡妹妹版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 89,
+          "like_count": 4600,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 1436
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T16:34:30.000Z",
+        "description": "3847124199\n玩法很多   具体私聊\n推特私信没回请加q\n家有丧志母猪@kerry_yanc97086\n羞辱评价      羞辱玩弄        自毁胁迫       露出调教",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "kerry_yanc97086"
+              }
+            ]
+          }
+        },
+        "id": "1827383961766490112",
+        "location": "不定",
+        "name": "胡",
+        "pinned_tweet_id": "1857141018308612568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827698845708369920/ejpTB5T6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 1326,
+          "like_count": 26,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 2085
+        },
+        "username": "djdj456987",
+        "verified": false
+      }
+    ]
+  }
+}

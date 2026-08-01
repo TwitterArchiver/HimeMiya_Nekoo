@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1884883228634538275",
+    "created_at": "2025-02-03T04:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T05:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886274979215679926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1257672824346431488",
+          "start": 0,
+          "username": "akilovelyuriyh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886274979215679926",
+    "in_reply_to_user_id": "1257672824346431488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886264720757539005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akilovelyuriyh 那你也打100"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1884883228634538275",
+        "created_at": "2025-02-03T04:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T05:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886274979215679926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1257672824346431488",
+              "start": 0,
+              "username": "akilovelyuriyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886274979215679926",
+        "in_reply_to_user_id": "1257672824346431488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886264720757539005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akilovelyuriyh 那你也打100"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257672824346431488",
+        "conversation_id": "1884883228634538275",
+        "created_at": "2025-02-03T04:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T05:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886264720757539005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886264720757539005",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884883228634538275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 怎么我不是这个价格😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "你的心里♡",
+        "name": "🎀音恋✞Mia🎀（算了变成游戏版）",
+        "pinned_tweet_id": "1870486188890767606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 77,
+          "like_count": 2097,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 944
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-05T14:05:51.000Z",
+        "description": "冒充人类",
+        "id": "1257672824346431488",
+        "name": "狗悟饭与龟波功⛄️🤍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1257673100063240194/-18Pc17__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 1190,
+          "like_count": 714,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 807
+        },
+        "username": "akilovelyuriyh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,630 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491833436499107849",
+          "name": "Gaming hardware & accessories"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2033775640869277766",
+    "created_at": "2026-03-17T05:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T06:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033775640869277766"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 58,
+          "normalized_text": "serial experiments lain",
+          "probability": 0.7531,
+          "start": 36,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 70,
+          "tag": "lain"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1946017976752476160",
+          "start": 3,
+          "username": "fumocollection"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033775640869277766",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 149
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033480262156448209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fumocollection: ＼💥絶賛予約受付中！💥／\n『serial experiments lain』コラボレーション！\n \n#lain の世界観を表現したゲーミングキーボードが登場！\nキーボードパッケージ&amp;スペースキーに”描き下ろしイラスト”を使用✨️\n \n▶購…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "キーボード 日本語配列",
+        "height": 1200,
+        "media_key": "3_2033479778221830144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhfFZ7aMAAAOR9.jpg",
+        "width": 1200
+      },
+      {
+        "alt_text": "キーボード 日本語配列",
+        "height": 1200,
+        "media_key": "3_2033479417834639360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhewbYaEAAJMUJ.jpg",
+        "width": 1200
+      },
+      {
+        "alt_text": "キーボード 日本語配列",
+        "height": 1200,
+        "media_key": "3_2033479523472408576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhe2k6agAAFhFq.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2033480141431844864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhfai_bMAAOO6_.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491833436499107849",
+              "name": "Gaming hardware & accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2033775640869277766",
+        "created_at": "2026-03-17T05:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T06:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033775640869277766"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 58,
+              "normalized_text": "serial experiments lain",
+              "probability": 0.7531,
+              "start": 36,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "lain"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1946017976752476160",
+              "start": 3,
+              "username": "fumocollection"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033775640869277766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 149
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033480262156448209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fumocollection: ＼💥絶賛予約受付中！💥／\n『serial experiments lain』コラボレーション！\n \n#lain の世界観を表現したゲーミングキーボードが登場！\nキーボードパッケージ&amp;スペースキーに”描き下ろしイラスト”を使用✨️\n \n▶購…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033479778221830144",
+            "3_2033479417834639360",
+            "3_2033479523472408576",
+            "3_2033480141431844864"
+          ]
+        },
+        "author_id": "1946017976752476160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491833436499107849",
+              "name": "Gaming hardware & accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2033480262156448209",
+        "created_at": "2026-03-16T09:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T10:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033480262156448209"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "serial experiments lain",
+              "probability": 0.8164,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 134,
+              "normalized_text": "安倍𠮷俊",
+              "probability": 0.815,
+              "start": 130,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "lain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Veh6YOXu2I",
+              "end": 174,
+              "expanded_url": "https://x.com/fumocollection/status/2033480262156448209/photo/1",
+              "media_key": "3_2033479778221830144",
+              "start": 151,
+              "url": "https://t.co/Veh6YOXu2I"
+            },
+            {
+              "display_url": "pic.x.com/Veh6YOXu2I",
+              "end": 174,
+              "expanded_url": "https://x.com/fumocollection/status/2033480262156448209/photo/1",
+              "media_key": "3_2033479417834639360",
+              "start": 151,
+              "url": "https://t.co/Veh6YOXu2I"
+            },
+            {
+              "display_url": "pic.x.com/Veh6YOXu2I",
+              "end": 174,
+              "expanded_url": "https://x.com/fumocollection/status/2033480262156448209/photo/1",
+              "media_key": "3_2033479523472408576",
+              "start": 151,
+              "url": "https://t.co/Veh6YOXu2I"
+            },
+            {
+              "display_url": "pic.x.com/Veh6YOXu2I",
+              "end": 174,
+              "expanded_url": "https://x.com/fumocollection/status/2033480262156448209/photo/1",
+              "media_key": "3_2033480141431844864",
+              "start": 151,
+              "url": "https://t.co/Veh6YOXu2I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033480262156448209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 50,
+                "tag": "lain"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/fumocollection…",
+                "end": 189,
+                "expanded_url": "https://x.com/fumocollection/status/2031257736437223494",
+                "start": 166,
+                "url": "https://t.co/q32omWVGtj"
+              }
+            ]
+          },
+          "text": "＼💥絶賛予約受付中！💥／\n『serial experiments lain』コラボレーション！\n \n#lain の世界観を表現したゲーミングキーボードが登場！\nキーボードパッケージ&スペースキーに”描き下ろしイラスト”を使用✨️\n \n▶購入特典で【安倍𠮷俊氏サイン入り複製色紙】も付属します🎉\n \n🔻コラボグッズを今すぐチェック✔\nhttps://t.co/q32omWVGtj\n \n🚨締め切り：4月14日(火) 23:59"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 255,
+          "impression_count": 86568,
+          "like_count": 973,
+          "quote_count": 43,
+          "reply_count": 7,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "＼💥絶賛予約受付中！💥／\n『serial experiments lain』コラボレーション！\n \n#lain の世界観を表現したゲーミングキーボードが登場！\nキーボードパッケージ&amp;スペースキーに”描き下ろしイラスト”を使用✨️\n \n▶購入特典で【安倍𠮷俊氏サイン入り複製色紙】も付属します🎉 https://t.co/Veh6YOXu2I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（转生版）",
+        "pinned_tweet_id": "2025759179487784987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 28,
+          "like_count": 7237,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 3699
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T01:23:43.000Z",
+        "description": "ふもっふのおみせ（@fumoshop）が運営する、ふもコレ公式情報アカウント。\nコラボデバイスの発売情報（新作・予約・再販）／イベント情報をまとめて発信します。\n\n＜ふもコレ公式ショップ＞\nhttps://t.co/qP8UzCHuVO\n#ふもコレ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 119,
+                "tag": "ふもコレ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "fumoshop"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fumo-collection.com",
+                "end": 118,
+                "expanded_url": "https://fumo-collection.com",
+                "start": 95,
+                "url": "https://t.co/qP8UzCHuVO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fumo-collection.com",
+                "end": 23,
+                "expanded_url": "https://www.fumo-collection.com/",
+                "start": 0,
+                "url": "https://t.co/Szem2oFzhq"
+              }
+            ]
+          }
+        },
+        "id": "1946017976752476160",
+        "name": "ふもコレ by ふもっふのおみせ【公式】",
+        "pinned_tweet_id": "2031257736437223494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028687841753210880/wocR23Cf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 6,
+          "like_count": 168,
+          "listed_count": 8,
+          "media_count": 34,
+          "tweet_count": 209
+        },
+        "url": "https://t.co/Szem2oFzhq",
+        "username": "fumocollection",
+        "verified": true
+      }
+    ]
+  }
+}

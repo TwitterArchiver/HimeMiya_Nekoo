@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2024337844341461141",
+    "created_at": "2026-02-19T07:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T08:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024378877565686250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811812787058016257",
+          "start": 0,
+          "username": "kanakosama0223f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024378877565686250",
+    "in_reply_to_user_id": "1811812787058016257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024337844341461141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanakosama0223f 和爸妈真的没什么好说的 大过年的我又要自己躲在房间吃小药片割手手了 😂😂真是过了个好年"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 704,
+        "media_key": "3_2024337837018284032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfkiZDbgAA8yAC.jpg",
+        "width": 1487
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2024337844341461141",
+        "created_at": "2026-02-19T07:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024378877565686250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811812787058016257",
+              "start": 0,
+              "username": "kanakosama0223f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024378877565686250",
+        "in_reply_to_user_id": "1811812787058016257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024337844341461141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanakosama0223f 和爸妈真的没什么好说的 大过年的我又要自己躲在房间吃小药片割手手了 😂😂真是过了个好年"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024337837018284032"
+          ]
+        },
+        "author_id": "1811812787058016257",
+        "conversation_id": "2024337844341461141",
+        "created_at": "2026-02-19T04:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024337844341461141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KF4J3wvPQG",
+              "end": 67,
+              "expanded_url": "https://x.com/kanakosama0223f/status/2024337844341461141/photo/1",
+              "media_key": "3_2024337837018284032",
+              "start": 44,
+              "url": "https://t.co/KF4J3wvPQG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024337844341461141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 820,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和爸妈真的没什么好说的 大过年的我又要自己躲在房间吃小药片割手手了 😂😂真是过了个好年 https://t.co/KF4J3wvPQG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 54,
+          "like_count": 6891,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 3205
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T17:20:27.000Z",
+        "description": "INTP 🐾07 🫧IG：kanako_0223ff TikTok：kanako0223ff 抖音：kanakosama0223 推特只有两个小号➡️@kanakoshine0223 @kanako0223ff 看到用我头像和名字的账号请不要相信 都是假冒的 门槛288 我推：@Uni_btt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "kanakoshine0223"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "kanako0223ff"
+              },
+              {
+                "end": 147,
+                "start": 139,
+                "username": "Uni_btt"
+              }
+            ]
+          }
+        },
+        "id": "1811812787058016257",
+        "location": "地狱🪦",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "2012755946506756346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008265402099654656/E9mXaAvQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16434,
+          "following_count": 103,
+          "like_count": 7164,
+          "listed_count": 22,
+          "media_count": 900,
+          "tweet_count": 4902
+        },
+        "username": "kanakosama0223f",
+        "verified": false
+      }
+    ]
+  }
+}

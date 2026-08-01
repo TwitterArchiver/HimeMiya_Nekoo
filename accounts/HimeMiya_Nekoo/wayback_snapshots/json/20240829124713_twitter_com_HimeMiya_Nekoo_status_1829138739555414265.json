@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1829096862512771242",
+    "created_at": "2024-08-29T12:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-29T13:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829138739555414265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1821010907092414467",
+          "start": 0,
+          "username": "LiRich03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829138739555414265",
+    "in_reply_to_user_id": "1821010907092414467",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829096862512771242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiRich03 宝宝你一个家怎么有三种墙纸三种地板"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1829096862512771242",
+        "created_at": "2024-08-29T12:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T13:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829138739555414265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1821010907092414467",
+              "start": 0,
+              "username": "LiRich03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829138739555414265",
+        "in_reply_to_user_id": "1821010907092414467",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829096862512771242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiRich03 宝宝你一个家怎么有三种墙纸三种地板"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829096852157014016"
+          ]
+        },
+        "author_id": "1821010907092414467",
+        "conversation_id": "1829096862512771242",
+        "created_at": "2024-08-29T10:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T11:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829096862512771242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cpddivoi9z",
+              "end": 34,
+              "expanded_url": "https://twitter.com/LiRich03/status/1829096862512771242/photo/1",
+              "media_key": "3_1829096852157014016",
+              "start": 11,
+              "url": "https://t.co/cPdDIVoI9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829096862512771242",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1864,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个抽象女罢了੧😭੧ https://t.co/cPdDIVoI9Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1823052132465135940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 53,
+          "like_count": 328,
+          "listed_count": 0,
+          "tweet_count": 314
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T02:30:21.000Z",
+        "description": "无聊发日常",
+        "id": "1821010907092414467",
+        "location": "9.99💰➕私人vx 可以闲聊",
+        "name": "Li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821011545029275648/wS0S-GBs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 2,
+          "tweet_count": 31
+        },
+        "username": "LiRich03",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1823066911439212895",
+    "created_at": "2024-08-12T19:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T20:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823072869720703207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1685904729896071168",
+          "start": 0,
+          "username": "nookeebyde"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823072869720703207",
+    "in_reply_to_user_id": "1685904729896071168",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823068508974157991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nookeebyde 可爱捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1823066911439212895",
+        "created_at": "2024-08-12T19:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T20:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823072869720703207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685904729896071168",
+              "start": 0,
+              "username": "nookeebyde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823072869720703207",
+        "in_reply_to_user_id": "1685904729896071168",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823068508974157991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nookeebyde 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685904729896071168",
+        "conversation_id": "1823066911439212895",
+        "created_at": "2024-08-12T18:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T19:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823068508974157991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823068508974157991",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823066911439212895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 可爱捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1823052132465135940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 51,
+          "like_count": 259,
+          "listed_count": 0,
+          "tweet_count": 178
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T06:46:31.000Z",
+        "description": "爱打游戏，啥都玩点但都很菜的lsp",
+        "id": "1685904729896071168",
+        "name": "鱼丸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688942545408249856/FvcfSvu3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 494,
+          "like_count": 26096,
+          "listed_count": 0,
+          "tweet_count": 4551
+        },
+        "username": "nookeebyde",
+        "verified": false
+      }
+    ]
+  }
+}

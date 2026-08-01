@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2077408974207599009",
+    "created_at": "2026-07-17T04:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T05:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077975715388281191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1627860014114168833",
+          "start": 0,
+          "username": "Snow_Xue_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077975715388281191",
+    "in_reply_to_user_id": "1627860014114168833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077408974207599009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Xue_1 你爹妈还是好心还骗你，要是我就断绝关系你爱干嘛干嘛这样就不是我们打压你欺负你不理解你了，喜欢援交？我看你一分生活费都没有的时候喜不喜欢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2077408974207599009",
+        "created_at": "2026-07-17T04:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077975715388281191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1627860014114168833",
+              "start": 0,
+              "username": "Snow_Xue_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077975715388281191",
+        "in_reply_to_user_id": "1627860014114168833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077408974207599009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_1 你爹妈还是好心还骗你，要是我就断绝关系你爱干嘛干嘛这样就不是我们打压你欺负你不理解你了，喜欢援交？我看你一分生活费都没有的时候喜不喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627860014114168833",
+        "conversation_id": "2077408974207599009",
+        "created_at": "2026-07-15T15:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077408974207599009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077408974207599009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5301,
+          "like_count": 34,
+          "quote_count": 5,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我父母天天说在攒钱给我准备以后做手术，但钱呢，拿其中一小部分给我买个邮票就这么难吗，给我买一点奥施康定就这么难吗。\n他们根本没有攒钱，他们只是一直在骗我罢了，想骗我到成年，想一直拖下去罢了，他们根本不喜欢我，连让我开心一次都不愿意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的别烦我｜点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室👉",
+        "name": "🎀音恋✞Mia🎀（查拉图斯特拉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 34,
+          "like_count": 8201,
+          "listed_count": 3,
+          "media_count": 251,
+          "tweet_count": 4899
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-21T02:39:25.000Z",
+        "description": "✝️普瑞巴林，曲马多重度依赖✝️ \n 普通的上海入 | 超级大s | 战绩：二刷抢救室 | hrt2025.11 🍥 |  生产日期 2010.3.16 | 家暴党（表面家长不管党，实际家暴党）| 对象&姐姐@vokleer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 104,
+                "username": "vokleer"
+              }
+            ]
+          }
+        },
+        "id": "1627860014114168833",
+        "location": "上海",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2076673707746189382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062076159492595713/NHormeLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 266,
+          "like_count": 5565,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 717
+        },
+        "url": "",
+        "username": "Snow_Xue_1",
+        "verified": true
+      }
+    ]
+  }
+}

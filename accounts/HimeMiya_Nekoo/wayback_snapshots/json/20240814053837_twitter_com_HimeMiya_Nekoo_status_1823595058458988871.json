@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1823529865313964071",
+    "created_at": "2024-08-14T05:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T06:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823595058458988871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1694301523713687554",
+          "start": 0,
+          "username": "yushiyu173173"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823595058458988871",
+    "in_reply_to_user_id": "1694301523713687554",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823586695364927634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yushiyu173173 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1823529865313964071",
+        "created_at": "2024-08-14T05:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T06:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823595058458988871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1694301523713687554",
+              "start": 0,
+              "username": "yushiyu173173"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823595058458988871",
+        "in_reply_to_user_id": "1694301523713687554",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823586695364927634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yushiyu173173 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694301523713687554",
+        "conversation_id": "1823529865313964071",
+        "created_at": "2024-08-14T05:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T06:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823586695364927634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823586695364927634",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823529865313964071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 好耶，多睡会对身体好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1823052132465135940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 52,
+          "like_count": 268,
+          "listed_count": 0,
+          "tweet_count": 182
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-23T10:52:26.000Z",
+        "description": "一个看黄的男的",
+        "id": "1694301523713687554",
+        "name": "叶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703351703121354752/W_3uKhQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 1031,
+          "like_count": 118,
+          "listed_count": 0,
+          "tweet_count": 325
+        },
+        "username": "yushiyu173173",
+        "verified": false
+      }
+    ]
+  }
+}

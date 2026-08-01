@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1823989470007623834",
+    "created_at": "2024-08-15T13:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T14:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824075644462088543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1694301523713687554",
+          "start": 0,
+          "username": "yushiyu173173"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824075644462088543",
+    "in_reply_to_user_id": "1694301523713687554",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824051696089362469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yushiyu173173 还没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1823989470007623834",
+        "created_at": "2024-08-15T13:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T14:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824075644462088543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1694301523713687554",
+              "start": 0,
+              "username": "yushiyu173173"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824075644462088543",
+        "in_reply_to_user_id": "1694301523713687554",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824051696089362469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yushiyu173173 还没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694301523713687554",
+        "conversation_id": "1823989470007623834",
+        "created_at": "2024-08-15T11:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T12:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824051696089362469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824051696089362469",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824018120534814787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 毕业啦已经？那加油呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1823052132465135940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 51,
+          "like_count": 282,
+          "listed_count": 0,
+          "tweet_count": 194
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-23T10:52:26.000Z",
+        "description": "25，1943，7，26",
+        "id": "1694301523713687554",
+        "name": "叶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703351703121354752/W_3uKhQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 1035,
+          "like_count": 133,
+          "listed_count": 0,
+          "tweet_count": 356
+        },
+        "username": "yushiyu173173",
+        "verified": false
+      }
+    ]
+  }
+}

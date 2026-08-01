@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1992524325157838995",
+    "created_at": "2025-11-24T01:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T02:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992762665509564653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974688655513096192",
+          "start": 0,
+          "username": "lin_dialog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992762665509564653",
+    "in_reply_to_user_id": "1974688655513096192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992524325157838995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lin_dialog 不过据说（据说）是有那种吃一点人就要嘎过去的人存在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1992524325157838995",
+        "created_at": "2025-11-24T01:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T02:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992762665509564653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974688655513096192",
+              "start": 0,
+              "username": "lin_dialog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992762665509564653",
+        "in_reply_to_user_id": "1974688655513096192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992524325157838995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lin_dialog 不过据说（据说）是有那种吃一点人就要嘎过去的人存在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "1992524325157838995",
+        "created_at": "2025-11-23T09:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T10:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992524325157838995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whalesbone_/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/whalesbone_/status/1991985323975581860",
+              "start": 26,
+              "url": "https://t.co/9vTcA13vov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992524325157838995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4690,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991985323975581860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纯种傻逼，…操你妈11颗愈美就叫救护车了、真有钱。 https://t.co/9vTcA13vov"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（互联网幽灵版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 71,
+          "like_count": 6413,
+          "listed_count": 3,
+          "media_count": 150,
+          "tweet_count": 2771
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "霖霖 ♡ 17 they/them｜shedtwt odtwt｜bmi16.9 (o^^o) ♡｜need more moots!｜抽烟喝酒自残od｜LGBTQ+🏳️‍🌈全友好^^｜查成分回fo｜单机转线上 尝试恢复社交能力中…",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "1989295399740510238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975515757137338368/jPrPpZkm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 135,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 469
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

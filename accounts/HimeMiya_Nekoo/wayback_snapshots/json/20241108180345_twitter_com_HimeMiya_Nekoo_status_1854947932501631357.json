@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1854939296450695345",
+    "created_at": "2024-11-08T18:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T19:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854947932501631357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1787122298853703680",
+          "start": 0,
+          "username": "Chatgpt93870504"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854947932501631357",
+    "in_reply_to_user_id": "1787122298853703680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854947404631748850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chatgpt93870504 啾咪w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1854939296450695345",
+        "created_at": "2024-11-08T18:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T19:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854947932501631357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1787122298853703680",
+              "start": 0,
+              "username": "Chatgpt93870504"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854947932501631357",
+        "in_reply_to_user_id": "1787122298853703680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854947404631748850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chatgpt93870504 啾咪w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787122298853703680",
+        "conversation_id": "1854939296450695345",
+        "created_at": "2024-11-08T18:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T19:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854947404631748850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854947404631748850",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854939296450695345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 招聘哥哥/姐姐中┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞ 裏垢➡️@UUUx_mm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "你的心里♡",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1847578880787566808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 67,
+          "like_count": 1027,
+          "listed_count": 1,
+          "tweet_count": 715
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T14:09:00.000Z",
+        "description": "男\n喜欢压榨破坏母人人格的人渣一枚\n男尊女卑，女权，败北\n败北区up主（bushi），碎碎念区up主（shi）\n在等一个能聊的来的狗狗，不过估计没有就是了\n母畜做好被玩烂的准备再私/窥屏\n扣3643491413",
+        "id": "1787122298853703680",
+        "location": "手机里",
+        "name": "早点睡",
+        "pinned_tweet_id": "1828464711148384363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841143267867451402/CQCmspwn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 315,
+          "like_count": 4155,
+          "listed_count": 1,
+          "tweet_count": 186
+        },
+        "username": "Chatgpt93870504",
+        "verified": false
+      }
+    ]
+  }
+}

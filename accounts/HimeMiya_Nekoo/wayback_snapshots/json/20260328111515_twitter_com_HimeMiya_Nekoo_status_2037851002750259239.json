@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2037808945226784985",
+    "created_at": "2026-03-28T11:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T12:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037851002750259239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1592719222940962817",
+          "start": 0,
+          "username": "mofuwo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037851002750259239",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037808945226784985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mofuwo8964 课题分离"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2037808945226784985].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2037808945226784985",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2037808945226784985"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2037808945226784985",
+        "created_at": "2026-03-28T11:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037851002750259239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037851002750259239",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037808945226784985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 课题分离"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（丁莉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 27,
+          "like_count": 7229,
+          "listed_count": 4,
+          "media_count": 185,
+          "tweet_count": 3750
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜社会不适应中",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2036881385164857397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035506507119529984/x_8oMbZr_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2716,
+          "following_count": 855,
+          "like_count": 2856,
+          "listed_count": 5,
+          "media_count": 159,
+          "tweet_count": 2199
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1926503406467788987",
+    "created_at": "2025-05-25T06:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T07:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926523683125756320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1560989453849464834",
+          "start": 0,
+          "username": "Liber537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926523683125756320",
+    "in_reply_to_user_id": "1560989453849464834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926523293902704862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liber537 怎么看待智者派"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1926503406467788987",
+        "created_at": "2025-05-25T06:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T07:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926523683125756320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1560989453849464834",
+              "start": 0,
+              "username": "Liber537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926523683125756320",
+        "in_reply_to_user_id": "1560989453849464834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926523293902704862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liber537 怎么看待智者派"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560989453849464834",
+        "conversation_id": "1926503406467788987",
+        "created_at": "2025-05-25T06:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T07:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926523293902704862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926523293902704862",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926522539272020282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 康米更懂些，苏格拉底也了解🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（平凡妹妹版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 90,
+          "like_count": 4625,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 1414
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T13:57:47.000Z",
+        "description": "糕中生｜马克思列宁主义毛泽东思想万岁🚩｜现代诗诗人📜｜胶片摄影📷｜二次元爱好者🤓｜双相&焦虑｜非二元性别平权🏳️‍🌈｜人与人相互连接，不再孤独",
+        "id": "1560989453849464834",
+        "location": "连线世界",
+        "name": "曇",
+        "pinned_tweet_id": "1926306818369650721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924444254681866241/6VUx0bzX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 396,
+          "like_count": 9083,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 499
+        },
+        "username": "Liber537",
+        "verified": false
+      }
+    ]
+  }
+}

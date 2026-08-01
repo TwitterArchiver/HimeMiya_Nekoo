@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1894373335620043072",
+    "created_at": "2025-02-25T14:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T15:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894387554142883936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1237054141",
+          "start": 0,
+          "username": "yuki_mizuki02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894387554142883936",
+    "in_reply_to_user_id": "1237054141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894378048650449152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuki_mizuki02 啾咪"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1894378048650449152].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1894378048650449152",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1894378048650449152"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1894373335620043072",
+        "created_at": "2025-02-25T14:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T15:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894387554142883936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1237054141",
+              "start": 0,
+              "username": "yuki_mizuki02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894387554142883936",
+        "in_reply_to_user_id": "1237054141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894378048650449152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_mizuki02 啾咪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "你的心里♡",
+        "name": "🎀音恋✞Mia🎀（算了变成游戏版）",
+        "pinned_tweet_id": "1870486188890767606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 88,
+          "like_count": 2960,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 1035
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-03T00:04:33.000Z",
+        "description": "是一只努力幻化成人后却因为沉迷美味的咖喱饭而忘记怎么变回去的笨蛋狸猫，身上流淌着傻瓜之血，不断追寻着有趣的事物。",
+        "id": "1237054141",
+        "location": "日本 京都",
+        "name": "雪ミズキ",
+        "pinned_tweet_id": "1891798609273712963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853984163097194496/IwJrBE55_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 131,
+          "like_count": 1393,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 150
+        },
+        "username": "yuki_mizuki02",
+        "verified": false
+      }
+    ]
+  }
+}

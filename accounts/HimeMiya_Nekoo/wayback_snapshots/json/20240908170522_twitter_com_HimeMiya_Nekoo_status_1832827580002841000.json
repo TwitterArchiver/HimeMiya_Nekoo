@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1832014426456948871",
+    "created_at": "2024-09-08T17:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T18:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832827580002841000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1342322070516973568",
+          "start": 0,
+          "username": "miilowul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832827580002841000",
+    "in_reply_to_user_id": "1342322070516973568",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832130154967265311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miilowul 回你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1832014426456948871",
+        "created_at": "2024-09-08T17:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T18:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832827580002841000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1342322070516973568",
+              "start": 0,
+              "username": "miilowul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832827580002841000",
+        "in_reply_to_user_id": "1342322070516973568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832130154967265311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miilowul 回你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1342322070516973568",
+        "conversation_id": "1832014426456948871",
+        "created_at": "2024-09-06T18:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T19:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832130154967265311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832130154967265311",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832014426456948871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 醍醐灌顶，胶囊旅馆纯纯的棺材板"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1823052132465135940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 56,
+          "like_count": 343,
+          "listed_count": 0,
+          "tweet_count": 399
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-25T04:11:47.000Z",
+        "description": "",
+        "id": "1342322070516973568",
+        "location": "Toshima-ku, Tokyo",
+        "name": "アボカド",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1512815070933585920/RPK2_ueY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 197,
+          "like_count": 65,
+          "listed_count": 1,
+          "tweet_count": 3
+        },
+        "username": "miilowul",
+        "verified": false
+      }
+    ]
+  }
+}

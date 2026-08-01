@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2043634727698247845",
+    "created_at": "2026-04-13T10:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T11:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043636063244300658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1596866166189830144",
+          "start": 0,
+          "username": "lord2325888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043636063244300658",
+    "in_reply_to_user_id": "1596866166189830144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043635500347801674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lord2325888 一个师傅教的破不了招的😏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2043634727698247845",
+        "created_at": "2026-04-13T10:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043636063244300658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1596866166189830144",
+              "start": 0,
+              "username": "lord2325888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043636063244300658",
+        "in_reply_to_user_id": "1596866166189830144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043635500347801674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lord2325888 一个师傅教的破不了招的😏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596866166189830144",
+        "conversation_id": "2043634727698247845",
+        "created_at": "2026-04-13T10:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043635500347801674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043635500347801674",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043635212383600969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 我看这口诀能不能用在师傅身上🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（方知宥版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 27,
+          "like_count": 7358,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 3947
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T13:59:07.000Z",
+        "description": "",
+        "id": "1596866166189830144",
+        "name": "可怕🐎",
+        "pinned_tweet_id": "1895112327089074294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788490814232137730/n7xu1sK2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 191,
+          "like_count": 1463,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 3818
+        },
+        "username": "lord2325888",
+        "verified": false
+      }
+    ]
+  }
+}

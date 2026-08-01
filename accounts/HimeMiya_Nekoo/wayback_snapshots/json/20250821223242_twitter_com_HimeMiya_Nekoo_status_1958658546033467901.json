@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1958536325910450547",
+    "created_at": "2025-08-21T22:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T23:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958658546033467901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1662058783215087617",
+          "start": 0,
+          "username": "HacchiTheMaid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958658546033467901",
+    "in_reply_to_user_id": "1662058783215087617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 22,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958536325910450547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HacchiTheMaid 精神问题就别征婚了好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1958536325910450547",
+        "created_at": "2025-08-21T22:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T23:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958658546033467901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1662058783215087617",
+              "start": 0,
+              "username": "HacchiTheMaid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958658546033467901",
+        "in_reply_to_user_id": "1662058783215087617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958536325910450547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HacchiTheMaid 精神问题就别征婚了好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662058783215087617",
+        "conversation_id": "1958536325910450547",
+        "created_at": "2025-08-21T14:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T15:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958536325910450547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958536325910450547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6050,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "被拜托帮友友征婚\n20岁顺性别男娘，异性恋，是被贫困所迫、精神问题蛮严重的地雷系，体重55.4kg，擅长聊天和提供情绪价值，三角洲高手，很漂亮，活跃在关中地区\n有意者请私聊获取联系方式和照片？大概是这样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（诺艾尔版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 89,
+          "like_count": 5446,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 2146
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。04年mtx，hrt纪念日2022.7.？匿名提问https://t.co/FqhYHQnDQd 恋人@Sorsacerba ，家人@emiya436900，可爱的弟弟/妹妹@IwasHubeib 🚪66",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "Sorsacerba"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "emiya436900"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "IwasHubeib"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/anastasia195113",
+                "end": 58,
+                "expanded_url": "https://ngl.link/anastasia195113",
+                "start": 35,
+                "url": "https://t.co/FqhYHQnDQd"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi🏳️‍⚧️",
+        "pinned_tweet_id": "1956644641584951300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4853,
+          "following_count": 1843,
+          "like_count": 49701,
+          "listed_count": 10,
+          "media_count": 1001,
+          "tweet_count": 31156
+        },
+        "username": "HacchiTheMaid",
+        "verified": false
+      }
+    ]
+  }
+}

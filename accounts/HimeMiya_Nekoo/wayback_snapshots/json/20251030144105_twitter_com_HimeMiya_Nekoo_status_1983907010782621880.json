@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1983556305479754238",
+    "created_at": "2025-10-30T14:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T15:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983907010782621880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983907010782621880",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983556305479754238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo 并非控制"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1983556305479754238",
+        "created_at": "2025-10-30T14:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T15:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983907010782621880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983907010782621880",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983556305479754238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 并非控制"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "1983556305479754238",
+        "created_at": "2025-10-29T15:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T16:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983556305479754238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983556305479754238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2435,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不考虑心瘾体瘾和灵感智慧的话，用药物控制自己的一切其实很爽，控制自己几点睡觉几点清醒，焦虑了上苯二氮卓上加巴喷丁，想体感上模拟健全人就上抗精神病剂，情绪起伏大就上心境稳定剂。完全不考虑瘾+法律的话还有更多的可用物质，几乎能短期内支配自己的一切\n\n意识决定躯体，但反之也亦然（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 89,
+          "like_count": 6171,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 2475
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "cn糯米🍞♡BD/GAD/OCD/HSP♡互fo大欢迎查成分回-漏fo请私(≧∀≦)♪点赞bot评论bot-讨厌私信-回复率低♡喜欢sex与drug♡non-binary友跨友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 監禁天糖 ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1969246279558365594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955636374410862593/UuO5HSQR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 170,
+          "like_count": 1393,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 415
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

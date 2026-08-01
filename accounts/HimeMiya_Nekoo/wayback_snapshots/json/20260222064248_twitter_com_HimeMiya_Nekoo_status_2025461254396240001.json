@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2025441545617637731",
+    "created_at": "2026-02-22T06:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T07:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025461254396240001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1865880759334313984",
+          "start": 0,
+          "username": "Ling_0728_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025461254396240001",
+    "in_reply_to_user_id": "1865880759334313984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025441545617637731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ling_0728_ 顾客和有时候歇业的商家什么时候有过上下位者了😄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2025441545617637731",
+        "created_at": "2026-02-22T06:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T07:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025461254396240001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1865880759334313984",
+              "start": 0,
+              "username": "Ling_0728_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025461254396240001",
+        "in_reply_to_user_id": "1865880759334313984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025441545617637731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ling_0728_ 顾客和有时候歇业的商家什么时候有过上下位者了😄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865880759334313984",
+        "conversation_id": "2025441545617637731",
+        "created_at": "2026-02-22T05:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025441545617637731"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "猎雌"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "文爱"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025441545617637731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3235,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些猎雌推的私信和内容也太无趣了\n这个圈子还是太缺正常水平线以上的人\n想让下位者臣服不是随便几句就能成功\n\n#猎雌 #文爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 53,
+          "like_count": 7047,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 3393
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T22:07:00.000Z",
+        "description": "性癖：扭曲人/Switch 日常：FF14/龙娘天下第一 会随机出没曝光，抓到我请狠狠欺负",
+        "id": "1865880759334313984",
+        "location": "艾欧泽亚",
+        "name": "Santa",
+        "pinned_tweet_id": "2025085173147336839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025081058770001920/IR_SdLf__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 102,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 101
+        },
+        "username": "Ling_0728_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2079829520643920290",
+    "created_at": "2026-07-22T17:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T18:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079978496148078739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1939203023156523008",
+          "start": 0,
+          "username": "nebusokuuuuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079978496148078739",
+    "in_reply_to_user_id": "1939203023156523008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079829520643920290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nebusokuuuuuuu 美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079829502973386752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0J6d4bIAA_2Qd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2079829520643920290",
+        "created_at": "2026-07-22T17:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079978496148078739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1939203023156523008",
+              "start": 0,
+              "username": "nebusokuuuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079978496148078739",
+        "in_reply_to_user_id": "1939203023156523008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079829520643920290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nebusokuuuuuuu 美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079829502973386752"
+          ]
+        },
+        "author_id": "1939203023156523008",
+        "conversation_id": "2079829520643920290",
+        "created_at": "2026-07-22T07:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079829520643920290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rsh5k8qE1K",
+              "end": 35,
+              "expanded_url": "https://x.com/nebusokuuuuuuu/status/2079829520643920290/photo/1",
+              "media_key": "3_2079829502973386752",
+              "start": 12,
+              "url": "https://t.co/rsh5k8qE1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079829520643920290",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 516,
+          "impression_count": 72471,
+          "like_count": 8908,
+          "quote_count": 12,
+          "reply_count": 3,
+          "retweet_count": 962
+        },
+        "reply_settings": "everyone",
+        "text": "⋆˙⟡🖤❤️݁⟡˚.⋆ https://t.co/rsh5k8qE1K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的别烦我｜点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll许愿请来这里不要打扰我们天使妹｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室👉",
+        "name": "🎀音恋✞Mia🎀（查拉图斯特拉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 32,
+          "like_count": 8294,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 5045
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T06:04:12.000Z",
+        "description": "ダンロン(ネタバレ絵含みます⚠️)、不穏・暗めの雰囲気が好きです|創作垢▶@tokeru106106|お別れはブロ解で|skeb▶︎ https://t.co/Bm47FJ8LIY |個別でのご依頼はDMまでお願いします|専属絵師してます ▶@hu_____yyu|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "tokeru106106"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "hu_____yyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@nebusokuuuuuuu",
+                "end": 90,
+                "expanded_url": "https://skeb.jp/@nebusokuuuuuuu",
+                "start": 67,
+                "url": "https://t.co/Bm47FJ8LIY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nebusokuuuuuuu",
+                "end": 23,
+                "expanded_url": "https://lit.link/nebusokuuuuuuu",
+                "start": 0,
+                "url": "https://t.co/M8zvS5iTQ3"
+              }
+            ]
+          }
+        },
+        "id": "1939203023156523008",
+        "location": "フォロワー稼ぎお断り❌ 無断転載・AI学習やめてくださいまし",
+        "name": "せ",
+        "pinned_tweet_id": "1968220115218145662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939222190638972928/iqQSpmNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2862,
+          "following_count": 315,
+          "like_count": 13332,
+          "listed_count": 16,
+          "media_count": 293,
+          "tweet_count": 1978
+        },
+        "url": "https://t.co/M8zvS5iTQ3",
+        "username": "nebusokuuuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

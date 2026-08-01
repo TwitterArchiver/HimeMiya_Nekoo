@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1985590813951430982",
+    "created_at": "2025-11-04T10:37:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T11:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985657635329429625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1592719222940962817",
+          "start": 0,
+          "username": "mofumofuyewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985657635329429625",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985590813951430982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mofumofuyewo 你好温柔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1985590813951430982",
+        "created_at": "2025-11-04T10:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T11:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985657635329429625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofumofuyewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985657635329429625",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985590813951430982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofumofuyewo 你好温柔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "1985590813951430982",
+        "created_at": "2025-11-04T06:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T07:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985590813951430982"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985590813951430982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1169,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不知道为啥你国女大这个群体为啥饱受诟病，虽然说话方式是有点过于激动但是她们一般都很热心很善良，我还是很喜欢和她们玩的😼😼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 84,
+          "like_count": 6174,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 2519
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜王老师是我的恋人，我的母亲，我的狗，我的主人",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝（王老师全肯定bot）",
+        "pinned_tweet_id": "1883144822237860206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883135457296617472/4AOpR5zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 581,
+          "like_count": 1572,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 980
+        },
+        "username": "mofumofuyewo",
+        "verified": false
+      }
+    ]
+  }
+}

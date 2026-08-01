@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2026475601117458774",
+    "created_at": "2026-02-25T04:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T05:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026513726317408287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1610258656259624960",
+          "start": 0,
+          "username": "cpero280005521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026513726317408287",
+    "in_reply_to_user_id": "1610258656259624960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026475601117458774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cpero280005521 认识的人多可以气泡认人其实"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026475590300348421",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB980AnaMAUHrxt.jpg",
+        "width": 910
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026475590296195072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB980Ama0AAPqoE.jpg",
+        "width": 918
+      },
+      {
+        "height": 2032,
+        "media_key": "3_2026475590304542724",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB980AoaMAQ0mrY.jpg",
+        "width": 942
+      },
+      {
+        "height": 2013,
+        "media_key": "3_2026475590312931328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB980AqaMAANEzu.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2026475601117458774",
+        "created_at": "2026-02-25T04:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T05:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026513726317408287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1610258656259624960",
+              "start": 0,
+              "username": "cpero280005521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026513726317408287",
+        "in_reply_to_user_id": "1610258656259624960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026475601117458774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cpero280005521 认识的人多可以气泡认人其实"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026475590300348421",
+            "3_2026475590296195072",
+            "3_2026475590304542724",
+            "3_2026475590312931328"
+          ]
+        },
+        "author_id": "1610258656259624960",
+        "conversation_id": "2026475601117458774",
+        "created_at": "2026-02-25T01:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026475601117458774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wvjXpieN3e",
+              "end": 102,
+              "expanded_url": "https://x.com/cpero280005521/status/2026475601117458774/photo/1",
+              "media_key": "3_2026475590300348421",
+              "start": 79,
+              "url": "https://t.co/wvjXpieN3e"
+            },
+            {
+              "display_url": "pic.x.com/wvjXpieN3e",
+              "end": 102,
+              "expanded_url": "https://x.com/cpero280005521/status/2026475601117458774/photo/1",
+              "media_key": "3_2026475590296195072",
+              "start": 79,
+              "url": "https://t.co/wvjXpieN3e"
+            },
+            {
+              "display_url": "pic.x.com/wvjXpieN3e",
+              "end": 102,
+              "expanded_url": "https://x.com/cpero280005521/status/2026475601117458774/photo/1",
+              "media_key": "3_2026475590304542724",
+              "start": 79,
+              "url": "https://t.co/wvjXpieN3e"
+            },
+            {
+              "display_url": "pic.x.com/wvjXpieN3e",
+              "end": 102,
+              "expanded_url": "https://x.com/cpero280005521/status/2026475601117458774/photo/1",
+              "media_key": "3_2026475590312931328",
+              "start": 79,
+              "url": "https://t.co/wvjXpieN3e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026475601117458774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 659,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像忘记告知某位人矿要把它做成广告牌了ww\n于是被质问了。\n不过好像不小心“顺便”在被质问的时候把人矿一口吸干到欠款了♪～\n这也是没办法的事～对吧？\n傻屄。 https://t.co/wvjXpieN3e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlCDZU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 95,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 72,
+                "url": "https://t.co/3QLDwlCDZU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP6tL0"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "2025759179487784987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 28,
+          "like_count": 7198,
+          "listed_count": 3,
+          "media_count": 177,
+          "tweet_count": 3520
+        },
+        "url": "https://t.co/LC1ydP6tL0",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-03T12:56:12.000Z",
+        "description": "We used to be young & ambitious",
+        "id": "1610258656259624960",
+        "location": "噩梦",
+        "name": "✟黑猫✟",
+        "pinned_tweet_id": "2011653254430802323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013590556136382464/jrT-l6P-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 268,
+          "like_count": 8104,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 480
+        },
+        "username": "cpero280005521",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1956966118960345589",
+    "created_at": "2025-08-17T22:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T23:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957205076512305592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806968765030264832",
+          "start": 0,
+          "username": "yelly000214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957205076512305592",
+    "in_reply_to_user_id": "1806968765030264832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956966118960345589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yelly000214 供需关系平等交易"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1683,
+        "media_key": "3_1956966009765875712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyiKN6mb0AA1wJ-.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1956966118960345589",
+        "created_at": "2025-08-17T22:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T23:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957205076512305592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806968765030264832",
+              "start": 0,
+              "username": "yelly000214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957205076512305592",
+        "in_reply_to_user_id": "1806968765030264832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956966118960345589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yelly000214 供需关系平等交易"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956966009765875712"
+          ]
+        },
+        "author_id": "1806968765030264832",
+        "conversation_id": "1956966118960345589",
+        "created_at": "2025-08-17T06:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T07:27:14.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956966029952970816",
+          "1956966118960345589"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "记录"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ifNFFQPwRH",
+              "end": 168,
+              "expanded_url": "https://x.com/yelly000214/status/1956966118960345589/photo/1",
+              "media_key": "3_1956966009765875712",
+              "start": 145,
+              "url": "https://t.co/ifNFFQPwRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956966118960345589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1778,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#记录\n\n“你到底是怎么让那些白给的atm奴送钱的？”\n\n唔ww\n\n“答案”到底是什么呢？\n\n有的时候yelly其实也不是很清楚啦ww\n\n毕竟每件◼️◼️都有不同的性格嘛\n\n这个时候还是需要“你”来告诉yelly咯🩷\n\n所以……\n\n（是为了回答某位已经被删除好友的◼️◼️特意发的推文哦） https://t.co/ifNFFQPwRH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（诺艾尔版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 89,
+          "like_count": 5428,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 2034
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T08:31:48.000Z",
+        "description": "🩷yelly的Y是yes的Y🩷  只是发点乱七八糟的w    具体联系QQ：1493571073，只加🏧奴/报销奴/小狗",
+        "id": "1806968765030264832",
+        "name": "yelly",
+        "pinned_tweet_id": "1940672814216106459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943572415667417088/kWUodIed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 28,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 135
+        },
+        "username": "yelly000214",
+        "verified": false
+      }
+    ]
+  }
+}

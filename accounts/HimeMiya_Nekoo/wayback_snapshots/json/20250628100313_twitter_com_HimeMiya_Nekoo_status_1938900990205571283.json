@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1938810626190778752",
+    "created_at": "2025-06-28T10:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T11:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938900990205571283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867639848569372672",
+          "start": 0,
+          "username": "overdose_day"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938900990205571283",
+    "in_reply_to_user_id": "1867639848569372672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938810626190778752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_day 你考没考上和生活有什么关系，你的生活和她有什么关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1938810626190778752",
+        "created_at": "2025-06-28T10:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T11:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938900990205571283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867639848569372672",
+              "start": 0,
+              "username": "overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938900990205571283",
+        "in_reply_to_user_id": "1867639848569372672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938810626190778752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_day 你考没考上和生活有什么关系，你的生活和她有什么关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867639848569372672",
+        "conversation_id": "1938810626190778752",
+        "created_at": "2025-06-28T04:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T05:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938810626190778752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938810626190778752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 705,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一定要考上大学才有出路嘛\n这样的生活真的是她想要的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（平凡姐姐版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 93,
+          "like_count": 4724,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 1611
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "无偿分享精神活性化工原料，欢迎访问:https://t.co/bwfCFLxN8g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 41,
+                "expanded_url": "https://overdose.day",
+                "start": 18,
+                "url": "https://t.co/bwfCFLxN8g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsBfUr"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "✝️药物百科✝️",
+        "pinned_tweet_id": "1921444982461718757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4132,
+          "following_count": 1836,
+          "like_count": 1135,
+          "listed_count": 4,
+          "media_count": 173,
+          "tweet_count": 1645
+        },
+        "url": "https://t.co/W009AsBfUr",
+        "username": "overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

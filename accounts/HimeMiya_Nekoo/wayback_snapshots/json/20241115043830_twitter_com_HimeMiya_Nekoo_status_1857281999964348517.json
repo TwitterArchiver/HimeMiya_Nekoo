@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1856990145775546686",
+    "created_at": "2024-11-15T04:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T05:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857281999964348517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1238358430429007873",
+          "start": 0,
+          "username": "Kodokuna_kingyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857281999964348517",
+    "in_reply_to_user_id": "1238358430429007873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856990145775546686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kodokuna_kingyo お薬の名前教えてください！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1856990145775546686",
+        "created_at": "2024-11-15T04:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T05:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857281999964348517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1238358430429007873",
+              "start": 0,
+              "username": "Kodokuna_kingyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857281999964348517",
+        "in_reply_to_user_id": "1238358430429007873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856990145775546686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kodokuna_kingyo お薬の名前教えてください！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1856990108920287234"
+          ]
+        },
+        "author_id": "1238358430429007873",
+        "conversation_id": "1856990145775546686",
+        "created_at": "2024-11-14T09:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T10:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856990145775546686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQdIGd9MQK",
+              "end": 38,
+              "expanded_url": "https://x.com/Kodokuna_kingyo/status/1856990145775546686/video/1",
+              "media_key": "7_1856990108920287234",
+              "start": 15,
+              "url": "https://t.co/lQdIGd9MQK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856990145775546686",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 85723,
+          "like_count": 931,
+          "quote_count": 14,
+          "reply_count": 8,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "鼻から吸うプロになってきてる https://t.co/lQdIGd9MQK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 招聘哥哥/姐姐中┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞ 裏垢➡️@UUUx_mm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "你的心里♡",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1847578880787566808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 70,
+          "like_count": 1223,
+          "listed_count": 1,
+          "tweet_count": 759
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T06:57:34.000Z",
+        "description": "生きろ！知恵ちゃん！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/4I5NF47NFNFT?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/oV0W4rGmBh"
+              }
+            ]
+          }
+        },
+        "id": "1238358430429007873",
+        "location": "バカの故郷は海の底。",
+        "name": "知恵ちゃん",
+        "pinned_tweet_id": "1827624881879715980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1315548141869953025/uCIznIos_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10708,
+          "following_count": 381,
+          "like_count": 270854,
+          "listed_count": 34,
+          "tweet_count": 5648
+        },
+        "url": "https://t.co/oV0W4rGmBh",
+        "username": "Kodokuna_kingyo",
+        "verified": false
+      }
+    ]
+  }
+}

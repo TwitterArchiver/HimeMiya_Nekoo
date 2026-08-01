@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2024393197301191134",
+    "created_at": "2026-02-19T13:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T14:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024474306697449544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1570754042590285825",
+          "start": 0,
+          "username": "_ShadowTwilight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024474306697449544",
+    "in_reply_to_user_id": "1570754042590285825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024393197301191134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ShadowTwilight 你们上网都是怎么找到这么多朋友的？😕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2024393197301191134",
+        "created_at": "2026-02-19T13:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024474306697449544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1570754042590285825",
+              "start": 0,
+              "username": "_ShadowTwilight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024474306697449544",
+        "in_reply_to_user_id": "1570754042590285825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024393197301191134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ShadowTwilight 你们上网都是怎么找到这么多朋友的？😕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570754042590285825",
+        "conversation_id": "2024393197301191134",
+        "created_at": "2026-02-19T07:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024393197301191134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024393197301191134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们上网都是怎么找到这么多朋友的？😕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 54,
+          "like_count": 6891,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 3226
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-16T12:38:51.000Z",
+        "description": "09 | 自由与和平 | 喵喵喵......请给我爱?",
+        "id": "1570754042590285825",
+        "location": "于银河繁星中",
+        "name": "紗千鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009300880311640064/JKxwIUAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 172,
+          "like_count": 1255,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1123
+        },
+        "username": "_ShadowTwilight",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2030354343908806790",
+    "created_at": "2026-03-07T18:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T19:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030354343908806790"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030354343908806790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想了很久天使妹还有什么存在的意义，既然都没赚钱了那就找个时间换个身份再出发会比较好吧？毕竟我原本就是为了赚钱才开的这个号吧。我讨厌生活被搅乱又没人负责，我也不在意这点人关注还没以前○分之一多，这段时间的记忆力也要到极限了，和最开始也要没差了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2030354343908806790",
+        "created_at": "2026-03-07T18:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T19:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030354343908806790"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030354343908806790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想了很久天使妹还有什么存在的意义，既然都没赚钱了那就找个时间换个身份再出发会比较好吧？毕竟我原本就是为了赚钱才开的这个号吧。我讨厌生活被搅乱又没人负责，我也不在意这点人关注还没以前○分之一多，这段时间的记忆力也要到极限了，和最开始也要没差了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 115,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 92,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "2025759179487784987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 28,
+          "like_count": 7263,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 3692
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      }
+    ]
+  }
+}

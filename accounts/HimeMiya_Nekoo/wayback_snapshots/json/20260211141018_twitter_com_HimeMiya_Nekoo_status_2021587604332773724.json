@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2021527940488679870",
+    "created_at": "2026-02-11T14:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T15:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021587604332773724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954547725607047168",
+          "start": 0,
+          "username": "regretaaa_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021587604332773724",
+    "in_reply_to_user_id": "1954547725607047168",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021527940488679870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@regretaaa_ 👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021527936483127296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3o8p2a8AA0v9V.jpg",
+        "width": 963
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2021527940488679870",
+        "created_at": "2026-02-11T14:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021587604332773724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954547725607047168",
+              "start": 0,
+              "username": "regretaaa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021587604332773724",
+        "in_reply_to_user_id": "1954547725607047168",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021527940488679870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@regretaaa_ 👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021527936483127296"
+          ]
+        },
+        "author_id": "1954547725607047168",
+        "conversation_id": "2021527940488679870",
+        "created_at": "2026-02-11T10:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T11:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021527940488679870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sbTLdN8Uy7",
+              "end": 73,
+              "expanded_url": "https://x.com/regretaaa_/status/2021527940488679870/photo/1",
+              "media_key": "3_2021527936483127296",
+              "start": 50,
+              "url": "https://t.co/sbTLdN8Uy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021527940488679870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1682,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死骗人的🚪姐，入了388的，结果总共就看过十秒不到的视频 最后还把我拉黑了遇到这人别再信了，真无语 https://t.co/sbTLdN8Uy7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlCDZU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlCDZU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP6tL0"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（薛湘灵版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 62,
+          "like_count": 6838,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 3101
+        },
+        "url": "https://t.co/LC1ydP6tL0",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T14:18:09.000Z",
+        "description": "",
+        "id": "1954547725607047168",
+        "name": "regret",
+        "pinned_tweet_id": "1956753990148047040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954622871340486656/NimeiL_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 190,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 68
+        },
+        "username": "regretaaa_",
+        "verified": false
+      }
+    ]
+  }
+}

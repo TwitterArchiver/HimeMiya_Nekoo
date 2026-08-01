@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2043984725711434083",
+    "created_at": "2026-04-14T09:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T10:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043986259476140224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1763577841588056064",
+          "start": 0,
+          "username": "yxrchina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043986259476140224",
+    "in_reply_to_user_id": "1763577841588056064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043984725711434083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yxrchina 学而时习之"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2043984725711434083",
+        "created_at": "2026-04-14T09:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043986259476140224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1763577841588056064",
+              "start": 0,
+              "username": "yxrchina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043986259476140224",
+        "in_reply_to_user_id": "1763577841588056064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043984725711434083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxrchina 学而时习之"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763577841588056064",
+        "conversation_id": "2043984725711434083",
+        "created_at": "2026-04-14T09:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043984725711434083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HimeMiya_Nekoo…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/HimeMiya_Nekoo/status/2043203175814250880",
+              "start": 6,
+              "url": "https://t.co/OqFBMvQDyY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043984725711434083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043203175814250880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "青年大学习 https://t.co/OqFBMvQDyY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（方知宥版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 27,
+          "like_count": 7392,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 4018
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T14:52:04.000Z",
+        "description": "🏳️‍⚧️「重构时间线，再次重逢」\n| 是夕妍？ | INFP | MtFtX | oler转oder | 🎂08.15 | Vite | Cpp | HRT 25.08.11~25.11.30 | Lover @nyaepheia | 已炸柜 | 已断糖 | 碎碎念or日常 @syyann2026 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 106,
+                "username": "nyaepheia"
+              },
+              {
+                "end": 150,
+                "start": 139,
+                "username": "syyann2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "404yann.com",
+                "end": 23,
+                "expanded_url": "http://404yann.com",
+                "start": 0,
+                "url": "https://t.co/tx6gNy4Q6Z"
+              }
+            ]
+          }
+        },
+        "id": "1763577841588056064",
+        "location": "Sy & 夕妍?",
+        "name": "𝚂𝚢 𝚈𝚊𝚗𝚗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986480358486122496/VZfOMdaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 1919,
+          "like_count": 25471,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 7562
+        },
+        "url": "https://t.co/tx6gNy4Q6Z",
+        "username": "yxrchina",
+        "verified": false
+      }
+    ]
+  }
+}

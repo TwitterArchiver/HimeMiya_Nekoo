@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2026407374442176554",
+    "created_at": "2026-02-24T21:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T22:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026413098639520072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1754795826713686016",
+          "start": 0,
+          "username": "xxxxinTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026413098639520072",
+    "in_reply_to_user_id": "1754795826713686016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026407374442176554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxxinTvT 背叛是不可饶恕的 我双标的极致"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2026407374442176554",
+        "created_at": "2026-02-24T21:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T22:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026413098639520072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1754795826713686016",
+              "start": 0,
+              "username": "xxxxinTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026413098639520072",
+        "in_reply_to_user_id": "1754795826713686016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026407374442176554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxxinTvT 背叛是不可饶恕的 我双标的极致"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754795826713686016",
+        "conversation_id": "2026407374442176554",
+        "created_at": "2026-02-24T21:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T22:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026407374442176554"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026407374442176554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "背叛是不可饶恕的 我双标的极致"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlCDZU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 95,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 72,
+                "url": "https://t.co/3QLDwlCDZU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP6tL0"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "2025759179487784987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 28,
+          "like_count": 7199,
+          "listed_count": 3,
+          "media_count": 177,
+          "tweet_count": 3519
+        },
+        "url": "https://t.co/LC1ydP6tL0",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T09:15:12.000Z",
+        "description": "乞丐",
+        "id": "1754795826713686016",
+        "name": "xxxxin",
+        "pinned_tweet_id": "2023199514014908896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840479748897849344/7GMzuxFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4899,
+          "following_count": 574,
+          "like_count": 24283,
+          "listed_count": 5,
+          "media_count": 52,
+          "tweet_count": 9302
+        },
+        "username": "xxxxinTvT",
+        "verified": false
+      }
+    ]
+  }
+}

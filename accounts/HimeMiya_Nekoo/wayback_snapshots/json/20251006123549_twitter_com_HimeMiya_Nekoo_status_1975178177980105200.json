@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1975178177980105200",
+    "created_at": "2025-10-06T12:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T13:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975178177980105200"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/5mime5/status/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/5mime5/status/1975123867812147354",
+          "start": 6,
+          "url": "https://t.co/VzZspkpd9u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975178177980105200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975123867812147354",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "かわちい、 https://t.co/VzZspkpd9u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1974770869391233025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2fLpJbakAEm1v6.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1975178177980105200",
+        "created_at": "2025-10-06T12:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T13:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975178177980105200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/5mime5/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/5mime5/status/1975123867812147354",
+              "start": 6,
+              "url": "https://t.co/VzZspkpd9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975178177980105200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975123867812147354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "かわちい、 https://t.co/VzZspkpd9u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974770869391233025"
+          ]
+        },
+        "author_id": "1780086495900205056",
+        "conversation_id": "1975123867812147354",
+        "created_at": "2025-10-06T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975123867812147354"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 3,
+              "tag": "鏡音リン"
+            },
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "鏡音レン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H6U5gdNnWA",
+              "end": 38,
+              "expanded_url": "https://x.com/5mime5/status/1975123867812147354/photo/1",
+              "media_key": "3_1974770869391233025",
+              "start": 15,
+              "url": "https://t.co/H6U5gdNnWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975123867812147354",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1284,
+          "like_count": 140,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "🐹🐹\n#鏡音リン #鏡音レン https://t.co/H6U5gdNnWA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 79,
+          "like_count": 6089,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 2330
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T04:11:32.000Z",
+        "description": "鏡音を描いてます。",
+        "id": "1780086495900205056",
+        "name": "みめ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971974382206738432/s5sRWIKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 3,
+          "media_count": 70,
+          "tweet_count": 70
+        },
+        "username": "5mime5",
+        "verified": false
+      }
+    ]
+  }
+}

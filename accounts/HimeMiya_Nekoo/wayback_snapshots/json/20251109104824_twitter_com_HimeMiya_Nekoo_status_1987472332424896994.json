@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1987472332424896994",
+    "created_at": "2025-11-09T10:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T11:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987472332424896994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8964_y/status/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/8964_y/status/1987423907922780638",
+          "start": 4,
+          "url": "https://t.co/qny8FxXhpl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987472332424896994",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987423907922780638",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我支持 https://t.co/qny8FxXhpl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1987472332424896994",
+        "created_at": "2025-11-09T10:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T11:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987472332424896994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964_y/status/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/8964_y/status/1987423907922780638",
+              "start": 4,
+              "url": "https://t.co/qny8FxXhpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987472332424896994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987423907922780638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我支持 https://t.co/qny8FxXhpl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1987423907922780638",
+        "created_at": "2025-11-09T07:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T08:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987423907922780638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987423907922780638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 585,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "骨科好啊 兄妹好啊 兄妹最好了 哥哥就是要守护妹妹一辈子啊 妹妹就是要一辈子叫哥哥啊 骨科真好啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 84,
+          "like_count": 6191,
+          "listed_count": 3,
+          "media_count": 141,
+          "tweet_count": 2594
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺蜜我们两个不是同一个人@cnmnms666｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "QY_art7"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1976991482767982990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5854,
+          "following_count": 864,
+          "like_count": 16887,
+          "listed_count": 17,
+          "media_count": 917,
+          "tweet_count": 13467
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

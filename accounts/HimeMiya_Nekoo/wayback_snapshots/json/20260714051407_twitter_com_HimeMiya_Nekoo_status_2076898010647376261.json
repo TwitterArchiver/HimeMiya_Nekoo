@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2076702003179540491",
+    "created_at": "2026-07-14T05:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076898010647376261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1951668659052773376",
+          "start": 0,
+          "username": "tellM3Yy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076898010647376261",
+    "in_reply_to_user_id": "1951668659052773376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076893373060022445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tellM3Yy 爱卿免礼平身w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2076702003179540491",
+        "created_at": "2026-07-14T05:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076898010647376261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1951668659052773376",
+              "start": 0,
+              "username": "tellM3Yy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076898010647376261",
+        "in_reply_to_user_id": "1951668659052773376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076893373060022445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tellM3Yy 爱卿免礼平身w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951668659052773376",
+        "conversation_id": "2076702003179540491",
+        "created_at": "2026-07-14T04:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076893373060022445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076893373060022445",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076888990926639580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 臣来迟了ミ ᴗ͈  。ᴗ͈ ミ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的别烦我｜点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室👉",
+        "name": "🎀音恋✞Mia🎀（查拉图斯特拉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 34,
+          "like_count": 8188,
+          "listed_count": 3,
+          "media_count": 247,
+          "tweet_count": 4827
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T15:37:35.000Z",
+        "description": "ฅ(៸៸᳐⁃⩊⁃៸៸᳐)ฅ有🚪不线下｜互fo查成分😌｜提问箱📦 https://t.co/iZiUXYlUVy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tomoko123",
+                "end": 55,
+                "expanded_url": "https://ngl.link/tomoko123",
+                "start": 32,
+                "url": "https://t.co/iZiUXYlUVy"
+              }
+            ]
+          }
+        },
+        "id": "1951668659052773376",
+        "name": "伤心苹果",
+        "pinned_tweet_id": "2076363570749816964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951668905598185472/jyyrcEYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 218,
+          "like_count": 635,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 292
+        },
+        "url": "",
+        "username": "tellM3Yy",
+        "verified": false
+      }
+    ]
+  }
+}

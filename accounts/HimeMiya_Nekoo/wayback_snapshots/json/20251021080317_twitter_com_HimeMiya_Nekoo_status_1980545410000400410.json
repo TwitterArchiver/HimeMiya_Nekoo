@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1979982178802118774",
+    "created_at": "2025-10-21T08:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T09:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980545410000400410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1257672824346431488",
+          "start": 0,
+          "username": "akilovelyuriyh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980545410000400410",
+    "in_reply_to_user_id": "1257672824346431488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980206373767197142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akilovelyuriyh 你好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1979982178802118774",
+        "created_at": "2025-10-21T08:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T09:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980545410000400410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1257672824346431488",
+              "start": 0,
+              "username": "akilovelyuriyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980545410000400410",
+        "in_reply_to_user_id": "1257672824346431488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980206373767197142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akilovelyuriyh 你好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257672824346431488",
+        "conversation_id": "1979982178802118774",
+        "created_at": "2025-10-20T09:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T10:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980206373767197142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980206373767197142",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979982178802118774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 那我回复你能不能回复我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 83,
+          "like_count": 6169,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 2434
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-05T14:05:51.000Z",
+        "description": "冒充人类",
+        "id": "1257672824346431488",
+        "name": "狗悟饭与龟波功⛄️🤍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1257673100063240194/-18Pc17__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 1235,
+          "like_count": 756,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 888
+        },
+        "username": "akilovelyuriyh",
+        "verified": false
+      }
+    ]
+  }
+}

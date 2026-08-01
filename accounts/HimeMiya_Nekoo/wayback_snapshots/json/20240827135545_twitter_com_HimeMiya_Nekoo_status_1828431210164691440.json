@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1828079841956311353",
+    "created_at": "2024-08-27T13:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T14:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828431210164691440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1803836903051116544",
+          "start": 0,
+          "username": "btc888600"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828431210164691440",
+    "in_reply_to_user_id": "1803836903051116544",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828079841956311353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@btc888600 傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1828079841956311353",
+        "created_at": "2024-08-27T13:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T14:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828431210164691440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1803836903051116544",
+              "start": 0,
+              "username": "btc888600"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828431210164691440",
+        "in_reply_to_user_id": "1803836903051116544",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828079841956311353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@btc888600 傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803836903051116544",
+        "conversation_id": "1828079841956311353",
+        "created_at": "2024-08-26T14:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T15:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828079841956311353"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "脚底"
+            },
+            {
+              "end": 91,
+              "start": 86,
+              "tag": "atm奴"
+            },
+            {
+              "end": 96,
+              "start": 92,
+              "tag": "提款机"
+            },
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "鞋底奴"
+            },
+            {
+              "end": 107,
+              "start": 102,
+              "tag": "女性崇拜"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "女高"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "舔狗"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "洗脑"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828079841956311353",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 15272,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉贡瘾越来越严重了，女神侄女现在也不给我发账单了，好难受，等她放假了一定要好好求求她，让她把脚踩在我脸上，然后猛吸她脚丫的酸臭味儿，应该会直接泄吧啊啊啊啊啊啊啊\n#脚底 #atm奴 #提款机 #鞋底奴 #女性崇拜 #女高 #舔狗 #洗脑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1823052132465135940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 52,
+          "like_count": 321,
+          "listed_count": 0,
+          "tweet_count": 299
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T17:06:59.000Z",
+        "description": "前账号为 侄女的舔狗 ，被封禁，重开账号记录生活吧。防失联电报:  https://t.co/MqV47rIn4n",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ZNDTG",
+                "end": 57,
+                "expanded_url": "https://t.me/ZNDTG",
+                "start": 34,
+                "url": "https://t.co/MqV47rIn4n"
+              }
+            ]
+          }
+        },
+        "id": "1803836903051116544",
+        "name": "侄女的舔狗",
+        "pinned_tweet_id": "1814112968914948361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817848920715964416/zDGx6r3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 21,
+          "like_count": 0,
+          "listed_count": 1,
+          "tweet_count": 17
+        },
+        "username": "btc888600",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2024711373327122580",
+    "created_at": "2026-02-20T06:48:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T07:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024737823967080711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "313266945",
+          "start": 0,
+          "username": "momoko_sumika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024737823967080711",
+    "in_reply_to_user_id": "313266945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024711373327122580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoko_sumika 因为bro就喜欢看自己认同的东西咯，和一个皮下男聊了一次骚就觉得自己可有魅力了，别人说他傻逼骚扰就到看不到了，既然有魅力那什么样的女孩子都应该任他挑捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2024711373327122580",
+        "created_at": "2026-02-20T06:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024737823967080711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "313266945",
+              "start": 0,
+              "username": "momoko_sumika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024737823967080711",
+        "in_reply_to_user_id": "313266945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024711373327122580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoko_sumika 因为bro就喜欢看自己认同的东西咯，和一个皮下男聊了一次骚就觉得自己可有魅力了，别人说他傻逼骚扰就到看不到了，既然有魅力那什么样的女孩子都应该任他挑捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "313266945",
+        "conversation_id": "2024711373327122580",
+        "created_at": "2026-02-20T05:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T06:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024711373327122580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momoko_sumika/…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/momoko_sumika/status/2024555613930529199",
+              "start": 46,
+              "url": "https://t.co/ToXpIewhWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024711373327122580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 802,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024555613930529199",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以不认可我，但是建议招笑的男生们注册个女号体验一下咯，是不是真的这么喜欢看陌生男人的吧唧 https://t.co/ToXpIewhWp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 55,
+          "like_count": 6908,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 3259
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-08T11:53:36.000Z",
+        "description": "不要对我展示你不自知的刻板印象",
+        "id": "313266945",
+        "location": "32cm away from your heart",
+        "name": "桃与是非",
+        "pinned_tweet_id": "1999681361263886824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986470659237814281/8KGOOXcP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 107,
+          "like_count": 3499,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 326
+        },
+        "username": "momoko_sumika",
+        "verified": false
+      }
+    ]
+  }
+}

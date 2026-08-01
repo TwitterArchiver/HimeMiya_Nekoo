@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2050574884288479266",
+    "created_at": "2026-05-02T13:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T14:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050574884288479266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/livedoornews/s…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/livedoornews/status/1988401354248007833",
+          "start": 141,
+          "url": "https://t.co/ZvJDEjMV1s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050574884288479266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988401354248007833",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪 https://t.co/ZvJDEjMV1s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_1988400844996571140",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5g4CJUbcAQDKG2.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2050574884288479266",
+        "created_at": "2026-05-02T13:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T14:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050574884288479266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/livedoornews/s…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/livedoornews/status/1988401354248007833",
+              "start": 141,
+              "url": "https://t.co/ZvJDEjMV1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050574884288479266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988401354248007833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪最悪 https://t.co/ZvJDEjMV1s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988400844996571140"
+          ]
+        },
+        "author_id": "17306975",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1988401354248007833",
+        "created_at": "2025-11-12T00:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T01:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988401354248007833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ライブドアニュースは、幅広いジャンルのニュースをいち早くお伝えします。わかりやすさ、読みやすさにこだわり、記事の核心をまとめた要約をつけています。",
+              "display_url": "news.livedoor.com/article/detail…",
+              "end": 63,
+              "expanded_url": "https://news.livedoor.com/article/detail/29965389/",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2048363258332258304/dQbZpVtZ?format=png&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2048363258332258304/dQbZpVtZ?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 40,
+              "status": 200,
+              "title": "オーバードーズ対策で規制強化 8つの成分の市販薬について「指定乱用防止」",
+              "unwound_url": "https://news.livedoor.com/article/detail/29965389/",
+              "url": "https://t.co/xNc7rE3YSs"
+            },
+            {
+              "display_url": "pic.x.com/ParzjLyGg1",
+              "end": 180,
+              "expanded_url": "https://x.com/livedoornews/status/1988401354248007833/photo/1",
+              "media_key": "3_1988400844996571140",
+              "start": 157,
+              "url": "https://t.co/ParzjLyGg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988401354248007833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 222,
+          "impression_count": 514413,
+          "like_count": 1549,
+          "quote_count": 473,
+          "reply_count": 88,
+          "retweet_count": 614
+        },
+        "reply_settings": "everyone",
+        "text": "【判明】オーバードーズ対策で規制強化 新たに2成分追加し8成分の市販薬が対象に\nhttps://t.co/xNc7rE3YSs\n\nせき止め成分の「デキストロメトルファン」とアレルギー薬成分の「ジフェンヒドラミン」の2成分。18歳未満には小容量のみを販売するなどの規制が想定されていて、来年5月に対象となる見通し。 https://t.co/ParzjLyGg1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm  避難垢➡️@D4K_Blackdoll｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 81,
+                "start": 67,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（一条紅愛版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 38,
+          "like_count": 7840,
+          "listed_count": 4,
+          "media_count": 217,
+          "tweet_count": 4411
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-11T09:56:31.000Z",
+        "description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルのニュースをいち早くお伝えします。また、Amazonや楽天などのおトクなお買い物情報も発信中です。 ■公式アプリhttps://t.co/mboL5a5cKL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/JHuxZ3v",
+                "end": 115,
+                "expanded_url": "http://onl.la/JHuxZ3v",
+                "start": 92,
+                "url": "https://t.co/mboL5a5cKL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.livedoor.com",
+                "end": 23,
+                "expanded_url": "http://news.livedoor.com/",
+                "start": 0,
+                "url": "https://t.co/wgqBLjY4vo"
+              }
+            ]
+          }
+        },
+        "id": "17306975",
+        "name": "ライブドアニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698896423025270784/GhIkQiXi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2166036,
+          "following_count": 106,
+          "like_count": 2289,
+          "listed_count": 13946,
+          "media_count": 287853,
+          "tweet_count": 464269
+        },
+        "url": "https://t.co/wgqBLjY4vo",
+        "username": "livedoornews",
+        "verified": true
+      }
+    ]
+  }
+}

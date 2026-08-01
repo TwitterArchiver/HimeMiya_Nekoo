@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1957409733457158461",
+    "created_at": "2025-08-19T03:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T04:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957645616697536949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1895492717830139904",
+          "start": 0,
+          "username": "Shion_kawa_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957645616697536949",
+    "in_reply_to_user_id": "1895492717830139904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957589061276955043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shion_kawa_ 好有原则…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1957409733457158461",
+        "created_at": "2025-08-19T03:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T04:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957645616697536949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1895492717830139904",
+              "start": 0,
+              "username": "Shion_kawa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957645616697536949",
+        "in_reply_to_user_id": "1895492717830139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957589061276955043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shion_kawa_ 好有原则…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895492717830139904",
+        "conversation_id": "1957409733457158461",
+        "created_at": "2025-08-18T23:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T00:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957589061276955043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957589061276955043",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957470830365225141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 哼！栀音不吃嗟来之食！\n想给钱必须先踢我屁股——"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（诺艾尔版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 89,
+          "like_count": 5433,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 2110
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T15:14:25.000Z",
+        "description": "异常好色的家伙/几乎是性癖展览台/绝赞女体闷杀与绝赞女体奉上的混乱集合/好想被喜欢好想被喜欢好想被喜欢……￥@*#%🩷…&🩷\n\n门20r🩷如果想要给我更多我会万分感谢您\n剧情文爱40r半小时70r一小时\n如果不知道玩什么可以看看我写的推文\n加好友时请先付款，文爱之前请先付款，我会很爱您\n企鹅：1518375035",
+        "id": "1895492717830139904",
+        "location": "溶蜜温床",
+        "name": "栀音Shion",
+        "pinned_tweet_id": "1956891958133379340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950534596107644928/Y7x5-Yq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 68,
+          "like_count": 47,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 293
+        },
+        "username": "Shion_kawa_",
+        "verified": true
+      }
+    ]
+  }
+}

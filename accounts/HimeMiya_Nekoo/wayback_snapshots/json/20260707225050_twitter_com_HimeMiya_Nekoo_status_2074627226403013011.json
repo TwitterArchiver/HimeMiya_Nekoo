@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2074415591658783121",
+    "created_at": "2026-07-07T22:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T23:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074627226403013011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1735700650472955904",
+          "start": 0,
+          "username": "ErQiu8013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074627226403013011",
+    "in_reply_to_user_id": "1735700650472955904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074415591658783121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ErQiu8013 无名小卒还是？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2074415591658783121",
+        "created_at": "2026-07-07T22:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T23:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074627226403013011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1735700650472955904",
+              "start": 0,
+              "username": "ErQiu8013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074627226403013011",
+        "in_reply_to_user_id": "1735700650472955904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074415591658783121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ErQiu8013 无名小卒还是？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735700650472955904",
+        "conversation_id": "2074415591658783121",
+        "created_at": "2026-07-07T08:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074415591658783121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074415591658783121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 870,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在我来看o圈就是现实里的夜之城。\n有的人选择成为传奇名扬天下，活不到30岁，\n有的人躺在icu插着管子死去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 80,
+                "start": 66,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（查拉图斯特拉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 31,
+          "like_count": 7979,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 4686
+        },
+        "url": "",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T16:37:52.000Z",
+        "description": "秋儿｜降临派×地雷系  \n低能量 + 薬changing + 二次元\nLGBTQ+友好\n欢迎同类互fo～私信聊天💊🫀\n高强度转低强度发推  \n下面匿名提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/erqiu8013",
+                "end": 23,
+                "expanded_url": "https://ngl.link/erqiu8013",
+                "start": 0,
+                "url": "https://t.co/bhxSdtgAac"
+              }
+            ]
+          }
+        },
+        "id": "1735700650472955904",
+        "location": "night city",
+        "name": "𝓦𝓪𝓷𝓰 𝓠𝓲𝓾𝓮𝓻（秋儿）降临派",
+        "pinned_tweet_id": "2060767852496630110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985654865989634/AOuJ3T6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 1625,
+          "like_count": 24915,
+          "listed_count": 4,
+          "media_count": 719,
+          "tweet_count": 5319
+        },
+        "url": "https://t.co/bhxSdtgAac",
+        "username": "ErQiu8013",
+        "verified": false
+      }
+    ]
+  }
+}

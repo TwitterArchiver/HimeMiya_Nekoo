@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1976921242499531228",
+    "created_at": "2025-10-11T12:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T13:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976986497867039168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744316513291747328",
+          "start": 0,
+          "username": "shuifenziya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976986497867039168",
+    "in_reply_to_user_id": "1744316513291747328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976921242499531228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuifenziya 这么脏了都不洗吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1976921223960707077",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29vYQcbwAUObvB.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1976921224287825920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29vYRqbMAAZaY1.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1772,
+        "media_key": "3_1976921223935541252",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29vYQWbwAQRIwB.jpg",
+        "width": 1182
+      },
+      {
+        "height": 985,
+        "media_key": "3_1976921224430469121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29vYSMbwAEd6fz.jpg",
+        "width": 985
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1976921242499531228",
+        "created_at": "2025-10-11T12:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T13:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976986497867039168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744316513291747328",
+              "start": 0,
+              "username": "shuifenziya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976986497867039168",
+        "in_reply_to_user_id": "1744316513291747328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976921242499531228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuifenziya 这么脏了都不洗吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976921223960707077",
+            "3_1976921224287825920",
+            "3_1976921223935541252",
+            "3_1976921224430469121"
+          ]
+        },
+        "author_id": "1744316513291747328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1976921242499531228",
+        "created_at": "2025-10-11T08:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T09:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976921242499531228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dQwisv96G2",
+              "end": 86,
+              "expanded_url": "https://x.com/shuifenziya/status/1976921242499531228/photo/1",
+              "media_key": "3_1976921223960707077",
+              "start": 63,
+              "url": "https://t.co/dQwisv96G2"
+            },
+            {
+              "display_url": "pic.x.com/dQwisv96G2",
+              "end": 86,
+              "expanded_url": "https://x.com/shuifenziya/status/1976921242499531228/photo/1",
+              "media_key": "3_1976921224287825920",
+              "start": 63,
+              "url": "https://t.co/dQwisv96G2"
+            },
+            {
+              "display_url": "pic.x.com/dQwisv96G2",
+              "end": 86,
+              "expanded_url": "https://x.com/shuifenziya/status/1976921242499531228/photo/1",
+              "media_key": "3_1976921223935541252",
+              "start": 63,
+              "url": "https://t.co/dQwisv96G2"
+            },
+            {
+              "display_url": "pic.x.com/dQwisv96G2",
+              "end": 86,
+              "expanded_url": "https://x.com/shuifenziya/status/1976921242499531228/photo/1",
+              "media_key": "3_1976921224430469121",
+              "start": 63,
+              "url": "https://t.co/dQwisv96G2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976921242499531228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 603,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "只有这一条裙子了，其他裙子被家长在我住院期间扔掉了😭，谁能送我一套裙子我第一个拍给ta看😭😭😭（没钱了赏口饭吃吧😭）原图直出 https://t.co/dQwisv96G2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 79,
+          "like_count": 6128,
+          "listed_count": 3,
+          "media_count": 129,
+          "tweet_count": 2352
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:14:12.000Z",
+        "description": "我...我....是水分子呀/08年17岁/休学中ing.../无证🍥hrt6个月/💥已炸柜/167cm60kg/坐标广东清远/负能/🚪35/不接线下/是条杂鱼🐟~~/SAD/互fo/喜欢六花和六花/不鉴证/小鸟游六花单推/",
+        "id": "1744316513291747328",
+        "location": "我在二次元",
+        "name": "水分子🍥（雌堕版...♡）",
+        "pinned_tweet_id": "1976921242499531228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934294610022678528/3f0NJBAR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 821,
+          "like_count": 21304,
+          "listed_count": 3,
+          "media_count": 187,
+          "tweet_count": 1570
+        },
+        "username": "shuifenziya",
+        "verified": false
+      }
+    ]
+  }
+}

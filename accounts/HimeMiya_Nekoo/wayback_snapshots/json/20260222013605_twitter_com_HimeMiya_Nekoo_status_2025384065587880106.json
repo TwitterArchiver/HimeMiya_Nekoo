@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2025384065587880106",
+    "created_at": "2026-02-22T01:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T02:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025384065587880106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/artcher_artwor…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/artcher_artwork/status/2025210952690364859",
+          "start": 7,
+          "url": "https://t.co/fBJKveRybs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025384065587880106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025210952690364859",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我怎么进化了 https://t.co/fBJKveRybs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025210925557469184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBr-m1UX0AAG5pN.jpg",
+        "width": 1305
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2025384065587880106",
+        "created_at": "2026-02-22T01:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T02:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025384065587880106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/artcher_artwor…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/artcher_artwork/status/2025210952690364859",
+              "start": 7,
+              "url": "https://t.co/fBJKveRybs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025384065587880106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025210952690364859",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我怎么进化了 https://t.co/fBJKveRybs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025210925557469184"
+          ]
+        },
+        "author_id": "829915582820646912",
+        "conversation_id": "2025210952690364859",
+        "created_at": "2026-02-21T14:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T15:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025210952690364859"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Cinnamoroll",
+              "probability": 0.6921,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/acp2ROwQmK",
+              "end": 35,
+              "expanded_url": "https://x.com/artcher_artwork/status/2025210952690364859/photo/1",
+              "media_key": "3_2025210925557469184",
+              "start": 12,
+              "url": "https://t.co/acp2ROwQmK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025210952690364859",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 776,
+          "impression_count": 141969,
+          "like_count": 12869,
+          "quote_count": 62,
+          "reply_count": 21,
+          "retweet_count": 1523
+        },
+        "reply_settings": "everyone",
+        "text": "Cinnamoroll https://t.co/acp2ROwQmK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 54,
+          "like_count": 7035,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 3374
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-10T04:51:08.000Z",
+        "description": "Freelance illustrator | TTRPGS |  Carrd: https://t.co/HxvHoIs4Cd | Prints: https://t.co/z2PvqqkjL6 | https://t.co/UnGhQyqTeV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "artcher.carrd.co",
+                "end": 64,
+                "expanded_url": "http://artcher.carrd.co",
+                "start": 41,
+                "url": "https://t.co/HxvHoIs4Cd"
+              },
+              {
+                "display_url": "inprnt.com/gallery/artche…",
+                "end": 98,
+                "expanded_url": "https://www.inprnt.com/gallery/artcher/",
+                "start": 75,
+                "url": "https://t.co/z2PvqqkjL6"
+              },
+              {
+                "display_url": "patreon.com/ArtcherArtwork",
+                "end": 124,
+                "expanded_url": "http://patreon.com/ArtcherArtwork",
+                "start": 101,
+                "url": "https://t.co/UnGhQyqTeV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/artcher",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/artcher",
+                "start": 0,
+                "url": "https://t.co/gxyKXC9V8r"
+              }
+            ]
+          }
+        },
+        "id": "829915582820646912",
+        "name": "Artcher🏹$40 sketch comms open!",
+        "pinned_tweet_id": "1978092237117432196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985169836884848640/WRIjdR9q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88511,
+          "following_count": 3495,
+          "like_count": 108772,
+          "listed_count": 287,
+          "media_count": 5674,
+          "tweet_count": 24467
+        },
+        "url": "https://t.co/gxyKXC9V8r",
+        "username": "artcher_artwork",
+        "verified": false
+      }
+    ]
+  }
+}

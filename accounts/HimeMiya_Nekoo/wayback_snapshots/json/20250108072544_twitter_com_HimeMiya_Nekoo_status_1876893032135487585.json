@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1876893032135487585",
+    "created_at": "2025-01-08T07:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T08:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876893032135487585"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 125,
+          "start": 120,
+          "tag": "男尊女卑"
+        },
+        {
+          "end": 131,
+          "start": 126,
+          "tag": "女德教育"
+        },
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "洗脑"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "堕落"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1754913866956537856",
+          "start": 3,
+          "username": "jojoisthirsty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876893032135487585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868732450136084847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @jojoisthirsty: 不敢想象用霸凌关系维持的情侣关系该有多稳固。只要霸凌的一方一直有发泄的需求，而且越用越顺手，承受的一方就会一直继续绑定下去。不平等的关系才是最长久的，发表个性对于维护甜蜜的关系相当于麻烦，自私且不懂事 #男尊女卑 #女德教育 #洗脑 #堕落…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1876893032135487585",
+        "created_at": "2025-01-08T07:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T08:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876893032135487585"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "男尊女卑"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "女德教育"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "洗脑"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "堕落"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1754913866956537856",
+              "start": 3,
+              "username": "jojoisthirsty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876893032135487585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868732450136084847",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @jojoisthirsty: 不敢想象用霸凌关系维持的情侣关系该有多稳固。只要霸凌的一方一直有发泄的需求，而且越用越顺手，承受的一方就会一直继续绑定下去。不平等的关系才是最长久的，发表个性对于维护甜蜜的关系相当于麻烦，自私且不懂事 #男尊女卑 #女德教育 #洗脑 #堕落…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754913866956537856",
+        "conversation_id": "1868732450136084847",
+        "created_at": "2024-12-16T18:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T19:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868732450136084847"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 101,
+              "tag": "男尊女卑"
+            },
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "女德教育"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "洗脑"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "堕落"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "自毁"
+            },
+            {
+              "end": 129,
+              "start": 125,
+              "tag": "pua"
+            },
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "高潮禁止"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868732450136084847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 25986,
+          "like_count": 130,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "不敢想象用霸凌关系维持的情侣关系该有多稳固。只要霸凌的一方一直有发泄的需求，而且越用越顺手，承受的一方就会一直继续绑定下去。不平等的关系才是最长久的，发表个性对于维护甜蜜的关系相当于麻烦，自私且不懂事 #男尊女卑 #女德教育 #洗脑 #堕落 #自毁 #pua #高潮禁止"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "你的心里♡",
+        "name": "🎀音恋✞Mia🎀（算了变成游戏版）",
+        "pinned_tweet_id": "1870486188890767606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 84,
+          "like_count": 1560,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 898
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T17:04:15.000Z",
+        "description": "别点关注",
+        "id": "1754913866956537856",
+        "name": "震撼美味",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842107901256859650/rEu0W09r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 106,
+          "like_count": 922,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "jojoisthirsty",
+        "verified": false
+      }
+    ]
+  }
+}

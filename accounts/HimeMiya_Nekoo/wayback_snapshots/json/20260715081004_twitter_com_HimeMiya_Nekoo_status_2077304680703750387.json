@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2076969947536957729",
+    "created_at": "2026-07-15T08:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T09:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077304680703750387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1642455172445028352",
+          "start": 0,
+          "username": "ylslnm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077304680703750387",
+    "in_reply_to_user_id": "1642455172445028352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076969947536957729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ylslnm 你的黄金被偷了小偷嚣张的和别人展示，你回到家了和朋友们说有小偷偷了我的黄金就在外头怎么怎么样，你的朋友说你怎么可以说他偷了动心、你告诉我们他偷东西不也是错的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2076969947536957729",
+        "created_at": "2026-07-15T08:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077304680703750387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1642455172445028352",
+              "start": 0,
+              "username": "ylslnm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077304680703750387",
+        "in_reply_to_user_id": "1642455172445028352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076969947536957729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ylslnm 你的黄金被偷了小偷嚣张的和别人展示，你回到家了和朋友们说有小偷偷了我的黄金就在外头怎么怎么样，你的朋友说你怎么可以说他偷了动心、你告诉我们他偷东西不也是错的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642455172445028352",
+        "conversation_id": "2076969947536957729",
+        "created_at": "2026-07-14T09:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076969947536957729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076969947536957729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 49611,
+          "like_count": 936,
+          "quote_count": 2,
+          "reply_count": 72,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "推特上的人都有一种高人一等的优越感，很反感自己的帖子被搬到内网，却对把内网帖子或视频截图到推特上表现得很理所应当😂互联网到底哪来的那么多规矩，自己一边不许别人搬到内网一边又把别人的帖子从内网搬到墙外"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的别烦我｜点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室👉",
+        "name": "🎀音恋✞Mia🎀（查拉图斯特拉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 34,
+          "like_count": 8189,
+          "listed_count": 3,
+          "media_count": 249,
+          "tweet_count": 4854
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-02T09:13:37.000Z",
+        "description": "不要为了让我回关而关注我\nhttps://t.co/qV5FWSUZq4 提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yollllin",
+                "end": 36,
+                "expanded_url": "https://ngl.link/yollllin",
+                "start": 13,
+                "url": "https://t.co/qV5FWSUZq4"
+              }
+            ]
+          }
+        },
+        "id": "1642455172445028352",
+        "location": "我不是m",
+        "name": "愈淋淋淋过雨了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642455391844855809/7ScrUC2M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 76,
+          "like_count": 45,
+          "listed_count": 5,
+          "media_count": 37,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "ylslnm",
+        "verified": false
+      }
+    ]
+  }
+}

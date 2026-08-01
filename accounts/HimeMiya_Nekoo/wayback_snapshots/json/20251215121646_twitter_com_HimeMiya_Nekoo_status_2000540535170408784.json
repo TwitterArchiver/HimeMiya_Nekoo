@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000540526026858496"
+      ]
+    },
+    "author_id": "1584537561787428865",
+    "conversation_id": "2000540535170408784",
+    "created_at": "2025-12-15T12:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T13:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000540535170408784"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mrSr2q5teC",
+          "end": 48,
+          "expanded_url": "https://x.com/HimeMiya_Nekoo/status/2000540535170408784/photo/1",
+          "media_key": "3_2000540526026858496",
+          "start": 25,
+          "url": "https://t.co/mrSr2q5teC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000540535170408784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的没在pdd买过任何东西嗷、这推送也太精准了 https://t.co/mrSr2q5teC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2000540526026858496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8NZAlSaoAA9Ok-.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000540526026858496"
+          ]
+        },
+        "author_id": "1584537561787428865",
+        "conversation_id": "2000540535170408784",
+        "created_at": "2025-12-15T12:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T13:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000540535170408784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mrSr2q5teC",
+              "end": 48,
+              "expanded_url": "https://x.com/HimeMiya_Nekoo/status/2000540535170408784/photo/1",
+              "media_key": "3_2000540526026858496",
+              "start": 25,
+              "url": "https://t.co/mrSr2q5teC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000540535170408784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的没在pdd买过任何东西嗷、这推送也太精准了 https://t.co/mrSr2q5teC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（贾惜春版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 71,
+          "like_count": 6434,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 2862
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1895011248326222235",
+    "created_at": "2025-02-27T07:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T08:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895011248326222235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1584539548843151361",
+          "start": 3,
+          "username": "UUUx_mm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895011248326222235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1658441304026808322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UUUx_mm: 母猪小课堂8♡\n母猪出门是一定需要喷大量香水的w\n哪怕再怎么和别人说自己有洁癖，从浓烈香水味中钻出来的雌臭也会瞬间把你出卖w\n明明平时上完厕所连门把手都嫌弃，结果只要吸一口爹爹的包皮垢，就会无脑拿着自己最贵的lo裙给爹爹当抹布用来打扫厕所w\n完事还想宝…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1895011248326222235].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1895011248326222235",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1895011248326222235"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1658441299475959808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FwP3kzgaEAAYkPY.jpg",
+        "width": 1774
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1658441299530514432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FwP3kztagAAkr6E.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1658441299475959808",
+            "3_1658441299530514432"
+          ]
+        },
+        "author_id": "1584539548843151361",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1631808186574417920",
+              "name": "Chennai Super Kings vs Lucknow Super Giants"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1631808186574417920",
+              "name": "Chennai Super Kings vs Lucknow Super Giants"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Cricket matches",
+              "id": "83",
+              "name": "Cricket Match"
+            },
+            "entity": {
+              "id": "1631808186574417920",
+              "name": "Chennai Super Kings vs Lucknow Super Giants"
+            }
+          }
+        ],
+        "conversation_id": "1658441304026808322",
+        "created_at": "2023-05-16T11:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-16T12:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1658441304026808322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eOQr7AvY9g",
+              "end": 169,
+              "expanded_url": "https://x.com/MebutaHime/status/1658441304026808322/photo/1",
+              "media_key": "3_1658441299475959808",
+              "start": 146,
+              "url": "https://t.co/eOQr7AvY9g"
+            },
+            {
+              "display_url": "pic.x.com/eOQr7AvY9g",
+              "end": 169,
+              "expanded_url": "https://x.com/MebutaHime/status/1658441304026808322/photo/1",
+              "media_key": "3_1658441299530514432",
+              "start": 146,
+              "url": "https://t.co/eOQr7AvY9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1658441304026808322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9737,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "母猪小课堂8♡\n母猪出门是一定需要喷大量香水的w\n哪怕再怎么和别人说自己有洁癖，从浓烈香水味中钻出来的雌臭也会瞬间把你出卖w\n明明平时上完厕所连门把手都嫌弃，结果只要吸一口爹爹的包皮垢，就会无脑拿着自己最贵的lo裙给爹爹当抹布用来打扫厕所w\n完事还想宝贝一样挂在衣橱里喷上大量香水掩盖气味w https://t.co/eOQr7AvY9g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "你的心里♡",
+        "name": "🎀音恋✞Mia🎀（算了变成游戏版）",
+        "pinned_tweet_id": "1870486188890767606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 89,
+          "like_count": 3233,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 1050
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-24T13:37:38.000Z",
+        "description": "✞ #病垢➡️@HimeMiya_Nekoo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 2,
+                "tag": "病垢"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "HimeMiya_Nekoo"
+              }
+            ]
+          }
+        },
+        "id": "1584539548843151361",
+        "name": "HimeMiya_媛🐰",
+        "pinned_tweet_id": "1845802301694603300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822231957989924864/_zVgV4mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 2,
+          "like_count": 111,
+          "listed_count": 7,
+          "media_count": 69,
+          "tweet_count": 270
+        },
+        "username": "UUUx_mm",
+        "verified": false
+      }
+    ]
+  }
+}

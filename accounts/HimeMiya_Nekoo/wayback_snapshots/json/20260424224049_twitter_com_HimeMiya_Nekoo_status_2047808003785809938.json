@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2047565279383945595",
+    "created_at": "2026-04-24T22:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T23:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047808003785809938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2037516161051447296",
+          "start": 0,
+          "username": "AzideChen57041"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047808003785809938",
+    "in_reply_to_user_id": "2037516161051447296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047775977896624340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzideChen57041 因为这里举例的是不自残已经死了的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2047565279383945595",
+        "created_at": "2026-04-24T22:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T23:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047808003785809938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2037516161051447296",
+              "start": 0,
+              "username": "AzideChen57041"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047808003785809938",
+        "in_reply_to_user_id": "2037516161051447296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047775977896624340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzideChen57041 因为这里举例的是不自残已经死了的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037516161051447296",
+        "conversation_id": "2047565279383945595",
+        "created_at": "2026-04-24T20:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T21:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047775977896624340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047775977896624340",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047565279383945595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 为啥尝试自残叫生命力？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm  避難垢➡️@D4K_Blackdoll｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 81,
+                "start": 67,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（一条紅愛版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 40,
+          "like_count": 7749,
+          "listed_count": 4,
+          "media_count": 211,
+          "tweet_count": 4285
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T13:05:11.000Z",
+        "description": "les",
+        "id": "2037516161051447296",
+        "name": "Azide_17",
+        "pinned_tweet_id": "2046709890761257332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039641674612457472/tl--SIAW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 37,
+          "like_count": 2150,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1047
+        },
+        "username": "AzideChen57041",
+        "verified": false
+      }
+    ]
+  }
+}

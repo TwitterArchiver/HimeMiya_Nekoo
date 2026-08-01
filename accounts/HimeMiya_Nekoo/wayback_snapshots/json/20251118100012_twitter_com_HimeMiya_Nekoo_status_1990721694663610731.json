@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1990555589496525100",
+    "created_at": "2025-11-18T10:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T11:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990721694663610731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904810780467294208",
+          "start": 0,
+          "username": "yaozuzhinv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990721694663610731",
+    "in_reply_to_user_id": "1904810780467294208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990555589496525100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaozuzhinv 好大怨气"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990555586296229893",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5_fwmLbMAUjnkd.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990555586241703938",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5_fwl-bMAISAVn.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1990555589496525100",
+        "created_at": "2025-11-18T10:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990721694663610731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904810780467294208",
+              "start": 0,
+              "username": "yaozuzhinv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990721694663610731",
+        "in_reply_to_user_id": "1904810780467294208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990555589496525100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaozuzhinv 好大怨气"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990555586296229893",
+            "3_1990555586241703938"
+          ]
+        },
+        "author_id": "1904810780467294208",
+        "conversation_id": "1990555589496525100",
+        "created_at": "2025-11-17T23:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T00:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990555589496525100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTou7UpkGx",
+              "end": 42,
+              "expanded_url": "https://x.com/yaozuzhinv/status/1990555589496525100/photo/1",
+              "media_key": "3_1990555586296229893",
+              "start": 19,
+              "url": "https://t.co/cTou7UpkGx"
+            },
+            {
+              "display_url": "pic.x.com/cTou7UpkGx",
+              "end": 42,
+              "expanded_url": "https://x.com/yaozuzhinv/status/1990555589496525100/photo/1",
+              "media_key": "3_1990555586241703938",
+              "start": 19,
+              "url": "https://t.co/cTou7UpkGx"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1990555589496525100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 438,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种炒作狗为什么会出现在我时间线上？ https://t.co/cTou7UpkGx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 69,
+          "like_count": 6406,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 2750
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T08:21:01.000Z",
+        "description": "11 初三 中抑重焦休学中 不是餐券 建政哥宅男哥炒作狗一律B不手软  此号无主",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pinterest.com",
+                "end": 23,
+                "expanded_url": "http://www.pinterest.com",
+                "start": 0,
+                "url": "https://t.co/M5lJiISvfc"
+              }
+            ]
+          }
+        },
+        "id": "1904810780467294208",
+        "location": "哈瓦那",
+        "name": "家养哈吉耀祖的生理女父亲",
+        "pinned_tweet_id": "1975180632327360748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989284287225663489/v7d3zbHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 2572,
+          "like_count": 3783,
+          "listed_count": 3,
+          "media_count": 883,
+          "tweet_count": 7821
+        },
+        "url": "https://t.co/M5lJiISvfc",
+        "username": "yaozuzhinv",
+        "verified": false
+      }
+    ]
+  }
+}

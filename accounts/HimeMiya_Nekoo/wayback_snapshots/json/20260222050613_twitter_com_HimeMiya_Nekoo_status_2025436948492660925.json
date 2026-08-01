@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2025392558256652692",
+    "created_at": "2026-02-22T05:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T06:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025436948492660925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2017052934388011009",
+          "start": 0,
+          "username": "fragroooooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025436948492660925",
+    "in_reply_to_user_id": "2017052934388011009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025392558256652692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fragroooooo 什么药娘味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2025392558256652692",
+        "created_at": "2026-02-22T05:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025436948492660925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2017052934388011009",
+              "start": 0,
+              "username": "fragroooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025436948492660925",
+        "in_reply_to_user_id": "2017052934388011009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025392558256652692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fragroooooo 什么药娘味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017052934388011009",
+        "conversation_id": "2025392558256652692",
+        "created_at": "2026-02-22T02:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T03:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025392558256652692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025392558256652692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咪也是​地雷​女吗……？没想到遇到同好了 &gt; &lt; ，こんにちはですよ♡健人都似了喵，找到同类了好有归属感♡请多关照……！感觉地雷女都好可爱好善良哦，不好意思我精神状态不太好……老公不介意就好喵。今天割了，好幸福，血珠米米哒，感觉要升天了喵✙♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 55,
+          "like_count": 7041,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 3378
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-30T01:51:19.000Z",
+        "description": "前前前世@Muddledist破千fo被封｜tg：@Muddledist ｜211中文系抽象魔怔缺爱磕药地雷女｜流浪吟詩，爛泥打樁｜ 自由思考，獨立展望，用批判性思維看待這個復雜的世界。｜ 賽博發癲日記本｜ 赛博妓女实在处女｜ 欢迎互关｜🚪88/188/388/588/1888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "Muddledist"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Muddledist"
+              }
+            ]
+          }
+        },
+        "id": "2017052934388011009",
+        "location": "第五高原",
+        "name": "乙女椿",
+        "pinned_tweet_id": "2022431058885832707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022170686165524481/835coBwT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 428,
+          "like_count": 768,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 237
+        },
+        "username": "fragroooooo",
+        "verified": false
+      }
+    ]
+  }
+}

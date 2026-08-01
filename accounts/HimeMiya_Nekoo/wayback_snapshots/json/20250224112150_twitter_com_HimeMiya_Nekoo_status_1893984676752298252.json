@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1893984676752298252",
+    "created_at": "2025-02-24T11:21:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T12:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893984676752298252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1815419271167737856",
+          "start": 3,
+          "username": "NailedBambi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893984676752298252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893775244759871533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NailedBambi: 虚假的认可评价：独立聪明\n真正的认可：胸大无脑 没自尊 好控制"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1893984676752298252",
+        "created_at": "2025-02-24T11:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T12:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893984676752298252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1815419271167737856",
+              "start": 3,
+              "username": "NailedBambi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893984676752298252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893775244759871533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NailedBambi: 虚假的认可评价：独立聪明\n真正的认可：胸大无脑 没自尊 好控制"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815419271167737856",
+        "conversation_id": "1893775244759871533",
+        "created_at": "2025-02-23T21:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T22:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893775244759871533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893775244759871533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3193,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "虚假的认可评价：独立聪明\n真正的认可：胸大无脑 没自尊 好控制"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "你的心里♡",
+        "name": "🎀音恋✞Mia🎀（算了变成游戏版）",
+        "pinned_tweet_id": "1870486188890767606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 85,
+          "like_count": 2761,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 1027
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T16:11:29.000Z",
+        "description": "老公专属🎀BambiSexDoll🎀夫主的婚驴母王八｜自愿放弃人格 已被彻底洗脑改造🧸｜男生骚扰拉黑｜帮夫主征奴 #女绿 #男尊女卑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 57,
+                "tag": "女绿"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "男尊女卑"
+              }
+            ]
+          }
+        },
+        "id": "1815419271167737856",
+        "name": "DL 𝐵𝑎𝑚𝑏𝑖 𝐷𝑜𝑙𝑙 🎀",
+        "pinned_tweet_id": "1836113218004984090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824849843677802496/0GaHtHrw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8932,
+          "following_count": 71,
+          "like_count": 673,
+          "listed_count": 18,
+          "media_count": 35,
+          "tweet_count": 245
+        },
+        "username": "NailedBambi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1894373335620043072",
+    "created_at": "2025-03-21T16:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T17:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903123490137575605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1825605563092447232",
+          "start": 0,
+          "username": "ZApCxgRW0x73166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903123490137575605",
+    "in_reply_to_user_id": "1825605563092447232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903122592141017100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZApCxgRW0x73166 好耶w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1894373335620043072",
+        "created_at": "2025-03-21T16:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T17:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903123490137575605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1825605563092447232",
+              "start": 0,
+              "username": "ZApCxgRW0x73166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903123490137575605",
+        "in_reply_to_user_id": "1825605563092447232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903122592141017100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZApCxgRW0x73166 好耶w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825605563092447232",
+        "conversation_id": "1894373335620043072",
+        "created_at": "2025-03-21T16:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T17:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903122592141017100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903122592141017100",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894373335620043072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 真的看一次惊艳一次呢不愧是天使好美好美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使妹妹版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 89,
+          "like_count": 3925,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 1213
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T18:47:52.000Z",
+        "description": "",
+        "id": "1825605563092447232",
+        "name": "jc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825605744089247746/vRh-uW_6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 151,
+          "like_count": 2086,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 528
+        },
+        "username": "ZApCxgRW0x73166",
+        "verified": false
+      }
+    ]
+  }
+}

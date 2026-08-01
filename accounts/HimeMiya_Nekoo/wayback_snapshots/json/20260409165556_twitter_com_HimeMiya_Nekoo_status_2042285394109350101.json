@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2042220699339891087",
+    "created_at": "2026-04-09T16:55:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042285394109350101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597468568290873344",
+          "start": 0,
+          "username": "jingzhny11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042285394109350101",
+    "in_reply_to_user_id": "1597468568290873344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042283791654481971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzhny11 在理解范畴里讨论是无意义的，因为政策的执行并不会细分到这个环节，目前还在因为大家在传播、因为有了大规模传播所以有了大范围模仿、所以先禁止的阶段，至于合理性和发展甚至还没到配出场的时候"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2042220699339891087",
+        "created_at": "2026-04-09T16:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042285394109350101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597468568290873344",
+              "start": 0,
+              "username": "jingzhny11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042285394109350101",
+        "in_reply_to_user_id": "1597468568290873344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042283791654481971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzhny11 在理解范畴里讨论是无意义的，因为政策的执行并不会细分到这个环节，目前还在因为大家在传播、因为有了大规模传播所以有了大范围模仿、所以先禁止的阶段，至于合理性和发展甚至还没到配出场的时候"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597468568290873344",
+        "conversation_id": "2042220699339891087",
+        "created_at": "2026-04-09T16:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042283791654481971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042283791654481971",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042282821063229480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 有些激进oder认为阿片也应该放宽，不过我希望先想办法把解离剂和致幻剂从“毒品”这个概念里分走，然后想办法引起医疗化的讨论，其实都变精一我也能很知足了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（方知宥版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 27,
+          "like_count": 7309,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 3857
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "99年 \n🍥​2023/05/07 srs2025/07/31 一米九超大只\n左下的，混乱善良的，激跨的，支持精神活性物质的，ODer但水平很差的，想当黄推的，下海预备的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5048,
+          "following_count": 2012,
+          "like_count": 121691,
+          "listed_count": 22,
+          "media_count": 247,
+          "tweet_count": 17517
+        },
+        "username": "jingzhny11",
+        "verified": false
+      }
+    ]
+  }
+}

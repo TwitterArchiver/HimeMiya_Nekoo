@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1954555168877576413",
+    "created_at": "2025-08-10T14:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T15:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954555168877576413"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 45,
+          "tag": "地雷女"
+        },
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "病みかわ"
+        },
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "愛してる"
+        },
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "運命"
+        },
+        {
+          "end": 75,
+          "start": 66,
+          "tag": "生まれ変わっても"
+        },
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "恋愛"
+        },
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "依存"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954555168877576413",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "次の輪廻でも、私はあなただけを愛し続ける…\nだから、絶対に離れないで…逃げられないよ…♡\n#地雷女 #病みかわ #愛してる #運命 #生まれ変わっても #恋愛 #依存"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1954555168877576413",
+        "created_at": "2025-08-10T14:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T15:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954555168877576413"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "地雷女"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "病みかわ"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "愛してる"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "運命"
+            },
+            {
+              "end": 75,
+              "start": 66,
+              "tag": "生まれ変わっても"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "恋愛"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "依存"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954555168877576413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "次の輪廻でも、私はあなただけを愛し続ける…\nだから、絶対に離れないで…逃げられないよ…♡\n#地雷女 #病みかわ #愛してる #運命 #生まれ変わっても #恋愛 #依存"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（贝蒂版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 91,
+          "like_count": 5184,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 1957
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      }
+    ]
+  }
+}

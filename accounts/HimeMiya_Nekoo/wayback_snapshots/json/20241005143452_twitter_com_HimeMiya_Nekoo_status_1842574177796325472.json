@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1842155070567416206",
+    "created_at": "2024-10-05T14:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T15:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842574177796325472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1440000112525070338",
+          "start": 0,
+          "username": "luciferddd888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842574177796325472",
+    "in_reply_to_user_id": "1440000112525070338",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842155070567416206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luciferddd888 看id就知道是男的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1842155070567416206",
+        "created_at": "2024-10-05T14:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T15:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842574177796325472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1440000112525070338",
+              "start": 0,
+              "username": "luciferddd888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842574177796325472",
+        "in_reply_to_user_id": "1440000112525070338",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842155070567416206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luciferddd888 看id就知道是男的了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842155041119227904",
+            "3_1842155049612677120",
+            "3_1842155057640595456",
+            "3_1842155065043566592"
+          ]
+        },
+        "author_id": "1440000112525070338",
+        "conversation_id": "1842155070567416206",
+        "created_at": "2024-10-04T10:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T11:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842155070567416206"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "女高"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "母狗"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "反差"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "丧志"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "曝光"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jndb8seRxm",
+              "end": 91,
+              "expanded_url": "https://x.com/luciferddd888/status/1842155070567416206/photo/1",
+              "media_key": "3_1842155041119227904",
+              "start": 68,
+              "url": "https://t.co/jndb8seRxm"
+            },
+            {
+              "display_url": "pic.x.com/jndb8seRxm",
+              "end": 91,
+              "expanded_url": "https://x.com/luciferddd888/status/1842155070567416206/photo/1",
+              "media_key": "3_1842155049612677120",
+              "start": 68,
+              "url": "https://t.co/jndb8seRxm"
+            },
+            {
+              "display_url": "pic.x.com/jndb8seRxm",
+              "end": 91,
+              "expanded_url": "https://x.com/luciferddd888/status/1842155070567416206/photo/1",
+              "media_key": "3_1842155057640595456",
+              "start": 68,
+              "url": "https://t.co/jndb8seRxm"
+            },
+            {
+              "display_url": "pic.x.com/jndb8seRxm",
+              "end": 91,
+              "expanded_url": "https://x.com/luciferddd888/status/1842155070567416206/photo/1",
+              "media_key": "3_1842155065043566592",
+              "start": 68,
+              "url": "https://t.co/jndb8seRxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842155070567416206",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 497,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "曝光一只丧志的女高母狗，为什么总会有一些学校的乖乖女在男爹祖宗的羞辱下沦为母狗开始自毁丧志呢？ #女高 #母狗 #反差 #丧志 #曝光 https://t.co/jndb8seRxm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1838521083248685505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 59,
+          "like_count": 406,
+          "listed_count": 0,
+          "tweet_count": 563
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T17:09:29.000Z",
+        "description": "dom  xp：屈辱征服，控脑控高控心，管教调教，曝光，戳穿，戏耍，发泄，粗口重口，反差。喜欢给母人洗脑，帮助母人认清自己，体会到主动倒贴上贡，被耍脑犯贱的极致快感",
+        "id": "1440000112525070338",
+        "location": "母畜庄园",
+        "name": "听风祖宗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1440150991324672002/U-I0Pwls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 799,
+          "like_count": 1285,
+          "listed_count": 3,
+          "tweet_count": 997
+        },
+        "username": "luciferddd888",
+        "verified": true
+      }
+    ]
+  }
+}

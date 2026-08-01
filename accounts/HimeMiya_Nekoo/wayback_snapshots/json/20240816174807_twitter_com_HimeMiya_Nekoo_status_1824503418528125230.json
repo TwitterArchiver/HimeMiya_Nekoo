@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1819255804794741226",
+    "created_at": "2024-08-16T17:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T18:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824503418528125230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1375012183382269953",
+          "start": 0,
+          "username": "HelovJumire"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824503418528125230",
+    "in_reply_to_user_id": "1375012183382269953",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819255804794741226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HelovJumire 有喜欢的人就很难了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1819255804794741226",
+        "created_at": "2024-08-16T17:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T18:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824503418528125230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1375012183382269953",
+              "start": 0,
+              "username": "HelovJumire"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824503418528125230",
+        "in_reply_to_user_id": "1375012183382269953",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819255804794741226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HelovJumire 有喜欢的人就很难了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1375012183382269953",
+        "conversation_id": "1819255804794741226",
+        "created_at": "2024-08-02T06:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T07:15:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819255590977474595",
+          "1819255804794741226"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "女s"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "压榨"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "绿茶"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "黑心"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "贡奴"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819255804794741226",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3263,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的试过很多压榨或者控心的女s了，可是没有一个能让我有上贡欲望的，可能我喜欢那种不刻意的，让我想去倒贴的吧。火象就是会比较注重感觉。首先我要喜欢你……然后就会想给你花钱了……这段日子每个月光是发各种口令红包就万把块了。\n\n＃女s ＃压榨 ＃绿茶 ＃黑心 ＃贡奴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1823052132465135940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 51,
+          "like_count": 286,
+          "listed_count": 0,
+          "tweet_count": 204
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-25T09:10:34.000Z",
+        "description": "非典型男S，洗脑型玩家，爱和虔诚是唯一标准。喜欢让保守谨慎的女孩自毁堕落，又对丧志下贱的母狗无边宠爱。一边吻你一边折断你的鼻梁，如果流出的是来自脑子里的精液，这样的母畜才算是合格。QQ：515484969，加联系方式得到的是一杯奶茶而不会是辱骂。",
+        "id": "1375012183382269953",
+        "location": "北京",
+        "name": "不寿不伤",
+        "pinned_tweet_id": "1707341888565751918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688500056108998656/S4Xai1_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 282,
+          "like_count": 26,
+          "listed_count": 2,
+          "tweet_count": 127
+        },
+        "username": "HelovJumire",
+        "verified": true
+      }
+    ]
+  }
+}

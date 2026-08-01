@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2023779646035423571",
+    "created_at": "2026-02-18T00:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T01:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023921102695915613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1419403960696385546",
+          "start": 0,
+          "username": "WaiFu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023921102695915613",
+    "in_reply_to_user_id": "1419403960696385546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023779646035423571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WaiFu8964 如果有一天你路过某个城市，抬头看见一个普普通通的人拎着菜站在路边，也许那就是我😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2023779646035423571",
+        "created_at": "2026-02-18T00:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T01:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023921102695915613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1419403960696385546",
+              "start": 0,
+              "username": "WaiFu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023921102695915613",
+        "in_reply_to_user_id": "1419403960696385546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023779646035423571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WaiFu8964 如果有一天你路过某个城市，抬头看见一个普普通通的人拎着菜站在路边，也许那就是我😭"
+      },
+      {
+        "article": {
+          "title": "写给24岁的晨晨，以及未来的你"
+        },
+        "attachments": {},
+        "author_id": "1419403960696385546",
+        "conversation_id": "2023779646035423571",
+        "created_at": "2026-02-17T15:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T16:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023779646035423571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2023…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2023744836252418048",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2023744836252418048",
+              "url": "https://t.co/tZ46ITaPvt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023779646035423571",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 9168,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tZ46ITaPvt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 54,
+          "like_count": 6855,
+          "listed_count": 3,
+          "media_count": 170,
+          "tweet_count": 3159
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T21:07:49.000Z",
+        "description": "退休时间已定，现已启用付费消息，用来过滤垃圾信息。如果您是别人推荐来的客户请让Ta通知我加联系人即可免费发信息，聊天的话可以在任意群喊我看心情回复。付费信息100%回复. #USDT hodler",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 86,
+                "tag": "USDT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/saomei",
+                "end": 23,
+                "expanded_url": "https://t.me/saomei",
+                "start": 0,
+                "url": "https://t.co/GrZymHku4e"
+              }
+            ]
+          }
+        },
+        "id": "1419403960696385546",
+        "location": "IP归属地:深圳",
+        "name": "Waifu终于要退休了！",
+        "pinned_tweet_id": "2008135237100826920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999617518881701893/dlgBtwTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7493,
+          "following_count": 2334,
+          "like_count": 5193,
+          "listed_count": 18,
+          "media_count": 837,
+          "tweet_count": 7207
+        },
+        "url": "https://t.co/GrZymHku4e",
+        "username": "WaiFu8964",
+        "verified": true
+      }
+    ]
+  }
+}

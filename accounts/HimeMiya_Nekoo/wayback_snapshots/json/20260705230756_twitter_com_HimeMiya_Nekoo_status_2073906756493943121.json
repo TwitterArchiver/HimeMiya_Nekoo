@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2073906756493943121",
+    "created_at": "2026-07-05T23:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T00:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073906756493943121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rutohaha16/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/rutohaha16/status/2073335702419648818",
+          "start": 11,
+          "url": "https://t.co/fZrJIxMOK4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073906756493943121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073335702419648818",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "マジこれ💦やばくね💦 https://t.co/fZrJIxMOK4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2073335697076092928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMX31NxbgAAsvHU.jpg",
+        "width": 828
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2073335697075998720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMX31NxaEAAbnyR.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2073906756493943121",
+        "created_at": "2026-07-05T23:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T00:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073906756493943121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rutohaha16/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/rutohaha16/status/2073335702419648818",
+              "start": 11,
+              "url": "https://t.co/fZrJIxMOK4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073906756493943121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073335702419648818",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "マジこれ💦やばくね💦 https://t.co/fZrJIxMOK4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073335697076092928",
+            "3_2073335697075998720"
+          ]
+        },
+        "author_id": "1879747978979889152",
+        "conversation_id": "2073335702419648818",
+        "created_at": "2026-07-04T09:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073335702419648818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gy58jdein4",
+              "end": 41,
+              "expanded_url": "https://x.com/rutohaha16/status/2073335702419648818/photo/1",
+              "media_key": "3_2073335697076092928",
+              "start": 18,
+              "url": "https://t.co/gy58jdein4"
+            },
+            {
+              "display_url": "pic.x.com/gy58jdein4",
+              "end": 41,
+              "expanded_url": "https://x.com/rutohaha16/status/2073335702419648818/photo/1",
+              "media_key": "3_2073335697075998720",
+              "start": 18,
+              "url": "https://t.co/gy58jdein4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073335702419648818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2790,
+          "impression_count": 10372157,
+          "like_count": 91235,
+          "quote_count": 513,
+          "reply_count": 412,
+          "retweet_count": 2398
+        },
+        "reply_settings": "everyone",
+        "text": "ODしてんのに献血とかテロだろこれ https://t.co/gy58jdein4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 80,
+                "start": 66,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（波多江妙花版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 30,
+          "like_count": 7900,
+          "listed_count": 3,
+          "media_count": 237,
+          "tweet_count": 4654
+        },
+        "url": "",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T04:30:30.000Z",
+        "description": "姫という名のるとは \n晒し代行DMまで",
+        "id": "1879747978979889152",
+        "location": "みそきんで改札突破",
+        "name": "るとは",
+        "pinned_tweet_id": "1949840334323921050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942523129458483205/uspRFTyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 98,
+          "like_count": 19697,
+          "listed_count": 3,
+          "media_count": 444,
+          "tweet_count": 3725
+        },
+        "url": "",
+        "username": "rutohaha16",
+        "verified": false
+      }
+    ]
+  }
+}

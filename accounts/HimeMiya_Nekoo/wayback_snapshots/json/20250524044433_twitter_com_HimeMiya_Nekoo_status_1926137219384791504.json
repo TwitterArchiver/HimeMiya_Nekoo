@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1926120790279246179",
+    "created_at": "2025-05-24T04:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T05:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926137219384791504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1085781372378046465",
+          "start": 0,
+          "username": "esubzzm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926137219384791504",
+    "in_reply_to_user_id": "1085781372378046465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926120790279246179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@esubzzm 不买漂亮衣服化妆品不是丑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1926120790279246179",
+        "created_at": "2025-05-24T04:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T05:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926137219384791504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1085781372378046465",
+              "start": 0,
+              "username": "esubzzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926137219384791504",
+        "in_reply_to_user_id": "1085781372378046465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926120790279246179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@esubzzm 不买漂亮衣服化妆品不是丑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1085781372378046465",
+        "conversation_id": "1926120790279246179",
+        "created_at": "2025-05-24T03:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T04:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926120790279246179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926120790279246179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1635,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "比较想知道女m最多给主人有花多少钱的？不知道能不能突破30万。目前的生活就是工资转账一秒分账：10%自己，90%预留给主人。没有任何享受型消费，除了吃饭公交，不买任何衣服好吃的。主人的西装、手表、主机显示屏，才是我最值得买的东西。他要站在光里，而我，只配站在账单背后，省吃俭用、沉默供养。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（平凡妹妹版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 90,
+          "like_count": 4571,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 1398
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-17T06:10:26.000Z",
+        "description": "抄袭者全家暴毙。不喜欢没礼貌还蠢的。只能是唯一、偏爱、一生一世。\n会聊天的人：对我有价值/打钱4位数起步 二选一。",
+        "id": "1085781372378046465",
+        "name": "乌托邦",
+        "pinned_tweet_id": "1920239876471169489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520184250531971074/VFLtECUD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29391,
+          "following_count": 107,
+          "like_count": 50,
+          "listed_count": 72,
+          "media_count": 42,
+          "tweet_count": 222
+        },
+        "username": "esubzzm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1985632725844611241",
+    "created_at": "2025-11-04T10:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T11:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985654801271832640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960389326258495492",
+          "start": 0,
+          "username": "looolzaozimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985654801271832640",
+    "in_reply_to_user_id": "1960389326258495492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985632725844611241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@looolzaozimin 好听就是好头"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83800,
+        "height": 960,
+        "media_key": "13_1985632503504551936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985632503504551936/img/ln_8ujEi3Kk4JuvB.jpg",
+        "public_metrics": {
+          "view_count": 364
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985632503504551936/vid/avc1/320x426/kCZf0VPTaqRydo8Y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985632503504551936/vid/avc1/480x640/0jsT0UGX9AR_1VTI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985632503504551936/vid/avc1/720x960/AzURlB0H7bFtKY80.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985632503504551936/pl/Vr7oNM47AcbjeaYS.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1985632725844611241",
+        "created_at": "2025-11-04T10:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T11:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985654801271832640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960389326258495492",
+              "start": 0,
+              "username": "looolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985654801271832640",
+        "in_reply_to_user_id": "1960389326258495492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985632725844611241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@looolzaozimin 好听就是好头"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985632503504551936"
+          ]
+        },
+        "author_id": "1960389326258495492",
+        "conversation_id": "1985632725844611241",
+        "created_at": "2025-11-04T08:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T09:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985632725844611241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fKmnPMeCGC",
+              "end": 23,
+              "expanded_url": "https://x.com/looolzaozimin/status/1985632725844611241/video/1",
+              "media_key": "13_1985632503504551936",
+              "start": 0,
+              "url": "https://t.co/fKmnPMeCGC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985632725844611241",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 749,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fKmnPMeCGC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 84,
+          "like_count": 6174,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 2517
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "我叫小藻性别是怪诞小精灵喜欢我的话请给我钱吧，没有家一直在流浪",
+        "id": "1960389326258495492",
+        "location": "🚪188",
+        "name": "下坠下坠下坠",
+        "pinned_tweet_id": "1969267181771804999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979667185812258816/DUbJWtJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18685,
+          "following_count": 16,
+          "like_count": 51,
+          "listed_count": 21,
+          "media_count": 45,
+          "tweet_count": 89
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

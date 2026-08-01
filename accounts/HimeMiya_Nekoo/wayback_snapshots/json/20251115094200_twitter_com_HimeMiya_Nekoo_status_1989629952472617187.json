@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1989629952472617187",
+    "created_at": "2025-11-15T09:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T10:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989629952472617187"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/himemiya_nekoo…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/himemiya_nekoo/status/1800211703248060435",
+          "start": 10,
+          "url": "https://t.co/7Gs4XPsTTM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989629952472617187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800211703248060435",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不表明出处打死你💢 https://t.co/7Gs4XPsTTM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1989629952472617187",
+        "created_at": "2025-11-15T09:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T10:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989629952472617187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/himemiya_nekoo…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/himemiya_nekoo/status/1800211703248060435",
+              "start": 10,
+              "url": "https://t.co/7Gs4XPsTTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989629952472617187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800211703248060435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不表明出处打死你💢 https://t.co/7Gs4XPsTTM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1800211703248060435",
+        "created_at": "2024-06-10T17:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T18:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800211703248060435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800211703248060435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10204,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "od怎么了od怎么了od怎么了我一不犯法二不犯罪也从来不倡导，od花的钱没你嫖娼、打给文援一半多，你tm搞这个就可以我od就要来劝导我，你怎么不说你射精是浪费生命，烂就是烂，这也得分个高下分个贵贱不成？你花60块只为了在文媛那开心的射一次精的时候，怎么想不到这60我o一次就可以开心的活一天。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 85,
+          "like_count": 6374,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 2674
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      }
+    ]
+  }
+}

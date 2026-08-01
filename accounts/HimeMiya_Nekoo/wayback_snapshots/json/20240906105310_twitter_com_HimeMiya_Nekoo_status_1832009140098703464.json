@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1831746113613000900",
+    "created_at": "2024-09-06T10:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T11:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832009140098703464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1725242205072482304",
+          "start": 0,
+          "username": "roririnchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832009140098703464",
+    "in_reply_to_user_id": "1725242205072482304",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831746113613000900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@roririnchi 阿？男的被男的是什么play"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1831746113613000900",
+        "created_at": "2024-09-06T10:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T11:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832009140098703464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1725242205072482304",
+              "start": 0,
+              "username": "roririnchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832009140098703464",
+        "in_reply_to_user_id": "1725242205072482304",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831746113613000900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roririnchi 阿？男的被男的是什么play"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831746108772487168",
+            "3_1831746108734803969",
+            "3_1831746108793516033",
+            "3_1831746108835418112"
+          ]
+        },
+        "author_id": "1725242205072482304",
+        "conversation_id": "1831746113613000900",
+        "created_at": "2024-09-05T17:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T18:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831746113613000900"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "贡奴"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "胁迫奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ezvni6a8wg",
+              "end": 55,
+              "expanded_url": "https://twitter.com/roririnchi/status/1831746113613000900/photo/1",
+              "media_key": "3_1831746108772487168",
+              "start": 32,
+              "url": "https://t.co/Ezvni6A8wg"
+            },
+            {
+              "display_url": "pic.x.com/ezvni6a8wg",
+              "end": 55,
+              "expanded_url": "https://twitter.com/roririnchi/status/1831746113613000900/photo/1",
+              "media_key": "3_1831746108734803969",
+              "start": 32,
+              "url": "https://t.co/Ezvni6A8wg"
+            },
+            {
+              "display_url": "pic.x.com/ezvni6a8wg",
+              "end": 55,
+              "expanded_url": "https://twitter.com/roririnchi/status/1831746113613000900/photo/1",
+              "media_key": "3_1831746108793516033",
+              "start": 32,
+              "url": "https://t.co/Ezvni6A8wg"
+            },
+            {
+              "display_url": "pic.x.com/ezvni6a8wg",
+              "end": 55,
+              "expanded_url": "https://twitter.com/roririnchi/status/1831746113613000900/photo/1",
+              "media_key": "3_1831746108835418112",
+              "start": 32,
+              "url": "https://t.co/Ezvni6A8wg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831746113613000900",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6107,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "绿帽ATM，胁迫上贡和掌控隐私。\n#ATM奴 #贡奴 #胁迫奴 https://t.co/Ezvni6A8wg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1823052132465135940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 55,
+          "like_count": 333,
+          "listed_count": 0,
+          "tweet_count": 372
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-16T20:00:35.000Z",
+        "description": "男孩子。推文写点颓废、背徳、侮辱向内容，顺便也收ATM。",
+        "id": "1725242205072482304",
+        "name": "Noa",
+        "pinned_tweet_id": "1828222508618915981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824037106278350848/m2P_m7Y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 4,
+          "like_count": 89,
+          "listed_count": 0,
+          "tweet_count": 30
+        },
+        "username": "roririnchi",
+        "verified": false
+      }
+    ]
+  }
+}

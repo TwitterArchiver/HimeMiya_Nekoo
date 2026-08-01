@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1831161298325024818",
+    "created_at": "2024-09-04T10:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-04T11:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831280051637416042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1263582705410641920",
+          "start": 0,
+          "username": "EiQzuz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831280051637416042",
+    "in_reply_to_user_id": "1263582705410641920",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831161298325024818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EiQzuz 骗骗哥们可以别把自己骗了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1831161298325024818",
+        "created_at": "2024-09-04T10:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T11:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831280051637416042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1263582705410641920",
+              "start": 0,
+              "username": "EiQzuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831280051637416042",
+        "in_reply_to_user_id": "1263582705410641920",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831161298325024818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EiQzuz 骗骗哥们可以别把自己骗了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831161289101697024",
+            "3_1831161289273458688",
+            "3_1831161289105940480",
+            "3_1831161289101791232"
+          ]
+        },
+        "author_id": "1263582705410641920",
+        "conversation_id": "1831161298325024818",
+        "created_at": "2024-09-04T02:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T03:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831161298325024818"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "自毁"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "社死"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "自曝"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "反差"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "投稿"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "反差婊"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "辱骂"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "羞辱"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "曝光"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "露出"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "下贱"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "母狗"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "母猪"
+            },
+            {
+              "end": 61,
+              "start": 57,
+              "tag": "肉便器"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "闺蜜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/osse6uoqcz",
+              "end": 130,
+              "expanded_url": "https://twitter.com/EiQzuz/status/1831161298325024818/photo/1",
+              "media_key": "3_1831161289101697024",
+              "start": 107,
+              "url": "https://t.co/OsSe6uoqCz"
+            },
+            {
+              "display_url": "pic.x.com/osse6uoqcz",
+              "end": 130,
+              "expanded_url": "https://twitter.com/EiQzuz/status/1831161298325024818/photo/1",
+              "media_key": "3_1831161289273458688",
+              "start": 107,
+              "url": "https://t.co/OsSe6uoqCz"
+            },
+            {
+              "display_url": "pic.x.com/osse6uoqcz",
+              "end": 130,
+              "expanded_url": "https://twitter.com/EiQzuz/status/1831161298325024818/photo/1",
+              "media_key": "3_1831161289105940480",
+              "start": 107,
+              "url": "https://t.co/OsSe6uoqCz"
+            },
+            {
+              "display_url": "pic.x.com/osse6uoqcz",
+              "end": 130,
+              "expanded_url": "https://twitter.com/EiQzuz/status/1831161298325024818/photo/1",
+              "media_key": "3_1831161289101791232",
+              "start": 107,
+              "url": "https://t.co/OsSe6uoqCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831161298325024818",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3072,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#自毁 #社死 #自曝 #反差 #投稿   #反差婊 #辱骂 #羞辱 #曝光 #露出  #下贱 #母狗 #母猪  #肉便器  #闺蜜 遇到好看的女神婊子，不要留情，使劲操她，把她操成骚逼母狗婊子，就是你的性奴了！ https://t.co/OsSe6uoqCz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1823052132465135940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 52,
+          "like_count": 333,
+          "listed_count": 0,
+          "tweet_count": 366
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-21T21:29:44.000Z",
+        "description": "接受高颜值姐妹、闺蜜、人妻反差婊投稿曝光，投稿，曝光！文字内容请博主自己编辑！不接受未成年投稿！qq 3427495823",
+        "id": "1263582705410641920",
+        "location": "人妻少妇",
+        "name": "S-博主（接高颜值女神投稿）",
+        "pinned_tweet_id": "1332370598870204418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738055448354508800/cFJS7jbq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 343,
+          "like_count": 262,
+          "listed_count": 3,
+          "tweet_count": 640
+        },
+        "username": "EiQzuz",
+        "verified": false
+      }
+    ]
+  }
+}

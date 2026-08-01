@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2047951981260448215",
+    "created_at": "2026-04-26T03:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T04:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048250033292849451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1821231795326828544",
+          "start": 0,
+          "username": "Rei_mo0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048250033292849451",
+    "in_reply_to_user_id": "1821231795326828544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047951981260448215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rei_mo0n 好死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2047951981260448215",
+        "created_at": "2026-04-26T03:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048250033292849451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1821231795326828544",
+              "start": 0,
+              "username": "Rei_mo0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048250033292849451",
+        "in_reply_to_user_id": "1821231795326828544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047951981260448215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rei_mo0n 好死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821231795326828544",
+        "conversation_id": "2047951981260448215",
+        "created_at": "2026-04-25T08:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047951981260448215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047951981260448215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 667,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一滴泪死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm  避難垢➡️@D4K_Blackdoll｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 81,
+                "start": 67,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（一条紅愛版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 41,
+          "like_count": 7775,
+          "listed_count": 4,
+          "media_count": 211,
+          "tweet_count": 4313
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T17:08:01.000Z",
+        "description": "我只是个小孩子，有点穷，喜欢我可以给我一点钱吗？爱你们！所有人！😙",
+        "id": "1821231795326828544",
+        "location": "🚪52",
+        "name": "わたしだけをみててね",
+        "pinned_tweet_id": "2041353572521058401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924514115848212480/4v9rcCbM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 74,
+          "like_count": 79,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 609
+        },
+        "username": "Rei_mo0n",
+        "verified": false
+      }
+    ]
+  }
+}

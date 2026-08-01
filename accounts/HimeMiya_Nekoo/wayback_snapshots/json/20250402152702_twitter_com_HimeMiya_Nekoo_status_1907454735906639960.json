@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1907400723622666495",
+    "created_at": "2025-04-02T15:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T16:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907454735906639960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1799111704443564032",
+          "start": 0,
+          "username": "yayasang111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907454735906639960",
+    "in_reply_to_user_id": "1799111704443564032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907453208517292361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yayasang111 谁问你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1907400723622666495",
+        "created_at": "2025-04-02T15:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T16:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907454735906639960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1799111704443564032",
+              "start": 0,
+              "username": "yayasang111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907454735906639960",
+        "in_reply_to_user_id": "1799111704443564032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907453208517292361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yayasang111 谁问你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799111704443564032",
+        "conversation_id": "1907400723622666495",
+        "created_at": "2025-04-02T15:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T16:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907453208517292361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907453208517292361",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907400723622666495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 是的，我是男的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（公主妹妹版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 89,
+          "like_count": 4421,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 1269
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T16:10:39.000Z",
+        "description": "🚪30or300（我对你的态度是不一样嘟）群里持续更新照片门槛28，暂不接受口令。QQ微信支付均可💙💙💙\n雅雅是switch/可4i/超级反差\n门牌号私信获得噢💙💙💙\n里世界负能量小号\n@meimeiluo520\n（我是男孩子啊喂）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "meimeiluo520"
+              }
+            ]
+          }
+        },
+        "id": "1799111704443564032",
+        "location": "在母驴脸上鸭子坐～",
+        "name": "雅（⁺✞°ʚ猕猴桃重度依赖ɞ°✟₊）『坏蛋版』",
+        "pinned_tweet_id": "1896015290817003880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869642539608981504/YwG3JMCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3243,
+          "following_count": 1024,
+          "like_count": 5435,
+          "listed_count": 8,
+          "media_count": 75,
+          "tweet_count": 1030
+        },
+        "username": "yayasang111",
+        "verified": false
+      }
+    ]
+  }
+}

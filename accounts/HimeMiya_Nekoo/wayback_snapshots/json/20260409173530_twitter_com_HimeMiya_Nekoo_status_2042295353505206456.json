@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2042220699339891087",
+    "created_at": "2026-04-09T17:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T18:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042295353505206456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1863593615169306624",
+          "start": 0,
+          "username": "Caocanplaypgr"
+        },
+        {
+          "end": 26,
+          "id": "1597468568290873344",
+          "start": 15,
+          "username": "jingzhny11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042295353505206456",
+    "in_reply_to_user_id": "1863593615169306624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042294674468323340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Caocanplaypgr @jingzhny11 目前这位无名之辈辩手得分更高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2042220699339891087",
+        "created_at": "2026-04-09T17:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042295353505206456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1863593615169306624",
+              "start": 0,
+              "username": "Caocanplaypgr"
+            },
+            {
+              "end": 26,
+              "id": "1597468568290873344",
+              "start": 15,
+              "username": "jingzhny11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042295353505206456",
+        "in_reply_to_user_id": "1863593615169306624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042294674468323340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Caocanplaypgr @jingzhny11 目前这位无名之辈辩手得分更高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863593615169306624",
+        "conversation_id": "2042220699339891087",
+        "created_at": "2026-04-09T17:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042294674468323340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597468568290873344",
+              "start": 0,
+              "username": "jingzhny11"
+            },
+            {
+              "end": 27,
+              "id": "1584537561787428865",
+              "start": 12,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042294674468323340",
+        "in_reply_to_user_id": "1597468568290873344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042291910451347488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzhny11 @HimeMiya_Nekoo 我们在这里还能讨论“为什么大麻er和香烟er状态不一样”但对于法律制定者来说，统计学结论已经足够，不必讨论深层原因。就像一个国家反腐，巨额资产来源不明但是没有证据，所以抓不了他，这是一种反腐思路；但是反过来说，“巨额资产来源不明”本身就可以被视为证据，这也是一种思路"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（方知宥版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 27,
+          "like_count": 7309,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 3863
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T14:38:45.000Z",
+        "description": "phigros萌新（15.80）\n其他都不怎么打xxx\n（开始打乌蒙了）（已w2）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nope.com",
+                "end": 23,
+                "expanded_url": "http://nope.com",
+                "start": 0,
+                "url": "https://t.co/NsfabKvpkE"
+              }
+            ]
+          }
+        },
+        "id": "1863593615169306624",
+        "location": "猫猫大学",
+        "name": "nobody233",
+        "pinned_tweet_id": "1985414825514844452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863593955528675328/KLTVG1z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 78,
+          "like_count": 1430,
+          "listed_count": 4,
+          "media_count": 292,
+          "tweet_count": 2710
+        },
+        "url": "https://t.co/NsfabKvpkE",
+        "username": "Caocanplaypgr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "99年 \n🍥​2023/05/07 srs2025/07/31 一米九超大只\n左下的，混乱善良的，激跨的，支持精神活性物质的，ODer但水平很差的，想当黄推的，下海预备的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5048,
+          "following_count": 2011,
+          "like_count": 121719,
+          "listed_count": 22,
+          "media_count": 247,
+          "tweet_count": 17527
+        },
+        "username": "jingzhny11",
+        "verified": false
+      }
+    ]
+  }
+}

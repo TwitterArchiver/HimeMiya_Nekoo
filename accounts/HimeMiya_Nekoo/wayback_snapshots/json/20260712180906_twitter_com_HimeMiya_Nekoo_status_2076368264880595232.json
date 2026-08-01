@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2075900575590621591",
+    "created_at": "2026-07-12T18:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T19:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076368264880595232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1982040801405530112",
+          "start": 0,
+          "username": "seihekimeta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076368264880595232",
+    "in_reply_to_user_id": "1982040801405530112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075900575590621591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seihekimeta 噗嗤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 130635,
+        "height": 720,
+        "media_key": "7_2075900511983919104",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075900511983919104/pu/img/dyqjjJfW0OZBRMC4.jpg",
+        "public_metrics": {
+          "view_count": 323
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075900511983919104/pu/vid/avc1/432x270/kLpF65OSvGuaEfqs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075900511983919104/pu/vid/avc1/576x360/VLCTWLVPK7Cxj0GC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075900511983919104/pu/vid/avc1/1152x720/nsIfH-7Cez7Fpz3B.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075900511983919104/pu/pl/SWCkYYj3KWYiqfKL.m3u8?tag=12"
+          }
+        ],
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2075900575590621591",
+        "created_at": "2026-07-12T18:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076368264880595232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1982040801405530112",
+              "start": 0,
+              "username": "seihekimeta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076368264880595232",
+        "in_reply_to_user_id": "1982040801405530112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075900575590621591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seihekimeta 噗嗤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075900511983919104"
+          ]
+        },
+        "author_id": "1982040801405530112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          }
+        ],
+        "conversation_id": "2075900575590621591",
+        "created_at": "2026-07-11T11:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075900575590621591"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "毁号"
+            },
+            {
+              "end": 63,
+              "start": 53,
+              "tag": "gachacuck"
+            },
+            {
+              "end": 72,
+              "start": 64,
+              "tag": "GameDom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tTkxhRS4SC",
+              "end": 96,
+              "expanded_url": "https://x.com/seihekimeta/status/2075900575590621591/video/1",
+              "media_key": "7_2075900511983919104",
+              "start": 73,
+              "url": "https://t.co/tTkxhRS4SC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075900575590621591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 697,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "中国版のアズールレーンなんか調子わる〜🥱\nムカついたから強そうなやついっぱい殺しておいた🤣🤣🤣\n\n#毁号 #gachacuck #GameDom https://t.co/tTkxhRS4SC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的别烦我｜点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室👉",
+        "name": "🎀音恋✞Mia🎀（查拉图斯特拉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 34,
+          "like_count": 8123,
+          "listed_count": 3,
+          "media_count": 247,
+          "tweet_count": 4809
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T11:05:48.000Z",
+        "description": "🇯🇵/telegram↓/日本人/日本人のクソマゾも歓迎/アカウント破壊専門/プロフィールまでわざわざ見に来るクソマゾはさっさとdmに来い/我要毁了你的游戏账号。愚蠢的中国贱狗会感谢日本亲妈。/欢迎随时发送私信/一切都是免费的/已被中国亲妈洗脑\n\nalt→@qosmiruyou\n???→@taruimodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 128,
+                "username": "qosmiruyou"
+              },
+              {
+                "end": 156,
+                "start": 144,
+                "username": "taruimodesu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/seihekisyuyojo",
+                "end": 23,
+                "expanded_url": "http://t.me/seihekisyuyojo",
+                "start": 0,
+                "url": "https://t.co/1V7Pujn35n"
+              }
+            ]
+          }
+        },
+        "id": "1982040801405530112",
+        "name": "性癖収容所(meta)🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035352232296927232/Yy9SOyS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 24,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 19
+        },
+        "url": "https://t.co/1V7Pujn35n",
+        "username": "seihekimeta",
+        "verified": false
+      }
+    ]
+  }
+}

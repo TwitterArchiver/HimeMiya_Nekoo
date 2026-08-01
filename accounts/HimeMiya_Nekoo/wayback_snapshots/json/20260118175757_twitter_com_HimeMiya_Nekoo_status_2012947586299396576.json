@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012947575201058817"
+      ]
+    },
+    "author_id": "1584537561787428865",
+    "conversation_id": "2012947586299396576",
+    "created_at": "2026-01-18T17:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T18:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012947586299396576"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F4VuZZapWa",
+          "end": 43,
+          "expanded_url": "https://x.com/HimeMiya_Nekoo/status/2012947586299396576/photo/1",
+          "media_key": "3_2012947575201058817",
+          "start": 20,
+          "url": "https://t.co/F4VuZZapWa"
+        },
+        {
+          "display_url": "x.com/ruparopa/statu…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/ruparopa/status/1988124157742379200",
+          "start": 44,
+          "url": "https://t.co/PG3mN63Dbn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012947586299396576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988124157742379200",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喝你妈呢其他我可以不多说、我的图也敢偷 https://t.co/F4VuZZapWa https://t.co/PG3mN63Dbn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012947575201058817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9tJ5NX0AEufiD.jpg",
+        "width": 946
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1988124150159077387",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5c8YYubcAsc9Dk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012947575201058817"
+          ]
+        },
+        "author_id": "1584537561787428865",
+        "conversation_id": "2012947586299396576",
+        "created_at": "2026-01-18T17:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T18:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012947586299396576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F4VuZZapWa",
+              "end": 43,
+              "expanded_url": "https://x.com/HimeMiya_Nekoo/status/2012947586299396576/photo/1",
+              "media_key": "3_2012947575201058817",
+              "start": 20,
+              "url": "https://t.co/F4VuZZapWa"
+            },
+            {
+              "display_url": "x.com/ruparopa/statu…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/ruparopa/status/1988124157742379200",
+              "start": 44,
+              "url": "https://t.co/PG3mN63Dbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012947586299396576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988124157742379200",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喝你妈呢其他我可以不多说、我的图也敢偷 https://t.co/F4VuZZapWa https://t.co/PG3mN63Dbn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988124150159077387"
+          ]
+        },
+        "author_id": "1937819583110696960",
+        "conversation_id": "1988124157742379200",
+        "created_at": "2025-11-11T05:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T06:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988124157742379200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/im3XH4Msyc",
+              "end": 43,
+              "expanded_url": "https://x.com/ruparopa/status/1988124157742379200/photo/1",
+              "media_key": "3_1988124150159077387",
+              "start": 20,
+              "url": "https://t.co/im3XH4Msyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988124157742379200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 758,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝酒喝酒喝酒…吨吨吨吨…ꉂ(ˊᗜˋ*) https://t.co/im3XH4Msyc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlCDZU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlCDZU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP6tL0"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（薛湘灵版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 67,
+          "like_count": 6838,
+          "listed_count": 3,
+          "media_count": 166,
+          "tweet_count": 3043
+        },
+        "url": "https://t.co/LC1ydP6tL0",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T10:26:28.000Z",
+        "description": "rupa ☁️✧*｡٩(ˊᗜˋ*)و✧*｡🤍💙",
+        "id": "1937819583110696960",
+        "name": "Ami",
+        "pinned_tweet_id": "1975594175648440321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982330034598633472/N-twN2Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 150,
+          "like_count": 1689,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 198
+        },
+        "username": "ruparopa",
+        "verified": false
+      }
+    ]
+  }
+}

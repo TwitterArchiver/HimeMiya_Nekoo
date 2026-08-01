@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1992904470481777090",
+    "created_at": "2025-11-24T10:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T11:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992904470481777090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lin_dialog/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/lin_dialog/status/1992847313640026574",
+          "start": 12,
+          "url": "https://t.co/DIlPRNH4UW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992904470481777090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992847313640026574",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也不会碰优米一下的🫡 https://t.co/DIlPRNH4UW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1992904470481777090",
+        "created_at": "2025-11-24T10:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992904470481777090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lin_dialog/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/lin_dialog/status/1992847313640026574",
+              "start": 12,
+              "url": "https://t.co/DIlPRNH4UW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992904470481777090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992847313640026574",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也不会碰优米一下的🫡 https://t.co/DIlPRNH4UW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "conversation_id": "1992847313640026574",
+        "created_at": "2025-11-24T06:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T07:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992847313640026574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992847313640026574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不会碰愈美片一下，没开玩笑。愈创甘油醚带给我的痛苦、比右美沙芬带给我的爽感大100倍。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（互联网幽灵版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 71,
+          "like_count": 6423,
+          "listed_count": 3,
+          "media_count": 150,
+          "tweet_count": 2775
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "霖霖 ♡ 17 they/them｜shedtwt odtwt｜bmi16.9 (o^^o) ♡｜need more moots!｜抽烟喝酒自残od｜LGBTQ+🏳️‍🌈全友好^^｜查成分回fo｜单机转线上 尝试恢复社交能力中…",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "1989295399740510238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975515757137338368/jPrPpZkm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 140,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 481
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

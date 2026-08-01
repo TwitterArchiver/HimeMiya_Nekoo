@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1843703862374608897",
+    "created_at": "2024-10-08T17:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T18:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1843703862374608897"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1843703862374608897",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "✞天使妹妹的每日防骗指南✞ 11\n有视频有照片也可以是男的，视频是偷的照片是ai合成的，这很好检查随便放大一下就能分辨出来，相信你们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1843703862374608897",
+        "created_at": "2024-10-08T17:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T18:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843703862374608897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1843703862374608897",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "✞天使妹妹的每日防骗指南✞ 11\n有视频有照片也可以是男的，视频是偷的照片是ai合成的，这很好检查随便放大一下就能分辨出来，相信你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1838521083248685505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 60,
+          "like_count": 418,
+          "listed_count": 0,
+          "tweet_count": 590
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      }
+    ]
+  }
+}

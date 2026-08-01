@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1937911657801633867",
+    "created_at": "2025-07-21T16:48:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T17:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947337815764738090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1941119360552288256",
+          "start": 0,
+          "username": "DaerHusi98595"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947337815764738090",
+    "in_reply_to_user_id": "1941119360552288256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947337367645524214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DaerHusi98595 哇喔你是会说话的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1937911657801633867",
+        "created_at": "2025-07-21T16:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T17:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947337815764738090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1941119360552288256",
+              "start": 0,
+              "username": "DaerHusi98595"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947337815764738090",
+        "in_reply_to_user_id": "1941119360552288256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947337367645524214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DaerHusi98595 哇喔你是会说话的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941119360552288256",
+        "conversation_id": "1937911657801633867",
+        "created_at": "2025-07-21T16:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T17:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947337367645524214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947337367645524214",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947336174269567372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 发泄情绪常用锐利的线条，抑或是最简单，最方便的黑色圆珠笔，疯狂的来回在白纸上踱步，愈来愈锐利左到右右到左本是只是乱糟糟的涂画但到最后基本勉强有着糟糕的尖锐的花形，即便没有普遍意义上的色彩与美感但那种感受，在乱涂乱画停止时是让人舒适的，很爽的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（落跑公主版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 94,
+          "like_count": 4888,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 1744
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-04T12:58:34.000Z",
+        "description": "我说我偏爱，偏爱到想掐死你蹂躏你虐待你侵犯你那很糟糕那也很恶劣了一切的生命啊索求呀难过和悲伤都一并溺毙在这个糟糕的世界里吧心脏仍然跳动烦躁琐碎的痛苦依旧至少在这个没法表明心意的状况中我们多挨一挨稍微的凑在一起黏一黏我就像偏爱黄瓜味薯片的爱你\n企鹅门牌号为3220584499",
+        "id": "1941119360552288256",
+        "location": "新罗德岛移动地块",
+        "name": "陆",
+        "pinned_tweet_id": "1941316153734988056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946066989987823617/Pw8tbczP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 43,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 277
+        },
+        "username": "DaerHusi98595",
+        "verified": false
+      }
+    ]
+  }
+}

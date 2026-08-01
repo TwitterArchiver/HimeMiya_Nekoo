@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1990439187393503290",
+    "created_at": "2025-11-18T10:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T11:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990724698779312555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2886649711",
+          "start": 0,
+          "username": "Goku1683"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990724698779312555",
+    "in_reply_to_user_id": "2886649711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990439187393503290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goku1683 因为你是男的自然会蹦出这个问题"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1771,
+        "media_key": "3_1990439174978314240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5914kOaoAAo-6Q.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1990439187393503290",
+        "created_at": "2025-11-18T10:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990724698779312555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2886649711",
+              "start": 0,
+              "username": "Goku1683"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990724698779312555",
+        "in_reply_to_user_id": "2886649711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990439187393503290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goku1683 因为你是男的自然会蹦出这个问题"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990439174978314240"
+          ]
+        },
+        "author_id": "2886649711",
+        "conversation_id": "1990439187393503290",
+        "created_at": "2025-11-17T15:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990439187393503290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ymrgg3rTtR",
+              "end": 37,
+              "expanded_url": "https://x.com/Goku1683/status/1990439187393503290/photo/1",
+              "media_key": "3_1990439174978314240",
+              "start": 14,
+              "url": "https://t.co/Ymrgg3rTtR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990439187393503290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 168069,
+          "like_count": 350,
+          "quote_count": 13,
+          "reply_count": 187,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "脑子蹦出一个问题..... https://t.co/Ymrgg3rTtR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 69,
+          "like_count": 6407,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 2756
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-01T18:35:18.000Z",
+        "description": "🏳️‍⚧️/BPD/敢爱敢恨/情绪化/情绪时常处于两个极端/猎奇/表面是个m实则是个暴力s/略带偏执属性/待开发中..它说蓝色是忧郁*",
+        "id": "2886649711",
+        "name": "到里斯本看海*^🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951570985435717632/hrFmnHgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 657,
+          "like_count": 1086,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 144
+        },
+        "username": "Goku1683",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2024089787301339379",
+    "created_at": "2026-02-19T15:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T16:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024503366840463794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1839881314155278340",
+          "start": 0,
+          "username": "nei_hua7675"
+        },
+        {
+          "end": 28,
+          "id": "1794131217463615488",
+          "start": 13,
+          "username": "satsushou_sonn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024503366840463794",
+    "in_reply_to_user_id": "1839881314155278340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024503189173916007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nei_hua7675 @satsushou_sonn 你们聊上了是吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2024089787301339379",
+        "created_at": "2026-02-19T15:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024503366840463794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1839881314155278340",
+              "start": 0,
+              "username": "nei_hua7675"
+            },
+            {
+              "end": 28,
+              "id": "1794131217463615488",
+              "start": 13,
+              "username": "satsushou_sonn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024503366840463794",
+        "in_reply_to_user_id": "1839881314155278340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024503189173916007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nei_hua7675 @satsushou_sonn 你们聊上了是吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839881314155278340",
+        "conversation_id": "2024089787301339379",
+        "created_at": "2026-02-19T15:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024503189173916007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1794131217463615488",
+              "start": 0,
+              "username": "satsushou_sonn"
+            },
+            {
+              "end": 31,
+              "id": "1584537561787428865",
+              "start": 16,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024503189173916007",
+        "in_reply_to_user_id": "1794131217463615488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024502568177848474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satsushou_sonn @HimeMiya_Nekoo 可以捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 54,
+          "like_count": 6897,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 3231
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T04:14:54.000Z",
+        "description": "୨୧ .*･ﾟ 痛み止め依存症 │DM 〇 │ 空气系界隈│我想变成地瓜🍠│ ﾟ･*.ೀ",
+        "id": "1839881314155278340",
+        "location": "無の中",
+        "name": "もちもちもち",
+        "pinned_tweet_id": "1984257066735919499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984240985078153217/pIJESQg7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 47,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 295
+        },
+        "username": "nei_hua7675",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T22:20:05.000Z",
+        "description": "是可爱的加奈酱哦 ｜希望和大家作为好朋友，基本上fo的都会回｜中国からの友情，ご清聴ありがとうございました，私は日本語が話せませんが、英語または通訳を通してコミュニケーションを取ることができます。皆様のご無事をお祈り申し上げます",
+        "id": "1794131217463615488",
+        "location": "中华人民共和国",
+        "name": "加奈ちゃん",
+        "pinned_tweet_id": "2010024232970031360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013953203147038721/Mqcu7-fa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3140,
+          "following_count": 4464,
+          "like_count": 1874,
+          "listed_count": 13,
+          "media_count": 351,
+          "tweet_count": 6027
+        },
+        "username": "satsushou_sonn",
+        "verified": false
+      }
+    ]
+  }
+}

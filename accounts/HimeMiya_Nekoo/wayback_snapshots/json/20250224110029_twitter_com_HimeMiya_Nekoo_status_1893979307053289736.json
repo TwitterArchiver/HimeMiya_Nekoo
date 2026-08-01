@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1887202414253490249",
+    "created_at": "2025-02-24T11:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T12:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893979307053289736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1732010780286156800",
+          "start": 0,
+          "username": "shj1392639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893979307053289736",
+    "in_reply_to_user_id": "1732010780286156800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887202414253490249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shj1392639 哥哥🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1887202414253490249",
+        "created_at": "2025-02-24T11:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T12:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893979307053289736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1732010780286156800",
+              "start": 0,
+              "username": "shj1392639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893979307053289736",
+        "in_reply_to_user_id": "1732010780286156800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887202414253490249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shj1392639 哥哥🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732010780286156800",
+        "conversation_id": "1887202414253490249",
+        "created_at": "2025-02-05T18:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T19:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887202414253490249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887202414253490249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3600,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "仔细一想我的xp核心还是占有欲，我在一段关系的过程里并不在乎对对方的驯化，要怎么怎么迎合我听我的话，而在于确保你是我的东西，你要一辈子都属于我而且绝对不可以逃脱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│裏垢➡️@UUUx_mm。 ﾟ･*.♱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "你的心里♡",
+        "name": "🎀音恋✞Mia🎀（算了变成游戏版）",
+        "pinned_tweet_id": "1870486188890767606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 85,
+          "like_count": 2760,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 1026
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T12:15:32.000Z",
+        "description": "欢迎大家找我玩，本体是阴湿地雷男鬼，当朋友圈发咯。",
+        "id": "1732010780286156800",
+        "name": "如果阴湿是一种天赋",
+        "pinned_tweet_id": "1848586217601769520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777739550728781826/9shyYuqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 14,
+          "like_count": 1550,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 302
+        },
+        "username": "shj1392639",
+        "verified": false
+      }
+    ]
+  }
+}

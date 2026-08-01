@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1991336511409971553",
+    "created_at": "2025-11-24T10:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T11:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992907289515483190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1404004646180442116",
+          "start": 0,
+          "username": "miyakesinobu"
+        },
+        {
+          "end": 28,
+          "id": "1237054141",
+          "start": 14,
+          "username": "yuki_mizuki02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992907289515483190",
+    "in_reply_to_user_id": "1404004646180442116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992810303307083988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyakesinobu @yuki_mizuki02 为什么他难想人家就不难想💢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1991336511409971553",
+        "created_at": "2025-11-24T10:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992907289515483190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1404004646180442116",
+              "start": 0,
+              "username": "miyakesinobu"
+            },
+            {
+              "end": 28,
+              "id": "1237054141",
+              "start": 14,
+              "username": "yuki_mizuki02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992907289515483190",
+        "in_reply_to_user_id": "1404004646180442116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992810303307083988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyakesinobu @yuki_mizuki02 为什么他难想人家就不难想💢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1404004646180442116",
+        "conversation_id": "1991336511409971553",
+        "created_at": "2025-11-24T04:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T05:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992810303307083988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1237054141",
+              "start": 0,
+              "username": "yuki_mizuki02"
+            },
+            {
+              "end": 30,
+              "id": "1584537561787428865",
+              "start": 15,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992810303307083988",
+        "in_reply_to_user_id": "1237054141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991784476310139132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_mizuki02 @HimeMiya_Nekoo 会有的！但是真的很难想！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（互联网幽灵版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 71,
+          "like_count": 6423,
+          "listed_count": 3,
+          "media_count": 150,
+          "tweet_count": 2777
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-13T09:16:24.000Z",
+        "description": "是爱丽丝的茶杯、是三月兔的怀表、是柴郡猫的笑脸、也是漫漫长的疯鸟笼",
+        "id": "1404004646180442116",
+        "location": "TARDIS",
+        "name": "鲨鱼糖🍬",
+        "pinned_tweet_id": "1973508455324590204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973506707323232256/U1uuYluw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 5,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "username": "miyakesinobu",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-03T00:04:33.000Z",
+        "description": "去走的更远一些",
+        "id": "1237054141",
+        "location": "Octopus's Garden ",
+        "name": "雪ミズキ",
+        "pinned_tweet_id": "1890058157428486409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955602003213828096/9jq6yazx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 323,
+          "like_count": 3580,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 304
+        },
+        "username": "yuki_mizuki02",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2052733840628851061",
+    "created_at": "2026-05-08T12:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T13:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052733840628851061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/himemiya_nekoo…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/himemiya_nekoo/status/1978434466646204851",
+          "start": 15,
+          "url": "https://t.co/fbJZW581NY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052733840628851061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978434466646204851",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果世界就这样结束的话就好了 https://t.co/fbJZW581NY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1978434459310686208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3TPqJabAAAiA46.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2052733840628851061",
+        "created_at": "2026-05-08T12:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052733840628851061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/himemiya_nekoo…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/himemiya_nekoo/status/1978434466646204851",
+              "start": 15,
+              "url": "https://t.co/fbJZW581NY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052733840628851061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978434466646204851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果世界就这样结束的话就好了 https://t.co/fbJZW581NY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978434459310686208"
+          ]
+        },
+        "author_id": "1584537561787428865",
+        "conversation_id": "1978434466646204851",
+        "created_at": "2025-10-15T12:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T13:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978434466646204851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t890qtOe4F",
+              "end": 25,
+              "expanded_url": "https://x.com/HimeMiya_Nekoo/status/1978434466646204851/photo/1",
+              "media_key": "3_1978434459310686208",
+              "start": 2,
+              "url": "https://t.co/t890qtOe4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978434466646204851",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 808,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔥 https://t.co/t890qtOe4F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm  避難垢➡️@D4K_Blackdoll｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 81,
+                "start": 67,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室❌",
+        "name": "🎀音恋✞Mia🎀（一条紅愛版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 34,
+          "like_count": 7903,
+          "listed_count": 4,
+          "media_count": 219,
+          "tweet_count": 4470
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      }
+    ]
+  }
+}

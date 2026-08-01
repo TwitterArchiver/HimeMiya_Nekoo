@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2029850903797453291",
+    "created_at": "2026-03-06T09:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T10:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029850903797453291"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fumocollection…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/fumocollection/status/2029799137483645264",
+          "start": 5,
+          "url": "https://t.co/Du04gOIP5o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029850903797453291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029799137483645264",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要这个 https://t.co/Du04gOIP5o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2029387726932590592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCnVYq9awAAz2lf.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2029850903797453291",
+        "created_at": "2026-03-06T09:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T10:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029850903797453291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fumocollection…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/fumocollection/status/2029799137483645264",
+              "start": 5,
+              "url": "https://t.co/Du04gOIP5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029850903797453291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029799137483645264",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要这个 https://t.co/Du04gOIP5o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029387726932590592"
+          ]
+        },
+        "author_id": "1946017976752476160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2029799137483645264",
+        "created_at": "2026-03-06T06:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T07:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029799137483645264"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "serial experiments lain",
+              "probability": 0.7251,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 129,
+              "normalized_text": "安倍𠮷俊氏",
+              "probability": 0.5178,
+              "start": 124,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 135,
+              "id": "4664901",
+              "start": 129,
+              "username": "abfly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eHGsNn9Scu",
+              "end": 184,
+              "expanded_url": "https://x.com/fumocollection/status/2029799137483645264/photo/1",
+              "media_key": "3_2029387726932590592",
+              "start": 161,
+              "url": "https://t.co/eHGsNn9Scu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029799137483645264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 179,
+                "start": 174,
+                "tag": "lain"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "id": "4664901",
+                "start": 129,
+                "username": "abfly"
+              }
+            ]
+          },
+          "text": "『serial experiments lain』コラボ\n＼　　　3/10予約開始🎉　　　／\n\n待望のコラボレーションが遂に\n【3月10日(火) 15時】から予約開始！\n作品の中からインスピレーションを得たPC関連商品等が多数登場✨️\n\nさらに、安倍𠮷俊氏（@abfly）描き下ろしイラストを使用したアイテムも登場予定🔥\n予約開始をお楽しみに！\n\n#lain"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1199,
+          "impression_count": 141074,
+          "like_count": 3833,
+          "quote_count": 155,
+          "reply_count": 12,
+          "retweet_count": 810
+        },
+        "reply_settings": "everyone",
+        "text": "『serial experiments lain』コラボ\n＼　　　3/10予約開始🎉　　　／\n\n待望のコラボレーションが遂に\n【3月10日(火) 15時】から予約開始！\n作品の中からインスピレーションを得たPC関連商品等が多数登場✨️\n\nさらに、安倍𠮷俊氏（@abfly）描き下ろしイラストを使用したアイテムも登場予定🔥 https://t.co/eHGsNn9Scu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 115,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 92,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（不破爱花版）",
+        "pinned_tweet_id": "2025759179487784987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 28,
+          "like_count": 7266,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 3677
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T01:23:43.000Z",
+        "description": "ふもっふのおみせ（@fumoshop）が運営する、ふもコレ公式情報アカウント。\nコラボデバイスの発売情報（新作・予約・再販）／イベント情報をまとめて発信します。\n\n＜ふもコレ公式ショップ＞\nhttps://t.co/qP8UzCHuVO\n#ふもコレ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 119,
+                "tag": "ふもコレ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "fumoshop"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fumo-collection.com",
+                "end": 118,
+                "expanded_url": "https://fumo-collection.com",
+                "start": 95,
+                "url": "https://t.co/qP8UzCHuVO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fumo-collection.com",
+                "end": 23,
+                "expanded_url": "https://www.fumo-collection.com/",
+                "start": 0,
+                "url": "https://t.co/Szem2oFzhq"
+              }
+            ]
+          }
+        },
+        "id": "1946017976752476160",
+        "name": "ふもコレ by ふもっふのおみせ【公式】",
+        "pinned_tweet_id": "2028759169856315777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028687841753210880/wocR23Cf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 6,
+          "like_count": 163,
+          "listed_count": 7,
+          "media_count": 31,
+          "tweet_count": 201
+        },
+        "url": "https://t.co/Szem2oFzhq",
+        "username": "fumocollection",
+        "verified": true
+      }
+    ]
+  }
+}

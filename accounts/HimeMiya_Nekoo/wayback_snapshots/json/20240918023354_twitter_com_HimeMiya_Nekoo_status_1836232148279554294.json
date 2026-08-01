@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1836232148279554294",
+    "created_at": "2024-09-18T02:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T03:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1836232148279554294"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1836232148279554294",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "多么伤心的字眼阿，多么难过的旋律阿，夏天的的闷热对你来说是不可见的枷锁吧，还是说外卖员的敲门也会让你感觉到恐惧呢？酒一不小心就喝多了吧，烟也从习惯到抽着抽着就想吐了吧，我知道你的肚子不舒服，就吃点药吧，吃药就能活下去的话也算是为数不多的幸福了。嘘，不许难过我们终会再见，听见了吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1836232148279554294",
+        "created_at": "2024-09-18T02:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T03:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836232148279554294"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836232148279554294",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "多么伤心的字眼阿，多么难过的旋律阿，夏天的的闷热对你来说是不可见的枷锁吧，还是说外卖员的敲门也会让你感觉到恐惧呢？酒一不小心就喝多了吧，烟也从习惯到抽着抽着就想吐了吧，我知道你的肚子不舒服，就吃点药吧，吃药就能活下去的话也算是为数不多的幸福了。嘘，不许难过我们终会再见，听见了吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1823052132465135940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 53,
+          "like_count": 340,
+          "listed_count": 0,
+          "tweet_count": 422
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      }
+    ]
+  }
+}

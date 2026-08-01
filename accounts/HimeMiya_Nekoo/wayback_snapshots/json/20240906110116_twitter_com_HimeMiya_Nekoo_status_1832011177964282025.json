@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1832011169797898240"
+      ]
+    },
+    "author_id": "1584537561787428865",
+    "conversation_id": "1812732365665681497",
+    "created_at": "2024-09-06T11:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T12:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832011177964282025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1851237986",
+          "start": 0,
+          "username": "ekaagungpradana"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vhdbctowyd",
+          "end": 46,
+          "expanded_url": "https://twitter.com/HimeMiya_Nekoo/status/1832011177964282025/photo/1",
+          "media_key": "3_1832011169797898240",
+          "start": 23,
+          "url": "https://t.co/VhDBCtowyd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832011177964282025",
+    "in_reply_to_user_id": "1851237986",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812732365665681497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ekaagungpradana 是你吗姐姐 https://t.co/VhDBCtowyd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1832011169797898240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWycc9haAAAfthO.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832011169797898240"
+          ]
+        },
+        "author_id": "1584537561787428865",
+        "conversation_id": "1812732365665681497",
+        "created_at": "2024-09-06T11:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T12:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832011177964282025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1851237986",
+              "start": 0,
+              "username": "ekaagungpradana"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vhdbctowyd",
+              "end": 46,
+              "expanded_url": "https://twitter.com/HimeMiya_Nekoo/status/1832011177964282025/photo/1",
+              "media_key": "3_1832011169797898240",
+              "start": 23,
+              "url": "https://t.co/VhDBCtowyd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832011177964282025",
+        "in_reply_to_user_id": "1851237986",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812732365665681497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ekaagungpradana 是你吗姐姐 https://t.co/VhDBCtowyd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1812732349429264384"
+          ]
+        },
+        "author_id": "1851237986",
+        "conversation_id": "1812732365665681497",
+        "created_at": "2024-07-15T06:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T07:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812732365665681497"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "騷騷女"
+            },
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "急一個試試"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "中壢"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ppv3ibtvac",
+              "end": 56,
+              "expanded_url": "https://twitter.com/ekaagungpradana/status/1812732365665681497/photo/1",
+              "media_key": "3_1812732349429264384",
+              "start": 33,
+              "url": "https://t.co/Ppv3IBtvac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812732365665681497",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1214,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "會噴水的女生是不是很不正常⋯\n#騷騷女   #急一個試試 #中壢 https://t.co/Ppv3IBtvac"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "✞ ꙳. ♡̴⋆ od┆病み垢┆ みんなの天使妹┆ 日本語 ┆ 中文 🆗 ɞ ‧₊˚⊹ ✞",
+        "id": "1584537561787428865",
+        "location": "Kyoto-fu, Japan",
+        "name": "🎀音恋✞Mia🎀",
+        "pinned_tweet_id": "1823052132465135940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635118922008772610/u-BAwu7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 55,
+          "like_count": 333,
+          "listed_count": 0,
+          "tweet_count": 373
+        },
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-10T11:36:21.000Z",
+        "description": "個人兼職呆丸郎啦點 💗加賴：ck66887 今天很騷 想被幹 哥哥請你點下面👇👇🔗連結 加我臉書預約 有優惠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/sofa.marwah.14…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/sofa.marwah.146?mibextid=LQQJ4d",
+                "start": 0,
+                "url": "https://t.co/AXarJLfzCG"
+              }
+            ]
+          }
+        },
+        "id": "1851237986",
+        "location": "中壢",
+        "name": "中壢小白兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809840407049826308/53-T8FQ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 116,
+          "like_count": 13,
+          "listed_count": 3,
+          "tweet_count": 161
+        },
+        "url": "https://t.co/AXarJLfzCG",
+        "username": "ekaagungpradana",
+        "verified": false
+      }
+    ]
+  }
+}

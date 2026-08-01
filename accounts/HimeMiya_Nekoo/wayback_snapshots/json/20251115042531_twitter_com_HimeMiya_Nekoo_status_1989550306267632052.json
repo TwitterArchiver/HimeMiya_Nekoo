@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "1989377160453443644",
+    "created_at": "2025-11-15T04:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T05:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989550306267632052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989550306267632052",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989540498307269029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo 别骂了别骂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "1989377160453443644",
+        "created_at": "2025-11-15T04:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T05:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989550306267632052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989550306267632052",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989540498307269029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 别骂了别骂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "1989377160453443644",
+        "created_at": "2025-11-15T03:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T04:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989540498307269029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989540498307269029",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989532489246019707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 全都是垃圾谁买谁傻逼！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm。 ﾟ･*.♱ 匿名信箱https://t.co/3QLDwlDbPs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "UUUx_mm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 87,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 64,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP71Ay"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室➡️",
+        "name": "🎀音恋✞Mia🎀（天使回归版）",
+        "pinned_tweet_id": "1895034831245099192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 84,
+          "like_count": 6366,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 2660
+        },
+        "url": "https://t.co/LC1ydP71Ay",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护与互关的大家庭👨‍👩‍👦疯狗狂犬病弱智神经病狂野精神病滥用自残啥都碰不可理喻无药可救精力旺盛躁郁圣体❤️绝赞病b小心染病❤️同类fo必回-漏fo请私-爱互关宝宝❤️点赞评论bot-讨厌不熟的人闲聊♡喜欢sex与drug♡不提供任何咨询♡non-binary友跨友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984461180929523715/z3O7oiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 712,
+          "like_count": 2723,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1600
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

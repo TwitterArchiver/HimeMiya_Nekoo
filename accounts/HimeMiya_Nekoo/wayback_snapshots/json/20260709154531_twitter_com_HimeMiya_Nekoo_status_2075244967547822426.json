@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2075238062494495090",
+    "created_at": "2026-07-09T15:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T16:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075244967547822426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2055498819568062464",
+          "start": 0,
+          "username": "2dX6Olntmy34788"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075244967547822426",
+    "in_reply_to_user_id": "2055498819568062464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075238062494495090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2dX6Olntmy34788 好写多写"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2075238062494495090",
+        "created_at": "2026-07-09T15:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075244967547822426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055498819568062464",
+              "start": 0,
+              "username": "2dX6Olntmy34788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075244967547822426",
+        "in_reply_to_user_id": "2055498819568062464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075238062494495090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2dX6Olntmy34788 好写多写"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055498819568062464",
+        "conversation_id": "2075238062494495090",
+        "created_at": "2026-07-09T15:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075238062494495090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075238062494495090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 624,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一到晚上又想写点重口的✍🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 80,
+                "start": 66,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室👉",
+        "name": "🎀音恋✞Mia🎀（查拉图斯特拉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 31,
+          "like_count": 8082,
+          "listed_count": 3,
+          "media_count": 244,
+          "tweet_count": 4733
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T04:01:31.000Z",
+        "description": "真实大于完美",
+        "id": "2055498819568062464",
+        "name": "默",
+        "pinned_tweet_id": "2060614208258179157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057006840186347520/iUt4TPZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5412,
+          "following_count": 16,
+          "like_count": 315,
+          "listed_count": 5,
+          "media_count": 40,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "2dX6Olntmy34788",
+        "verified": false
+      }
+    ]
+  }
+}

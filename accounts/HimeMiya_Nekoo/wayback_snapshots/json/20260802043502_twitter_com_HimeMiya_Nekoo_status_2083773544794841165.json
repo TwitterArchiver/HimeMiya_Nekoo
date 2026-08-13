@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2083159544130421145",
+    "created_at": "2026-08-02T04:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T05:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083773544794841165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1833887382078402561",
+          "start": 0,
+          "username": "xiaxuelema0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083773544794841165",
+    "in_reply_to_user_id": "1833887382078402561",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083756727800156413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaxuelema0 我看到你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2083159544130421145",
+        "created_at": "2026-08-02T04:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083773544794841165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1833887382078402561",
+              "start": 0,
+              "username": "xiaxuelema0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083773544794841165",
+        "in_reply_to_user_id": "1833887382078402561",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083756727800156413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaxuelema0 我看到你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833887382078402561",
+        "conversation_id": "2083159544130421145",
+        "created_at": "2026-08-02T03:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083756727800156413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584537561787428865",
+              "start": 0,
+              "username": "HimeMiya_Nekoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083756727800156413",
+        "in_reply_to_user_id": "1584537561787428865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083755130214867302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeMiya_Nekoo 查拉图斯特拉，你看到星辰了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的别烦我｜点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll许愿请来这里不要打扰我们天使妹｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "location": "天使治疗室👉",
+        "name": "🎀音恋✞Mia🎀（查拉图斯特拉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 32,
+          "like_count": 8266,
+          "listed_count": 3,
+          "media_count": 254,
+          "tweet_count": 5084
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T15:17:12.000Z",
+        "description": "ID1：晴时雪 / 晴時_雪\nID2：由間_陸由 / ゆま_りくゆ\n0国语言掌握者 // 零か言語の掌握者\n\n有什么“杂质”都可以抛向我哦~如果能在我这个“杂质黑洞”牵引杂质的过程中再次体会到方向感，那就让我更幸福了~随时向我发信吧~",
+        "id": "1833887382078402561",
+        "name": "ShiXue Qing",
+        "pinned_tweet_id": "2083748979519758451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833887526605733889/hgI52jcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 2,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "xiaxuelema0",
+        "verified": false
+      }
+    ]
+  }
+}

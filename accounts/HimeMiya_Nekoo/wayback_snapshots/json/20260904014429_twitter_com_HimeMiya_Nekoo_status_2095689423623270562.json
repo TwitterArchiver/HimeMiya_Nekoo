@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2095576287418929531",
+    "created_at": "2026-09-04T01:44:29.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T02:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095689423623270562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766388563627905024",
+          "start": 0,
+          "username": "Note473640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095689423623270562",
+    "in_reply_to_user_id": "1766388563627905024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095576287418929531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Note473640 乱写"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2095576287418929531",
+        "created_at": "2026-09-04T01:44:29.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T02:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095689423623270562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766388563627905024",
+              "start": 0,
+              "username": "Note473640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095689423623270562",
+        "in_reply_to_user_id": "1766388563627905024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095576287418929531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Note473640 乱写"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766388563627905024",
+        "conversation_id": "2095576287418929531",
+        "created_at": "2026-09-03T18:14:55.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T19:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095576287418929531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095576287418929531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "半参零落，秋梦凉，北风啐晓心彷徨。苍歌、银子，卷盖地惶惶，泪漾漾。九曲乱情房，千尺唤哀怆。等不来旧人，月霜枯黄、伤伤。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的❌｜点赞就是想找你玩│我就差请和我交朋友写脸上了还不敢嘛│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll许愿请来这里不要打扰我们天使妹｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "is_identity_verified": false,
+        "location": "天使治疗室👉",
+        "most_recent_tweet_id": "2095689423623270562",
+        "name": "🎀音恋✞Mia🎀（地雷妹版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1584537561787428865/1730194250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 29,
+          "like_count": 8430,
+          "listed_count": 3,
+          "media_count": 265,
+          "tweet_count": 5233
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-09T09:00:35.000Z",
+        "description": "",
+        "id": "1766388563627905024",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095576577450889579",
+        "name": "Note",
+        "pinned_tweet_id": "1867578789687177668",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852957917034815488/RA1pxzhv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 3813,
+          "like_count": 14240,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 12925
+        },
+        "url": "",
+        "username": "Note473640",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

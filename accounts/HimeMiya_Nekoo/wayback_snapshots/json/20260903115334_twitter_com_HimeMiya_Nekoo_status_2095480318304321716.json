@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2095480318304321716",
+    "created_at": "2026-09-03T11:53:34.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T12:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095480318304321716"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2095480318304321716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就差请和我交朋友写脸上了还不敢嘛，我说你们呀、一个个都感同身受一个个又畏畏缩缩，往人信息框里发个喜欢你不会要了的命，事实上我认识很多就多做了这一件事就交了十万个朋友的人，好啦好啦、手给你、和我走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2095480318304321716",
+        "created_at": "2026-09-03T11:53:34.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T12:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095480318304321716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095480318304321716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就差请和我交朋友写脸上了还不敢嘛，我说你们呀、一个个都感同身受一个个又畏畏缩缩，往人信息框里发个喜欢你不会要了的命，事实上我认识很多就多做了这一件事就交了十万个朋友的人，好啦好啦、手给你、和我走"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的别烦我｜点赞就是想找你玩│我就差请和我交朋友写脸上了还不敢嘛│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll许愿请来这里不要打扰我们天使妹｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 105,
+                "start": 91,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "is_identity_verified": false,
+        "location": "天使治疗室👉",
+        "most_recent_tweet_id": "2095480318304321716",
+        "name": "🎀音恋✞Mia🎀（地雷妹版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1584537561787428865/1730194250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 30,
+          "like_count": 8430,
+          "listed_count": 3,
+          "media_count": 265,
+          "tweet_count": 5227
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

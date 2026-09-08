@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2092947096290914770",
+    "created_at": "2026-08-27T12:07:27.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T13:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092947096290914770"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2092947096290914770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在互联网上聊骚人尽皆知，阿你说难听一点人尽可夫也随你心意，你说你对我有占有欲、开什么玩笑我看你需要的是欲的那部分吧？因为认识、熟了又说不出口、不能和奴家一起真是可怜极了…啧啧啧让我看看你这个痴情又无法阻止人交欢的英容，我很乐在其中诶、但是想象一下你们是怎么想的就足够令人作呕的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2092947096290914770",
+        "created_at": "2026-08-27T12:07:27.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092947096290914770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092947096290914770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在互联网上聊骚人尽皆知，阿你说难听一点人尽可夫也随你心意，你说你对我有占有欲、开什么玩笑我看你需要的是欲的那部分吧？因为认识、熟了又说不出口、不能和奴家一起真是可怜极了…啧啧啧让我看看你这个痴情又无法阻止人交欢的英容，我很乐在其中诶、但是想象一下你们是怎么想的就足够令人作呕的了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的别烦我｜点赞就是想找你玩│裏垢➡️@UUUx_mm 避難垢➡️@D4K_Blackdoll许愿请来这里不要打扰我们天使妹｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 59,
+                "username": "UUUx_mm"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "D4K_Blackdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "is_identity_verified": false,
+        "location": "天使治疗室👉",
+        "most_recent_tweet_id": "2092947096290914770",
+        "name": "🎀音恋✞Mia🎀（查拉图斯特拉版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1584537561787428865/1730194250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 29,
+          "like_count": 8317,
+          "listed_count": 3,
+          "media_count": 259,
+          "tweet_count": 5169
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

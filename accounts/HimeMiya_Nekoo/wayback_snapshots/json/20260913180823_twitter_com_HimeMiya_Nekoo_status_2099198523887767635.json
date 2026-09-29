@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2099161816194744414",
+    "created_at": "2026-09-13T18:08:23.000Z",
+    "display_text_range": [
+      13,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T19:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099198523887767635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1814274834463064065",
+          "start": 0,
+          "username": "fu_tou96197"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099198523887767635",
+    "in_reply_to_user_id": "1814274834463064065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099161816194744414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fu_tou96197 我觉得烫简单干脆一点而且就一下子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2099161816194744414",
+        "created_at": "2026-09-13T18:08:23.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T19:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099198523887767635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1814274834463064065",
+              "start": 0,
+              "username": "fu_tou96197"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099198523887767635",
+        "in_reply_to_user_id": "1814274834463064065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099161816194744414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fu_tou96197 我觉得烫简单干脆一点而且就一下子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814274834463064065",
+        "conversation_id": "2099161816194744414",
+        "created_at": "2026-09-13T15:42:32.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T16:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099161816194744414"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "自残"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099161816194744414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 562,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自残  烟头烫伤真的很疼啊，比用刀割疼的多。虽然在外人看起来割伤很可怕，但其实真的不怎么痛。可能是流血的关系吧，人在看到血液后会联想到死亡的恐惧，会感到不安呢。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的❌｜点赞就是想找你玩│你们的恶我超喜欢的│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 67,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP6tL0"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "is_identity_verified": false,
+        "location": "tg天使治疗室👉",
+        "most_recent_tweet_id": "2099198523887767635",
+        "name": "🎀音恋✞Mia🎀（秋叶留未穗版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1584537561787428865/1730194250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 26,
+          "like_count": 8731,
+          "listed_count": 3,
+          "media_count": 269,
+          "tweet_count": 5277
+        },
+        "url": "https://t.co/LC1ydP6tL0",
+        "username": "HimeMiya_Nekoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-19T12:23:38.000Z",
+        "description": "很高兴遇见你",
+        "id": "1814274834463064065",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099180562942730501",
+        "name": "食腐猫头鹰",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814275086045863936/M6yq86Rs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 314,
+          "like_count": 1219,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "fu_tou96197",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

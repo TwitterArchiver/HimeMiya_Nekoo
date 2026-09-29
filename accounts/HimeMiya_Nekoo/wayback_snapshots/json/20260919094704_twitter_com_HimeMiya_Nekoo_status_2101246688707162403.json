@@ -1,0 +1,610 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101246683439144960"
+      ]
+    },
+    "author_id": "1584537561787428865",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2101246688707162403",
+    "created_at": "2026-09-19T09:47:04.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T10:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101246688707162403"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PGCngZFeow",
+          "end": 79,
+          "expanded_url": "https://x.com/HimeMiya_Nekoo/status/2101246688707162403/photo/1",
+          "media_key": "3_2101246683439144960",
+          "start": 56,
+          "url": "https://t.co/PGCngZFeow"
+        },
+        {
+          "display_url": "x.com/elle_elle_e/st…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/elle_elle_e/status/2100525418587799977",
+          "start": 80,
+          "url": "https://t.co/WIOXSGZQSr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101246688707162403",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101246683439144960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100525418587799977",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "わ！最近は流行ってる遊びがたくさんあるよ😖\n以前のお衣装で作ってみました\n\n素敵なプロンプトお借りしました✝️ https://t.co/PGCngZFeow https://t.co/WIOXSGZQSr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2101246683439144960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkgucfboAAXw20.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1672,
+        "media_key": "3_2100516449391616000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaIlOraIAASV-9.jpg",
+        "width": 941
+      },
+      {
+        "height": 1672,
+        "media_key": "3_2100516449387532288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaIlOqb0AAtWov.jpg",
+        "width": 941
+      },
+      {
+        "height": 1672,
+        "media_key": "3_2100516449387524096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaIlOqbsAAjIaN.jpg",
+        "width": 941
+      },
+      {
+        "height": 1672,
+        "media_key": "3_2100516449433620480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaIlO1bEAAx259.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101246683439144960"
+          ]
+        },
+        "author_id": "1584537561787428865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2101246688707162403",
+        "created_at": "2026-09-19T09:47:04.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101246688707162403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PGCngZFeow",
+              "end": 79,
+              "expanded_url": "https://x.com/HimeMiya_Nekoo/status/2101246688707162403/photo/1",
+              "media_key": "3_2101246683439144960",
+              "start": 56,
+              "url": "https://t.co/PGCngZFeow"
+            },
+            {
+              "display_url": "x.com/elle_elle_e/st…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/elle_elle_e/status/2100525418587799977",
+              "start": 80,
+              "url": "https://t.co/WIOXSGZQSr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101246688707162403",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101246683439144960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100525418587799977",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "わ！最近は流行ってる遊びがたくさんあるよ😖\n以前のお衣装で作ってみました\n\n素敵なプロンプトお借りしました✝️ https://t.co/PGCngZFeow https://t.co/WIOXSGZQSr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100516449391616000",
+            "3_2100516449387532288",
+            "3_2100516449387524096",
+            "3_2100516449433620480"
+          ]
+        },
+        "author_id": "1891778218811850755",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2100525418587799977",
+        "created_at": "2026-09-17T10:01:00.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100525418587799977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DR3irFLZof",
+              "end": 150,
+              "expanded_url": "https://x.com/elle_elle_e/status/2100525418587799977/photo/1",
+              "media_key": "3_2100516449391616000",
+              "start": 127,
+              "url": "https://t.co/DR3irFLZof"
+            },
+            {
+              "display_url": "pic.x.com/DR3irFLZof",
+              "end": 150,
+              "expanded_url": "https://x.com/elle_elle_e/status/2100525418587799977/photo/1",
+              "media_key": "3_2100516449387532288",
+              "start": 127,
+              "url": "https://t.co/DR3irFLZof"
+            },
+            {
+              "display_url": "pic.x.com/DR3irFLZof",
+              "end": 150,
+              "expanded_url": "https://x.com/elle_elle_e/status/2100525418587799977/photo/1",
+              "media_key": "3_2100516449387524096",
+              "start": 127,
+              "url": "https://t.co/DR3irFLZof"
+            },
+            {
+              "display_url": "pic.x.com/DR3irFLZof",
+              "end": 150,
+              "expanded_url": "https://x.com/elle_elle_e/status/2100525418587799977/photo/1",
+              "media_key": "3_2100516449433620480",
+              "start": 127,
+              "url": "https://t.co/DR3irFLZof"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100525418587799977",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100516449391616000"
+          },
+          {
+            "media_key": "3_2100516449387532288"
+          },
+          {
+            "media_key": "3_2100516449387524096"
+          },
+          {
+            "media_key": "3_2100516449433620480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5124,
+          "impression_count": 1959073,
+          "like_count": 4697,
+          "quote_count": 1142,
+          "reply_count": 44,
+          "retweet_count": 472
+        },
+        "reply_settings": "everyone",
+        "text": "ペーパークラフトの世界に入りませんか？👼🪽\n\nChatGPTで\n「アップロードした画像の人物は実写のまま、色・衣装・小物・モチーフを拾って、立体的なペーパークラフトの世界にする」ぷろんぷとです🫶\n\nいろんな人に使って欲しいーーーー！\n\n↓prompt↓ https://t.co/DR3irFLZof"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的❌｜点赞就是想找你玩│你们的恶我超喜欢的│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 67,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP6tL0"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "is_identity_verified": false,
+        "location": "tg天使治疗室👉",
+        "most_recent_tweet_id": "2101246688707162403",
+        "name": "🎀音恋✞Mia🎀（秋叶留未穗版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1584537561787428865/1730194250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 26,
+          "like_count": 8784,
+          "listed_count": 3,
+          "media_count": 273,
+          "tweet_count": 5303
+        },
+        "url": "https://t.co/LC1ydP6tL0",
+        "username": "HimeMiya_Nekoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-18T09:14:21.000Z",
+        "description": "Noël is the proof of an absence that exists.\n\n(@elle_elle_e) ←押すと揺れるよ👼🪽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "elle_elle_e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sousaku.ai/signin?share_c…",
+                "end": 23,
+                "expanded_url": "https://sousaku.ai/signin?share_code=0CFQRL",
+                "start": 0,
+                "url": "https://t.co/ZKXpWjLDDb"
+              }
+            ]
+          }
+        },
+        "id": "1891778218811850755",
+        "is_identity_verified": false,
+        "location": "とーきょー",
+        "most_recent_tweet_id": "2101246676312981940",
+        "name": "のえる",
+        "pinned_tweet_id": "2101106795699954076",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1891778218811850755/1777893965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051261366942703616/YsLQt96A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12429,
+          "following_count": 516,
+          "like_count": 27650,
+          "listed_count": 49,
+          "media_count": 1081,
+          "tweet_count": 5138
+        },
+        "url": "https://t.co/ZKXpWjLDDb",
+        "username": "elle_elle_e",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

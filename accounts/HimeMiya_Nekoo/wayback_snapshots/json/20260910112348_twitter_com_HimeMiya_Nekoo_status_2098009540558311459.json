@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2097973980187820245",
+    "created_at": "2026-09-10T11:23:48.000Z",
+    "display_text_range": [
+      16,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T12:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098009540558311459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1502162357111627783",
+          "start": 0,
+          "username": "xxxxx111222777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098009540558311459",
+    "in_reply_to_user_id": "1502162357111627783",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097973980187820245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxxx111222777 美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097973963708334080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2ANFbagAA9Byb.jpg",
+        "width": 1410
+      },
+      {
+        "height": 960,
+        "media_key": "3_2097973963217608704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2ANDmaoAADfmg.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2097973980187820245",
+        "created_at": "2026-09-10T11:23:48.000Z",
+        "display_text_range": [
+          16,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098009540558311459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1502162357111627783",
+              "start": 0,
+              "username": "xxxxx111222777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098009540558311459",
+        "in_reply_to_user_id": "1502162357111627783",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097973980187820245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxxx111222777 美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097973963708334080",
+            "3_2097973963217608704"
+          ]
+        },
+        "author_id": "1502162357111627783",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10049780740",
+              "name": "BLACK LAGOON"
+            }
+          }
+        ],
+        "conversation_id": "2097973980187820245",
+        "created_at": "2026-09-10T09:02:30.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T10:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097973980187820245"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 14,
+              "tag": "blacklagoon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WrsgfZkwCJ",
+              "end": 50,
+              "expanded_url": "https://x.com/xxxxx111222777/status/2097973980187820245/photo/1",
+              "media_key": "3_2097973963708334080",
+              "start": 27,
+              "url": "https://t.co/WrsgfZkwCJ"
+            },
+            {
+              "display_url": "pic.x.com/WrsgfZkwCJ",
+              "end": 50,
+              "expanded_url": "https://x.com/xxxxx111222777/status/2097973980187820245/photo/1",
+              "media_key": "3_2097973963217608704",
+              "start": 27,
+              "url": "https://t.co/WrsgfZkwCJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097973980187820245",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097973963708334080"
+          },
+          {
+            "media_key": "3_2097973963217608704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 9875,
+          "like_count": 720,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "p1拍得我好巨大我我很舒服\n#blacklagoon https://t.co/WrsgfZkwCJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的❌｜点赞就是想找你玩│我就差请和我交朋友写脸上了还不敢嘛│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/himemiya2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/himemiya2",
+                "start": 0,
+                "url": "https://t.co/3QLDwlDbPs"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "is_identity_verified": false,
+        "location": "天使治疗室👉",
+        "most_recent_tweet_id": "2098009540558311459",
+        "name": "🎀音恋✞Mia🎀（地雷妹版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1584537561787428865/1730194250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 26,
+          "like_count": 8572,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 5253
+        },
+        "url": "https://t.co/3QLDwlDbPs",
+        "username": "HimeMiya_Nekoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-11T06:00:12.000Z",
+        "description": "",
+        "id": "1502162357111627783",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097973980187820245",
+        "name": "ddddddove",
+        "pinned_tweet_id": "1924497146818298262",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1502162357111627783/1690828567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037359356438835200/gK-6GtRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20822,
+          "following_count": 117,
+          "like_count": 4598,
+          "listed_count": 76,
+          "media_count": 150,
+          "tweet_count": 209
+        },
+        "url": "",
+        "username": "xxxxx111222777",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

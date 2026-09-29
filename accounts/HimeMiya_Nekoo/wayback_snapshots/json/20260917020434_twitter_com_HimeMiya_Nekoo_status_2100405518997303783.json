@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2100228456915308719",
+    "created_at": "2026-09-17T02:04:34.000Z",
+    "display_text_range": [
+      26,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T03:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100405518997303783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1351578165043367939",
+          "start": 0,
+          "username": "fjy70005848"
+        },
+        {
+          "end": 25,
+          "id": "2011706034197577730",
+          "start": 13,
+          "username": "xixizi26111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100405518997303783",
+    "in_reply_to_user_id": "1351578165043367939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100228456915308719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fjy70005848 @xixizi26111 她家有八种门七种地板三种床六种落地镜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 246,
+        "media_key": "3_2100228188022702081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWCaNZbAAEC-uw.png",
+        "width": 404
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100228218670452736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWCb_kakAAW3Bk.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2100228456915308719",
+        "created_at": "2026-09-17T02:04:34.000Z",
+        "display_text_range": [
+          26,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T03:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100405518997303783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1351578165043367939",
+              "start": 0,
+              "username": "fjy70005848"
+            },
+            {
+              "end": 25,
+              "id": "2011706034197577730",
+              "start": 13,
+              "username": "xixizi26111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100405518997303783",
+        "in_reply_to_user_id": "1351578165043367939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100228456915308719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fjy70005848 @xixizi26111 她家有八种门七种地板三种床六种落地镜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100228188022702081",
+            "3_2100228218670452736"
+          ]
+        },
+        "author_id": "1351578165043367939",
+        "conversation_id": "2100228456915308719",
+        "created_at": "2026-09-16T14:20:59.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100228456915308719"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "女权"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "女权婊"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "反差"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "母狗"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "母猪"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "羞辱"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "败北"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "男尊女卑"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "调教"
+            },
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "肉便器"
+            },
+            {
+              "end": 82,
+              "start": 77,
+              "tag": "男尊女卑"
+            },
+            {
+              "end": 89,
+              "start": 83,
+              "tag": "coser"
+            },
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "魔法少女"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 32,
+              "id": "2011706034197577730",
+              "start": 20,
+              "username": "xixizi26111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsB0knHi0c",
+              "end": 119,
+              "expanded_url": "https://x.com/fjy70005848/status/2100228456915308719/photo/1",
+              "media_key": "3_2100228188022702081",
+              "start": 96,
+              "url": "https://t.co/nsB0knHi0c"
+            },
+            {
+              "display_url": "pic.x.com/nsB0knHi0c",
+              "end": 119,
+              "expanded_url": "https://x.com/fjy70005848/status/2100228456915308719/photo/1",
+              "media_key": "3_2100228218670452736",
+              "start": 96,
+              "url": "https://t.co/nsB0knHi0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100228456915308719",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100228188022702081"
+          },
+          {
+            "media_key": "3_2100228218670452736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1412,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这次的战利品是可爱的coser魔法少女呢@xixizi26111\n#女权 #女权婊 #反差 #母狗 #母猪 #羞辱 #败北 #男尊女卑 #调教 #肉便器 #男尊女卑 #coser #魔法少女 https://t.co/nsB0knHi0c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的❌｜点赞就是想找你玩│你们的恶我超喜欢的│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 67,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP6tL0"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "is_identity_verified": false,
+        "location": "tg天使治疗室👉",
+        "most_recent_tweet_id": "2100405518997303783",
+        "name": "🎀音恋✞Mia🎀（秋叶留未穗版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1584537561787428865/1730194250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 26,
+          "like_count": 8728,
+          "listed_count": 3,
+          "media_count": 271,
+          "tweet_count": 5288
+        },
+        "url": "https://t.co/LC1ydP6tL0",
+        "username": "HimeMiya_Nekoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-19T17:12:06.000Z",
+        "description": "喜欢用各种卑鄙手段击败女英雄的变态怪人",
+        "id": "1351578165043367939",
+        "is_identity_verified": false,
+        "location": "日本",
+        "most_recent_tweet_id": "2100228456915308719",
+        "name": "女英雄收集者",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801648827587563524/0GsCokHF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 518,
+          "like_count": 909,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "fjy70005848",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-15T07:44:38.000Z",
+        "description": "大一coser，🈚️🚪，赞赏码50加q，不要私信发🐔求求了，私信请礼貌只回关注",
+        "id": "2011706034197577730",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100255884509163815",
+        "name": "才不会听你们的话",
+        "pinned_tweet_id": "2031335266313531661",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011706333582577664/DGFm_max_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 366,
+          "like_count": 361,
+          "listed_count": 5,
+          "media_count": 89,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "xixizi26111",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

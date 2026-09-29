@@ -1,17 +1,17 @@
 {
-  "name": "🎀音恋✞Mia🎀（地雷妹版）",
+  "name": "🎀音恋✞Mia🎀（秋叶留未穗版）",
   "username": "@HimeMiya_Nekoo",
-  "bio": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的❌｜点赞就是想找你玩│我就差请和我交朋友写脸上了还不敢嘛│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
-  "location": "天使治疗室👉",
-  "link": "https://ngl.link/himemiya2",
+  "bio": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的❌｜点赞就是想找你玩│你们的恶我超喜欢的│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+  "location": "tg天使治疗室👉",
+  "link": "https://t.me/HimeMiya_Nekoo",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2037138242110427598",
   "bio_entities": {
     "mentions": [
       {
-        "end": 83,
-        "start": 75,
+        "end": 75,
+        "start": 67,
         "username": "UUUx_mm"
       }
     ]

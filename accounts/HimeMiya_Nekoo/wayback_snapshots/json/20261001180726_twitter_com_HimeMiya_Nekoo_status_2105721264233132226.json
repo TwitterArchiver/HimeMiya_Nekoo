@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1584537561787428865",
+    "conversation_id": "2105721264233132226",
+    "created_at": "2026-10-01T18:07:26.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T19:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105721264233132226"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2105721264233132226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人会下意识使出浑身解数、把自己拖进不幸福的状态里，说白了、人类最擅长的一件事就是亲手毁掉自己手里已经握有的幸福，因为人从一开始就不在追求幸福而是追求镜子里的另一面，人是会因为从深渊爬出来的瞬间而爽、同样也会因为坠入深渊而爽，其余的所有时间我们通常都会将其描述为无聊、烂、痛苦，失败"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584537561787428865",
+        "conversation_id": "2105721264233132226",
+        "created_at": "2026-10-01T18:07:26.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T19:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105721264233132226"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105721264233132226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人会下意识使出浑身解数、把自己拖进不幸福的状态里，说白了、人类最擅长的一件事就是亲手毁掉自己手里已经握有的幸福，因为人从一开始就不在追求幸福而是追求镜子里的另一面，人是会因为从深渊爬出来的瞬间而爽、同样也会因为坠入深渊而爽，其余的所有时间我们通常都会将其描述为无聊、烂、痛苦，失败"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-10-24T13:30:21.000Z",
+        "description": "♱.*･ﾟ 病み│ 中文/日本語○｜od│DM 〇 │ 治療中❌│地雷系界隈│我男的❌｜点赞就是想找你玩│你们的恶我超喜欢的│裏垢➡️@UUUx_mm｜只用企鹅不用其他🚪多少取决于我心情多好。 ﾟ･*.♱ 希望你们与他在过去相遇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 67,
+                "username": "UUUx_mm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HimeMiya_Nekoo",
+                "end": 23,
+                "expanded_url": "https://t.me/HimeMiya_Nekoo",
+                "start": 0,
+                "url": "https://t.co/LC1ydP6tL0"
+              }
+            ]
+          }
+        },
+        "id": "1584537561787428865",
+        "is_identity_verified": false,
+        "location": "tg天使治疗室👉",
+        "most_recent_tweet_id": "2105721264233132226",
+        "name": "🎀音恋✞Mia🎀（秋叶留未穗版）",
+        "pinned_tweet_id": "2037138242110427598",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1584537561787428865/1730194250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 27,
+          "like_count": 8842,
+          "listed_count": 3,
+          "media_count": 273,
+          "tweet_count": 5322
+        },
+        "url": "https://t.co/LC1ydP6tL0",
+        "username": "HimeMiya_Nekoo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
